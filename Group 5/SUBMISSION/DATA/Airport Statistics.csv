@@ -1,0 +1,11 @@
+Rank,IATA Code,Airport,"City, Country",Betweenness Score,Passenger Movement (2018),Cargo Movement in Tonnes (2018)
+1,LAX,Los Angeles International Airport,"Los Angeles, USA",837419.9,87534384,2209850
+2,FRA,Frankfurt am Main International Airport,"Frankfurt, Germany",819061.1,69510269,2176387
+3,ANC,Ted Stevens Anchorage International Airport,"Anchorage, USA",779059.3,5600000,2806743
+4,CDG,Charles de Gaulle Airport,"Paris, France",691502.8,72229723,2156327
+5,LHR,Heathrow Airport,"London, UK",610857.4,80126320,1771342
+6,ORD,O’Hare International Airport,"Chicago, USA",610586.4,83339186,1868880
+7,DXB,Dubai International Airport,"Dubai, UAE",587573,89149387,2641383
+8,SIN,Singapore Changi Airport,"Singapore, Singapore",574032,65628000,2195000
+9,PEK,Beijing Capital International Airport,"Beijing, China",554409.8,100983290,2074005
+10,GRU,São Paulo/Guarulhos–Governador André Franco Montoro International Airport,"Sao Paolo, Brazil",510378.7,42831981,305904

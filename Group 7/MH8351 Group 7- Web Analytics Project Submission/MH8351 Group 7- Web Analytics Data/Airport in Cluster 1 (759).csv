@@ -1,0 +1,760 @@
+ID,Name,City,Country,IATA,Continent
+21,Sault Ste Marie Airport,Sault Sainte Marie,Canada,YAM,North America
+73,Halifax / Stanfield International Airport,Halifax,Canada,YHZ,North America
+112,Red Deer Regional Airport,Red Deer Industrial,Canada,YQF,North America
+133,Sudbury Airport,Sudbury,Canada,YSB,North America
+168,Fort St John Airport,Fort Saint John,Canada,YXJ,North America
+182,Charlottetown Airport,Charlottetown,Canada,YYG,North America
+1759,Casa De Campo International Airport,La Romana,Dominican Republic,LRM,North America
+1779,Norman Manley International Airport,Kingston,Jamaica,KIN,North America
+1797,General Roberto Fierro Villalobos International Airport,Chihuahua,Mexico,CUU,North America
+1815,Del Bajío International Airport,Del Bajio,Mexico,BJX,North America
+1828,Quetzalcóatl International Airport,Nuevo Laredo,Mexico,NLD,North America
+1842,Ponciano Arriaga International Airport,San Luis Potosi,Mexico,SLP,North America
+1856,Ixtapa Zihuatanejo International Airport,Zihuatanejo,Mexico,ZIH,North America
+1895,Cap Haitien International Airport,Cap Haitien,Haiti,CAP,North America
+1925,Gerrard Smith International Airport,Cayman Brac,Cayman Islands,CYB,North America
+1949,Inagua Airport,Matthew Town,Bahamas,IGA,North America
+2673,José Joaquín de Olmedo International Airport,Guayaquil,Ecuador,GYE,South America
+2710,Ernesto Cortissoz International Airport,Barranquilla,Colombia,BAQ,South America
+2724,Perales Airport,Ibague,Colombia,IBE,South America
+2741,Guillermo León Valencia Airport,Popayan,Colombia,PPN,South America
+2753,El Caraño Airport,Quibdo,Colombia,UIB,South America
+2796,Capitan FAP Pedro Canga Rodriguez Airport,Tumbes,Peru,TBP,South America
+2844,Josefa Camejo International Airport,Paraguana,Venezuela,LSP,South America
+2860,Santa Elena de Uairen Airport,Santa Ana De Uairen,Venezuela,SNV,South America
+2882,Point Salines International Airport,Point Salines,Grenada,GND,North America
+2896,Flamingo International Airport,Kralendijk,Netherlands Antilles,BON,North America
+3428,St George Airport,Point Barrow,USA,STG,North America
+3457,Wichita Eisenhower National Airport,Wichita,USA,ICT,North America
+3484,Los Angeles International Airport,Los Angeles,USA,LAX,North America
+3513,Lake Charles Regional Airport,Lake Charles,USA,LCH,North America
+3542,Harrisburg International Airport,Harrisburg,USA,MDT,North America
+3566,William P Hobby Airport,Houston,USA,HOU,North America
+3596,Yuma MCAS/Yuma International Airport,Yuma,USA,YUM,North America
+3621,San Antonio International Airport,San Antonio,USA,SAT,North America
+3644,Bob Hope Airport,Burbank,USA,BUR,North America
+3665,Waynesville-St. Robert Regional Forney field,Fort Leonardwood,USA,TBN,North America
+3685,Gerald R. Ford International Airport,Grand Rapids,USA,GRR,North America
+3704,McKellar-Sipes Regional Airport,Jackson,USA,MKL,North America
+3719,Columbia Regional Airport,Columbia,USA,COU,North America
+3738,Brownsville South Padre Island International Airport,Brownsville,USA,BRO,North America
+3754,Middle Georgia Regional Airport,Macon,USA,MCN,North America
+3796,Kapalua Airport,Lahania-kapalua,USA,JHM,North America
+3824,Cedar City Regional Airport,Cedar City,USA,CDC,North America
+3848,Tyler Pounds Regional Airport,Tyler,USA,TYR,North America
+3864,Albany International Airport,Albany,USA,ALB,North America
+3881,Youngstown Warren Regional Airport,Youngstown,USA,YNG,North America
+4009,Joe Foss Field Airport,Sioux Falls,USA,FSD,North America
+4022,Bert Mooney Airport,Butte,USA,BTM,North America
+4040,Toledo Express Airport,Toledo,USA,TOL,North America
+4058,Venango Regional Airport,Franklin,USA,FKL,North America
+4099,Mahlon Sweet Field,Eugene,USA,EUG,North America
+4125,Utila Airport,Utila,Honduras,UII,North America
+4256,Lawton Fort Sill Regional Airport,Lawton,USA,LAW,North America
+4286,Wilkes Barre Scranton International Airport,Scranton,USA,AVP,North America
+4339,Yampa Valley Airport,Hayden,USA,HDN,North America
+5457,Anahim Lake Airport,Anahim Lake,Canada,YAA,North America
+5719,Walla Walla Regional Airport,Walla Walla,USA,ALW,North America
+5730,North Central West Virginia Airport,Clarksburg,USA,CKB,North America
+5742,Tri-State/Milton J. Ferguson Field,Huntington,USA,HTS,North America
+5757,Southwest Oregon Regional Airport,North Bend,USA,OTH,North America
+5769,Sheridan County Airport,Sheridan,USA,SHR,North America
+5809,Salt Cay Airport,Salt Cay,Turks and Caicos Islands,SLX,North America
+5959,Adak Airport,Adak Island,USA,ADK,North America
+6072,Juan Pablo Pérez Alfonso Airport,El Vigía,Venezuela,VIG,South America
+6738,Bella Coola Airport,Bella Coola,Canada,QBC,North America
+6883,Eastern Oregon Regional At Pendleton Airport,Pendleton,USA,PDT,North America
+7051,Gunnison Crested Butte Regional Airport,Gunnison,USA,GUC,North America
+7071,L M Clayton Airport,Wolf Point,USA,OLF,North America
+7359,Villa Garzón Airport,Villa Garzon,Colombia,VGZ,South America
+30,Campbell River Airport,Campbell River,Canada,YBL,North America
+77,Stephenville Airport,Stephenville,Canada,YJT,North America
+113,Windsor Airport,Windsor,Canada,YQG,North America
+135,Saint John Airport,St. John,Canada,YSJ,North America
+172,Prince George Airport,Prince George,Canada,YXS,North America
+184,Victoria International Airport,Victoria,Canada,YYJ,North America
+1760,Punta Cana International Airport,Punta Cana,Dominican Republic,PUJ,North America
+1780,Sangster International Airport,Montego Bay,Jamaica,MBJ,North America
+1798,General Pedro Jose Mendez International Airport,Ciudad Victoria,Mexico,CVM,North America
+1816,Manuel Márquez de León International Airport,La Paz,Mexico,LAP,North America
+1829,Xoxocotlán International Airport,Oaxaca,Mexico,OAX,North America
+1845,Francisco Sarabia International Airport,Torreon,Mexico,TRC,North America
+1858,Playa De Oro International Airport,Manzanillo,Mexico,ZLO,North America
+1897,Toussaint Louverture International Airport,Port-au-prince,Haiti,PAP,North America
+1926,Owen Roberts International Airport,Georgetown,Cayman Islands,GCM,North America
+1950,Deadman's Cay Airport,Dead Man's Cay,Bahamas,LGI,North America
+2678,Cotopaxi International Airport,Latacunga,Ecuador,LTX,South America
+2711,José Celestino Mutis Airport,Bahia Solano,Colombia,BSC,South America
+2725,San Luis Airport,Ipiales,Colombia,IPI,South America
+2742,Antonio Narino Airport,Pasto,Colombia,PSO,South America
+2755,Alfonso López Pumarejo Airport,Valledupar,Colombia,VUP,South America
+2801,Coronel FAP Francisco Secada Vignetta International Airport,Iquitos,Peru,IQT,South America
+2846,La Fria Airport,La Fria,Venezuela,LFR,South America
+2861,Mayor Buenaventura Vivas International Airport,Santo Domingo,Venezuela,STD,South America
+2883,Cyril E. King Airport,St. Thomas,Virgin Islands,STT,North America
+2897,Hato International Airport,Willemstad,Netherlands Antilles,CUR,North America
+3429,Iliamna Airport,Iliamna,USA,ILI,North America
+3458,Kansas City International Airport,Kansas City,USA,MCI,North America
+3486,Cleveland Hopkins International Airport,Cleveland,USA,CLE,North America
+3514,Ellison Onizuka Kona International At Keahole Airport,Kona,USA,KOA,North America
+3543,Lincoln Airport,Lincoln,USA,LNK,North America
+3570,Pittsburgh International Airport,Pittsburgh,USA,PIT,North America
+3597,Cavern City Air Terminal,Carlsbad,USA,CNM,North America
+3622,Greater Rochester International Airport,Rochester,USA,ROC,North America
+3645,Detroit Metropolitan Wayne County Airport,Detroit,USA,DTW,North America
+3670,Dallas Fort Worth International Airport,Dallas-Fort Worth,USA,DFW,North America
+3687,Fresno Yosemite International Airport,Fresno,USA,FAT,North America
+3705,Molokai Airport,Molokai,USA,MKK,North America
+3720,Portland International Airport,Portland,USA,PDX,North America
+3739,Dothan Regional Airport,Dothan,USA,DHN,North America
+3759,John Glenn Columbus International Airport,Columbus,USA,CMH,North America
+3797,John F Kennedy International Airport,New York,USA,JFK,North America
+3825,Bradley International Airport,Windsor Locks,USA,BDL,North America
+3849,Baltimore/Washington International Thurgood Marshall Airport,Baltimore,USA,BWI,North America
+3865,Valdez Pioneer Field,Valdez,USA,VDZ,North America
+3944,Pullman Moscow Regional Airport,Pullman,USA,PUW,North America
+4011,Manchester-Boston Regional Airport,Manchester NH,USA,MHT,North America
+4023,Cherry Capital Airport,Traverse City,USA,TVC,North America
+4041,Fort Wayne International Airport,Fort Wayne,USA,FWA,North America
+4063,Grand Junction Regional Airport,Grand Junction,USA,GJT,North America
+4100,Idaho Falls Regional Airport,Idaho Falls,USA,IDA,North America
+4127,Glacier Park International Airport,Kalispell,USA,FCA,North America
+4261,Flagstaff Pulliam Airport,Flagstaff,USA,FLG,North America
+4287,Bemidji Regional Airport,Bemidji,USA,BJI,North America
+4341,Liberal Mid-America Regional Airport,Liberal,USA,LBL,North America
+5470,Ogoki Post Airport,Ogoki Post,Canada,YOG,North America
+5720,Alpena County Regional Airport,Alpena,USA,APN,North America
+5732,Houghton County Memorial Airport,Hancock,USA,CMX,North America
+5744,Kirksville Regional Airport,Kirksville,USA,IRK,North America
+5758,Owensboro Daviess County Airport,Owensboro,USA,OWB,North America
+5770,Adirondack Regional Airport,Saranac Lake,USA,SLK,North America
+5810,Samaná El Catey International Airport,Samana,Dominican Republic,AZS,North America
+6045,San Cristóbal Airport,San Cristóbal,Ecuador,SCY,South America
+6079,Vance W. Amory International Airport,Charlestown,Saint Kitts and Nevis,NEV,North America
+6739,Hagerstown Regional Richard A Henson Field,Hagerstown,USA,HGR,North America
+6916,Pangborn Memorial Airport,Wenatchee,USA,EAT,North America
+7054,Manistee Co Blacker Airport,Manistee,USA,MBL,North America
+7073,San Luis Valley Regional Bergman Field,Alamosa,USA,ALS,North America
+7579,Provo Municipal Airport,Provo,USA,PVU,North America
+31,Brandon Municipal Airport,Brandon,Canada,YBR,North America
+78,Kamloops Airport,Kamloops,Canada,YKA,North America
+116,Lethbridge County Airport,Lethbridge,Canada,YQL,North America
+143,Timmins/Victor M. Power,Timmins,Canada,YTS,North America
+173,Northwest Regional Airport Terrace-Kitimat,Terrace,Canada,YXT,North America
+189,St. John's International Airport,St. John's,Canada,YYT,North America
+1761,Gregorio Luperon International Airport,Puerto Plata,Dominican Republic,POP,North America
+1783,General Juan N Alvarez International Airport,Acapulco,Mexico,ACA,North America
+1800,Cozumel International Airport,Cozumel,Mexico,CZM,North America
+1817,Loreto International Airport,Loreto,Mexico,LTO,North America
+1830,El Tajín National Airport,Poza Rico,Mexico,PAZ,North America
+1846,Angel Albino Corzo International Airport,Tuxtla Gutierrez,Mexico,TGZ,North America
+1863,Augusto C. Sandino (Managua) International Airport,Managua,Nicaragua,MGA,North America
+1901,Jardines Del Rey Airport,Cunagua,Cuba,CCC,North America
+1930,Leonard M Thompson International Airport,Marsh Harbor,Bahamas,MHH,North America
+1951,Stella Maris Airport,Stella Maris,Bahamas,SML,North America
+2680,Coronel E Carvajal Airport,Macas,Ecuador,XMS,South America
+2712,Gerardo Tobar López Airport,Buenaventura,Colombia,BUN,South America
+2726,Antonio Roldan Betancourt Airport,Carepa,Colombia,APO,South America
+2743,El Embrujo Airport,Providencia,Colombia,PVA,South America
+2756,Vanguardia Airport,Villavicencio,Colombia,VVC,South America
+2804,Capitan FAP Carlos Martinez De Pinillos International Airport,Trujillo,Peru,TRU,South America
+2848,La Chinita International Airport,Maracaibo,Venezuela,MAR,South America
+2864,San Tomé Airport,San Tome,Venezuela,SOM,South America
+2884,Henry E Rohlsen Airport,St. Croix Island,Virgin Islands,STX,North America
+2898,F. D. Roosevelt Airport,Oranjestad,Netherlands Antilles,EUX,North America
+3437,Fort Smith Regional Airport,Fort Smith,USA,FSM,North America
+3459,Dane County Regional Truax Field,Madison,USA,MSN,North America
+3488,Cincinnati Northern Kentucky International Airport,Cincinnati,USA,CVG,North America
+3515,Myrtle Beach International Airport,Myrtle Beach,USA,MYR,North America
+3544,Capital City Airport,Lansing,USA,LAN,North America
+3576,Miami International Airport,Miami,USA,MIA,North America
+3598,Duluth International Airport,Duluth,USA,DLH,North America
+3624,Teterboro Airport,Teterboro,USA,TEB,North America
+3646,Tampa International Airport,Tampa,USA,TPA,North America
+3671,Melbourne International Airport,Melbourne,USA,MLB,North America
+3689,Imperial County Airport,Imperial,USA,IPL,North America
+3708,San Angelo Regional Mathis Field,San Angelo,USA,SJT,North America
+3722,Palm Beach International Airport,West Palm Beach,USA,PBI,North America
+3743,Four Corners Regional Airport,Farmington,USA,FMN,North America
+3770,Texarkana Regional Webb Field,Texarkana,USA,TXK,North America
+3804,Cheyenne Regional Jerry Olson Field,Cheyenne,USA,CYS,North America
+3826,Mc Allen Miller International Airport,Mcallen,USA,MFE,North America
+3851,Lanai Airport,Lanai,USA,LNY,North America
+3867,John Wayne Airport-Orange County Airport,Santa Ana,USA,SNA,North America
+3945,Lewiston Nez Perce County Airport,Lewiston,USA,LWS,North America
+4012,Naples Municipal Airport,Naples,USA,APF,North America
+4024,Mundo Maya International Airport,Flores,Guatemala,FRS,North America
+4042,Decatur Airport,Decatur,USA,DEC,North America
+4064,St George Municipal Airport,Saint George,USA,SGU,North America
+4101,Rogue Valley International Medford Airport,Medford,USA,MFR,North America
+4128,MBS International Airport,Saginaw,USA,MBS,North America
+4263,Joslin Field Magic Valley Regional Airport,Twin Falls,USA,TWF,North America
+4292,Hector International Airport,Fargo,USA,FAR,North America
+4344,Yellowstone Regional Airport,Cody,USA,COD,North America
+5491,Fort Hope Airport,Fort Hope,Canada,YFH,North America
+5721,Watertown Regional Airport,Watertown,USA,ATY,North America
+5733,Dodge City Regional Airport,Dodge City,USA,DDC,North America
+5746,Laramie Regional Airport,Laramie,USA,LAR,North America
+5759,Hattiesburg Laurel Regional Airport,Hattiesburg/Laurel,USA,PIB,North America
+5771,Salina Municipal Airport,Salina,USA,SLN,North America
+5811,La Isabela International Airport,La Isabela,Dominican Republic,JBQ,North America
+6046,Camilo Ponce Enriquez Airport,La Toma (Catamayo),Ecuador,LOH,South America
+6080,Virgin Gorda Airport,Spanish Town,British Virgin Islands,VIJ,North America
+6740,Araracuara Airport,Araracuara,Colombia,ACR,South America
+6945,Drake Bay Airport,Puntarenas,Costa Rica,DRK,North America
+7056,Charlotte County Airport,Punta Gorda,USA,PGD,North America
+7074,Canyonlands Field,Moab,USA,CNY,North America
+7584,Los Alamos Airport,Los Alamos,USA,LAM,North America
+33,Nanaimo Airport,Nanaimo,Canada,YCD,North America
+79,Waterloo Airport,Waterloo,Canada,YKF,North America
+117,Greater Moncton International Airport,Moncton,Canada,YQM,North America
+144,Billy Bishop Toronto City Centre Airport,Toronto,Canada,YTZ,North America
+174,London Airport,London,Canada,YXU,North America
+190,Kapuskasing Airport,Kapuskasing,Canada,YYU,North America
+1762,Las Américas International Airport,Santo Domingo,Dominican Republic,SDQ,North America
+1785,Jesús Terán Paredo International Airport,Aguascalientes,Mexico,AGU,North America
+1801,General Guadalupe Victoria International Airport,Durango,Mexico,DGO,North America
+1818,General Servando Canales International Airport,Matamoros,Mexico,MAM,North America
+1831,Hermanos Serdán International Airport,Puebla,Mexico,PBC,North America
+1847,General Abelardo L. Rodríguez International Airport,Tijuana,Mexico,TIJ,North America
+1871,Tocumen International Airport,Panama City,Panama,PTY,North America
+1903,Vilo Acuña International Airport,Cayo Largo del Sur,Cuba,CYO,North America
+1932,Spring Point Airport,Spring Point,Bahamas,AXP,North America
+1952,Mayaguana Airport,Mayaguana,Bahamas,MYG,North America
+2683,Eloy Alfaro International Airport,Manta,Ecuador,MEC,South America
+2713,Camilo Daza International Airport,Cucuta,Colombia,CUC,South America
+2728,Alfredo Vásquez Cobo International Airport,Leticia,Colombia,LET,South America
+2745,Jose Maria Córdova International Airport,Rio Negro,Colombia,MDE,South America
+2773,Johan Adolf Pengel International Airport,Zandery,Suriname,PBM,South America
+2806,Cadete FAP Guillermo Del Castillo Paredes Airport,Tarapoto,Peru,TPP,South America
+2849,Alberto Carnevalli Airport,Merida,Venezuela,MRD,South America
+2868,Arturo Michelena International Airport,Valencia,Venezuela,VLN,South America
+2885,Rafael Hernandez Airport,Aguadilla,Puerto Rico,BQN,North America
+2899,Princess Juliana International Airport,Philipsburg,Netherlands Antilles,SXM,North America
+3442,Grand Forks International Airport,Grand Forks,USA,GFK,North America
+3461,Boone County Airport,Harrison,USA,HRO,North America
+3491,Huron Regional Airport,Huron,USA,HON,North America
+3517,Nantucket Memorial Airport,Nantucket,USA,ACK,North America
+3545,Waimea Kohala Airport,Kamuela,USA,MUE,North America
+3577,Seattle Tacoma International Airport,Seattle,USA,SEA,North America
+3602,Lihue Airport,Lihue,USA,LIH,North America
+3626,Raleigh Durham International Airport,Raleigh-durham,USA,RDU,North America
+3650,Range Regional Airport,Hibbing,USA,HIB,North America
+3673,Austin Bergstrom International Airport,Austin,USA,AUS,North America
+3690,Nashville International Airport,Nashville,USA,BNA,North America
+3710,Chico Municipal Airport,Chico,USA,CIC,North America
+3724,Ogdensburg International Airport,Ogdensburg,USA,OGS,North America
+3744,Corpus Christi International Airport,Corpus Christi,USA,CRP,North America
+3771,Plattsburgh International Airport,Plattsburgh,USA,PBG,North America
+3805,Stockton Metropolitan Airport,Stockton,USA,SCK,North America
+3829,Lubbock Preston Smith International Airport,Lubbock,USA,LBB,North America
+3852,Alexandria International Airport,Alexandria,USA,AEX,North America
+3872,Casper-Natrona County International Airport,Casper,USA,CPR,North America
+3946,Elmira Corning Regional Airport,Elmira,USA,ELM,North America
+4014,Louisville International Standiford Field,Louisville,USA,SDF,North America
+4025,Hancock County-Bar Harbor Airport,Bar Harbor,USA,BHB,North America
+4043,The Eastern Iowa Airport,Cedar Rapids,USA,CID,North America
+4067,Sarasota Bradenton International Airport,Sarasota,USA,SRQ,North America
+4103,Roberts Field,Redmond-Bend,USA,RDM,North America
+4129,Greater Binghamton/Edwin A Link field,Binghamton,USA,BGM,North America
+4265,Martha's Vineyard Airport,Vineyard Haven MA,USA,MVY,North America
+4296,Gillette Campbell County Airport,Gillette,USA,GCC,North America
+4348,Springfield Branson National Airport,Springfield,USA,SGF,North America
+5510,Lansdowne House Airport,Lansdowne House,Canada,YLH,North America
+5722,Bradford Regional Airport,Bradford,USA,BFD,North America
+5734,DuBois Regional Airport,Du Bois,USA,DUJ,North America
+5747,Arnold Palmer Regional Airport,Latrobe,USA,LBE,North America
+5760,Pocatello Regional Airport,Pocatello,USA,PIH,North America
+5772,Santa Maria Pub/Capt G Allan Hancock Field,Santa Maria,USA,SMX,North America
+5832,Puerto Lempira Airport,Puerto Lempira,Honduras,PEU,North America
+6047,General Rivadeneira Airport,Esmeraldas,Ecuador,ESM,South America
+6130,Mid Delta Regional Airport,Greenville,USA,GLH,North America
+6742,Sand Point Airport,Sand Point,USA,SDP,North America
+6957,Brainerd Lakes Regional Airport,Brainerd,USA,BRD,North America
+7059,Chautauqua County-Jamestown Airport,Jamestown,USA,JHW,North America
+7076,Vernal Regional Airport,Vernal,USA,VEL,North America
+7657,Morristown Municipal Airport,Morristown,USA,MMU,North America
+34,Castlegar/West Kootenay Regional Airport,Castlegar,Canada,YCG,North America
+85,Lloydminster Airport,Lloydminster,Canada,YLL,North America
+119,Comox Airport,Comox,Canada,YQQ,North America
+146,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,YUL,North America
+175,Abbotsford Airport,Abbotsford,Canada,YXX,North America
+193,Lester B. Pearson International Airport,Toronto,Canada,YYZ,North America
+1764,Cibao International Airport,Santiago,Dominican Republic,STI,North America
+1786,Bahías de Huatulco International Airport,Huatulco,Mexico,HUX,North America
+1802,Amado Nervo National Airport,Tepic,Mexico,TPQ,North America
+1819,Licenciado Manuel Crescencio Rejon Int Airport,Merida,Mexico,MID,North America
+1834,Piedras Negras International Airport,Piedras Negras,Mexico,PDS,North America
+1848,General Francisco Javier Mina International Airport,Tampico,Mexico,TAM,North America
+1879,Golfito Airport,Golfito,Costa Rica,GLF,North America
+1904,Ignacio Agramonte International Airport,Camaguey,Cuba,CMW,North America
+1934,Treasure Cay Airport,Treasure Cay,Bahamas,TCB,North America
+1953,Lynden Pindling International Airport,Nassau,Bahamas,NAS,North America
+2688,Mariscal Sucre International Airport,Quito,Ecuador,UIO,South America
+2714,Rafael Nuñez International Airport,Cartagena,Colombia,CTG,South America
+2729,Enrique Olaya Herrera Airport,Medellin,Colombia,EOH,South America
+2746,Almirante Padilla Airport,Rio Hacha,Colombia,RCH,South America
+2774,Cayenne-Rochambeau Airport,Cayenne,French Guiana,CAY,South America
+2809,Capitán FAP Guillermo Concha Iberico International Airport,Piura,Peru,PIU,South America
+2850,Del Caribe Santiago Mariño International Airport,Porlamar,Venezuela,PMV,South America
+2870,Dr. Antonio Nicolás Briceño Airport,Valera,Venezuela,VLV,South America
+2888,Eugenio Maria De Hostos Airport,Mayaguez,Puerto Rico,MAZ,North America
+2900,Clayton J Lloyd International Airport,The Valley,Anguilla,AXA,North America
+3445,Hana Airport,Hana,USA,HNM,North America
+3462,Phoenix Sky Harbor International Airport,Phoenix,USA,PHX,North America
+3493,Lafayette Regional Airport,Lafayette,USA,LFT,North America
+3520,Ronald Reagan Washington National Airport,Washington,USA,DCA,North America
+3546,Massena International Richards Field,Massena,USA,MSS,North America
+3578,Lovell Field,Chattanooga,USA,CHA,North America
+3604,Havre City County Airport,Havre,USA,HVR,North America
+3627,James M Cox Dayton International Airport,Dayton,USA,DAY,North America
+3652,Midland International Airport,Midland,USA,MAF,North America
+3674,Rickenbacker International Airport,Columbus,USA,LCK,North America
+3691,Laredo International Airport,Laredo,USA,LRD,North America
+3711,Burlington International Airport,Burlington,USA,BTV,North America
+3728,Daniel K Inouye International Airport,Honolulu,USA,HNL,North America
+3745,Syracuse Hancock International Airport,Syracuse,USA,SYR,North America
+3774,Ted Stevens Anchorage International Airport,Anchorage,USA,ANC,North America
+3806,Charleston Air Force Base-International Airport,Charleston,USA,CHS,North America
+3830,Chicago O'Hare International Airport,Chicago,USA,ORD,North America
+3855,Tulsa International Airport,Tulsa,USA,TUL,North America
+3873,Destin-Ft Walton Beach Airport,Valparaiso,USA,VPS,North America
+3947,Ithaca Tompkins Regional Airport,Ithaca,USA,ITH,North America
+4015,Charlottesville Albemarle Airport,Charlottesville VA,USA,CHO,North America
+4026,Knox County Regional Airport,Rockland,USA,RKD,North America
+4044,La Crosse Municipal Airport,La Crosse,USA,LSE,North America
+4069,L.F. Wade International International Airport,Bermuda,Bermuda,BDA,North America
+4112,Akron Canton Regional Airport,Akron,USA,CAK,North America
+4167,Orlando Sanford International Airport,Sanford,USA,SFB,North America
+4271,St Cloud Regional Airport,Saint Cloud,USA,STC,North America
+4304,Cheddi Jagan International Airport,Georgetown,Guyana,GEO,South America
+4354,Joplin Regional Airport,Joplin,USA,JLN,North America
+5523,Powell River Airport,Powell River,Canada,YPW,North America
+5723,Western Neb. Rgnl/William B. Heilig Airport,Scottsbluff,USA,BFF,North America
+5735,Chippewa Valley Regional Airport,Eau Claire,USA,EAU,North America
+5748,North Platte Regional Airport Lee Bird Field,North Platte,USA,LBF,North America
+5761,Pierre Regional Airport,Pierre,USA,PIR,North America
+5773,Tupelo Regional Airport,Tupelo,USA,TUP,North America
+5837,El Lencero Airport,Jalapa,Mexico,JAL,North America
+6051,Caucaya Airport,Puerto Leguízamo,Colombia,LQM,South America
+6133,Tri Cities Airport,Pasco,USA,PSC,North America
+6788,Vieques Airport,Vieques Island,Puerto Rico,VQS,North America
+6958,Greenbrier Valley Airport,Lewisburg,USA,LWB,North America
+7062,Shenandoah Valley Regional Airport,Weyers Cave,USA,SHD,North America
+7078,Show Low Regional Airport,Show Low,USA,SOW,North America
+7669,Northwest Florida Beaches International Airport,Panama City,USA,ECP,North America
+45,Deer Lake Airport,Deer Lake,Canada,YDF,North America
+87,Kelowna International Airport,Kelowna,Canada,YLW,North America
+120,Regina International Airport,Regina,Canada,YQR,North America
+156,Vancouver International Airport,Vancouver,Canada,YVR,North America
+176,Whitehorse / Erik Nielsen International Airport,Whitehorse,Canada,YXY,North America
+198,Sandspit Airport,Sandspit,Canada,YZP,North America
+1767,La Aurora Airport,Guatemala City,Guatemala,GUA,North America
+1789,Ciudad del Carmen International Airport,Ciudad Del Carmen,Mexico,CME,North America
+1804,Don Miguel Hidalgo Y Costilla International Airport,Guadalajara,Mexico,GDL,North America
+1820,General Rodolfo Sánchez Taboada International Airport,Mexicali,Mexico,MXL,North America
+1835,Licenciado y General Ignacio Lopez Rayon Airport,Uruapan,Mexico,UPN,North America
+1850,Licenciado Adolfo Lopez Mateos International Airport,Toluca,Mexico,TLC,North America
+1881,Daniel Oduber Quiros International Airport,Liberia,Costa Rica,LIR,North America
+1905,Antonio Maceo International Airport,Santiago De Cuba,Cuba,SCU,North America
+1937,South Bimini Airport,Alice Town,Bahamas,BIM,North America
+1956,San Salvador Airport,Cockburn Town,Bahamas,ZSA,North America
+2690,Santa Rosa International Airport,Santa Rosa,Ecuador,ETR,South America
+2715,Alfonso Bonilla Aragon International Airport,Cali,Colombia,CLO,South America
+2731,Los Garzones Airport,Monteria,Colombia,MTR,South America
+2747,Jorge E. Gonzalez Torres Airport,San Jose Del Guaviare,Colombia,SJE,South America
+2781,Cap FAP David Abenzur Rengifo International Airport,Pucallpa,Peru,PCL,South America
+2821,General José Antonio Anzoategui International Airport,Barcelona,Venezuela,BLA,South America
+2851,Simón Bolívar International Airport,Caracas,Venezuela,CCS,South America
+2874,V.C. Bird International Airport,Antigua,Antigua and Barbuda,ANU,North America
+2889,Mercedita Airport,Ponce,Puerto Rico,PSE,North America
+2901,Tobago-Crown Point Airport,Scarborough,Trinidad and Tobago,TAB,North America
+3446,Ernest A. Love Field,Prescott,USA,PRC,North America
+3463,Bangor International Airport,Bangor,USA,BGR,North America
+3494,Newark Liberty International Airport,Newark,USA,EWR,North America
+3524,Atlantic City International Airport,Atlantic City,USA,ACY,North America
+3550,George Bush Intercontinental Houston Airport,Houston,USA,IAH,North America
+3580,Jackson-Medgar Wiley Evers International Airport,Jackson,USA,JAN,North America
+3608,Richmond International Airport,Richmond,USA,RIC,North America
+3628,Kenai Municipal Airport,Kenai,USA,ENA,North America
+3653,Austin Straubel International Airport,Green Bay,USA,GRB,North America
+3675,Sawyer International Airport,Gwinn,USA,MQT,North America
+3694,Altoona Blair County Airport,Altoona,USA,AOO,North America
+3712,Jacksonville International Airport,Jacksonville,USA,JAX,North America
+3729,Des Moines International Airport,Des Moines,USA,DSM,North America
+3747,Chicago Midway International Airport,Chicago,USA,MDW,North America
+3775,Robert Gray  Army Air Field Airport,Killeen,USA,GRK,North America
+3807,Reno Tahoe International Airport,Reno,USA,RNO,North America
+3838,Watertown International Airport,Watertown,USA,ART,North America
+3857,Long Island Mac Arthur Airport,Islip,USA,ISP,North America
+3875,Key West International Airport,Key West,USA,EYW,North America
+3948,Monterey Peninsula Airport,Monterey,USA,MRY,North America
+4016,Roanoke–Blacksburg Regional Airport,Roanoke VA,USA,ROA,North America
+4027,Jackson Hole Airport,Jacksn Hole,USA,JAC,North America
+4045,Central Wisconsin Airport,Wassau,USA,CWA,North America
+4072,Quad City International Airport,Moline,USA,MLI,North America
+4113,Huntsville International Carl T Jones Field,Huntsville,USA,HSV,North America
+4169,John Murtha Johnstown Cambria County Airport,Johnstown,USA,JST,North America
+4273,Golden Triangle Regional Airport,Columbus Mississippi,USA,GTR,North America
+4306,Eugene F. Correira International Airport,Georgetown,Guyana,OGL,South America
+4355,Lehigh Valley International Airport,Allentown,USA,ABE,North America
+5533,Webequie Airport,Webequie,Canada,YWP,North America
+5724,Raleigh County Memorial Airport,Beckley,USA,BKW,North America
+5736,Elko Regional Airport,Elko,USA,EKO,North America
+5749,Lebanon Municipal Airport,Lebanon,USA,LEB,North America
+5762,Pellston Regional Airport of Emmet County Airport,Pellston,USA,PLN,North America
+5774,Quincy Regional Baldwin Field,Quincy,USA,UIN,North America
+5842,Aerotortuguero Airport,Roxana,Costa Rica,TTQ,North America
+6052,La Pedrera Airport,La Pedrera,Colombia,LPD,South America
+6426,Worcester Regional Airport,Worcester,USA,ORH,North America
+6800,Delta County Airport,Escanaba,USA,ESC,North America
+6959,Pitt Greenville Airport,Greenville,USA,PGV,North America
+7064,Dickinson Theodore Roosevelt Regional Airport,Dickinson,USA,DIK,North America
+7081,Mammoth Yosemite Airport,Mammoth Lakes,USA,MMH,North America
+8223,Trail Airport,Trail,Canada,YZZ,North America
+48,Dawson Creek Airport,Dawson Creek,Canada,YDQ,North America
+90,Fort McMurray Airport,Fort Mcmurray,Canada,YMM,North America
+121,Thunder Bay Airport,Thunder Bay,Canada,YQT,North America
+160,Winnipeg / James Armstrong Richardson International Airport,Winnipeg,Canada,YWG,North America
+177,North Bay Jack Garland Airport,North Bay,Canada,YYB,North America
+199,Chris Hadfield Airport,Sarnia,Canada,YZR,North America
+1771,Goloson International Airport,La Ceiba,Honduras,LCE,North America
+1792,Bachigualato Federal International Airport,Culiacan,Mexico,CUL,North America
+1807,General Ignacio P. Garcia International Airport,Hermosillo,Mexico,HMO,North America
+1821,General Francisco J. Mujica International Airport,Morelia,Mexico,MLM,North America
+1836,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,Mexico,PVR,North America
+1851,Tapachula International Airport,Tapachula,Mexico,TAP,North America
+1884,Nosara Airport,Nosara Beach,Costa Rica,NOB,North America
+1908,Mariana Grajales Airport,Guantanamo,Cuba,GAO,North America
+1941,Exuma International Airport,Great Exuma,Bahamas,GGT,North America
+1957,Philip S. W. Goldson International Airport,Belize City,Belize,BZE,North America
+2697,Teniente Coronel Luis a Mantilla Airport,Tulcan,Ecuador,TUA,South America
+2716,La Florida Airport,Tumaco,Colombia,TCO,South America
+2732,Fabio Alberto Leon Bentley Airport,Mitu,Colombia,MVP,South America
+2748,Simón Bolívar International Airport,Santa Marta,Colombia,SMR,South America
+2785,Capitan FAP Jose A Quinones Gonzales International Airport,Chiclayo,Peru,CIX,South America
+2822,Barinas Airport,Barinas,Venezuela,BNS,South America
+2852,Maturín Airport,Maturin,Venezuela,MUN,South America
+2875,Sir Grantley Adams International Airport,Bridgetown,Barbados,BGI,North America
+2890,Luis Munoz Marin International Airport,San Juan,Puerto Rico,SJU,North America
+2902,Piarco International Airport,Port-of-spain,Trinidad and Tobago,POS,North America
+3447,Trenton Mercer Airport,Trenton,USA,TTN,North America
+3465,East Texas Regional Airport,Longview,USA,GGG,North America
+3495,Boise Air Terminal/Gowen Field,Boise,USA,BOI,North America
+3527,Pueblo Memorial Airport,Pueblo,USA,PUB,North America
+3558,Meadows Field,Bakersfield,USA,BFL,North America
+3582,Long Beach /Daugherty Field/ Airport,Long Beach,USA,LGB,North America
+3609,Shreveport Regional Airport,Shreveport,USA,SHV,North America
+3630,Niagara Falls International Airport,Niagara Falls,USA,IAG,North America
+3658,Augusta Regional At Bush Field,Bush Field,USA,AGS,North America
+3676,McGhee Tyson Airport,Knoxville,USA,TYS,North America
+3696,South Arkansas Regional At Goodwin Field,El Dorado,USA,ELD,North America
+3713,Durango La Plata County Airport,Durango,USA,DRO,North America
+3730,Coastal Carolina Regional Airport,New Bern,USA,EWN,North America
+3748,Norman Y. Mineta San Jose International Airport,San Jose,USA,SJC,North America
+3777,Bellingham International Airport,Bellingham,USA,BLI,North America
+3811,Birmingham-Shuttlesworth International Airport,Birmingham,USA,BHM,North America
+3839,Palm Springs International Airport,Palm Springs,USA,PSP,North America
+3858,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minneapolis,USA,MSP,North America
+3876,Charlotte Douglas International Airport,Charlotte,USA,CLT,North America
+3949,Santa Barbara Municipal Airport,Santa Barbara,USA,SBA,North America
+4017,Blue Grass Airport,Lexington KY,USA,LEX,North America
+4028,Chicago Rockford International Airport,Rockford,USA,RFD,North America
+4046,General Wayne A. Downing Peoria International Airport,Peoria,USA,PIA,North America
+4083,Bismarck Municipal Airport,Bismarck,USA,BIS,North America
+4114,Mid Ohio Valley Regional Airport,PARKERSBURG,USA,PKB,North America
+4216,Missoula International Airport,Missoula,USA,MSO,North America
+4276,Erie International Tom Ridge Field,Erie,USA,ERI,North America
+4314,Edward Bodden Airfield,Little Cayman,Cayman Islands,LYB,North America
+4356,Northwest Arkansas Regional Airport,Bentonville,USA,XNA,North America
+5545,Masset Airport,Masset,Canada,ZMT,North America
+5725,Brunswick Golden Isles Airport,Brunswick,USA,BQK,North America
+5737,New Bedford Regional Airport,New Bedford,USA,EWB,North America
+5750,Crater Lake-Klamath Regional Airport,Klamath Falls,USA,LMT,North America
+5763,Portsmouth International at Pease Airport,Portsmouth,USA,PSM,North America
+5775,Victoria Regional Airport,Victoria,USA,VCT,North America
+5844,Cabo Velas Airport,Nicoya,Costa Rica,\N,North America
+6053,Reyes Murillo Airport,Nuquí,Colombia,NQU,South America
+6456,Provincetown Municipal Airport,Provincetown,USA,PVC,North America
+6814,Benjamin Rivera Noriega Airport,Culebra Island,Puerto Rico,CPX,North America
+6962,Branson Airport,Branson,USA,BKG,North America
+7065,Sidney - Richland Regional Airport,Sidney,USA,SDY,North America
+7121,Visalia Municipal Airport,Visalia,USA,VIS,North America
+8227,Birchwood Airport,Belmopan,Belize,\N,North America
+49,Edmonton International Airport,Edmonton,Canada,YEG,North America
+99,High Level Airport,High Level,Canada,YOJ,North America
+122,Grande Prairie Airport,Grande Prairie,Canada,YQU,North America
+162,Williams Lake Airport,Williams Lake,Canada,YWL,North America
+178,Calgary International Airport,Calgary,Canada,YYC,North America
+200,Port Hardy Airport,Port Hardy,Canada,YZT,North America
+1772,Ramón Villeda Morales International Airport,San Pedro Sula,Honduras,SAP,North America
+1793,Chetumal International Airport,Chetumal,Mexico,CTM,North America
+1808,Licenciado Miguel de la Madrid Airport,Colima,Mexico,CLQ,North America
+1822,Minatitlán/Coatzacoalcos National Airport,Minatitlan,Mexico,MTT,North America
+1837,Puerto Escondido International Airport,Puerto Escondido,Mexico,PXM,North America
+1852,Cancún International Airport,Cancun,Mexico,CUN,North America
+1885,Juan Santamaria International Airport,San Jose,Costa Rica,SJO,North America
+1909,José Martí International Airport,Havana,Cuba,HAV,North America
+1943,North Eleuthera Airport,North Eleuthera,Bahamas,ELH,North America
+1970,Pago Pago International Airport,Pago Pago,American Samoa,PPG,Oceania
+2705,El Eden Airport,Armenia,Colombia,AXM,South America
+2717,Las Brujas Airport,Corozal,Colombia,CZU,South America
+2733,La Nubia Airport,Manizales,Colombia,MZL,South America
+2749,Gustavo Rojas Pinilla International Airport,San Andres Island,Colombia,ADZ,South America
+2786,Coronel FAP Alfredo Mendivil Duarte Airport,Ayacucho,Peru,AYP,South America
+2824,Barquisimeto International Airport,Barquisimeto,Venezuela,BRM,South America
+2853,Cacique Aramare Airport,Puerto Ayacucho,Venezuela,PYH,South America
+2877,Douglas-Charles Airport,Dominica,Dominica,DOM,North America
+2891,Robert L. Bradshaw International Airport,Basse Terre,Saint Kitts and Nevis,SKB,North America
+2903,Terrance B. Lettsome International Airport,Tortola,British Virgin Islands,EIS,North America
+3448,General Edward Lawrence Logan International Airport,Boston,USA,BOS,North America
+3467,Spokane International Airport,Spokane,USA,GEG,North America
+3497,Garden City Regional Airport,Garden City,USA,GCK,North America
+3528,Northern Maine Regional Airport at Presque Isle,Presque Isle,USA,PQI,North America
+3559,El Paso International Airport,El Paso,USA,ELP,North America
+3584,Williamsport Regional Airport,Williamsport,USA,IPT,North America
+3611,Norfolk International Airport,Norfolk,USA,ORF,North America
+3633,Newport News Williamsburg International Airport,Newport News,USA,PHF,North America
+3659,Sloulin Field International Airport,Williston,USA,ISN,North America
+3678,St Louis Lambert International Airport,St. Louis,USA,STL,North America
+3697,La Guardia Airport,New York,USA,LGA,North America
+3714,Washington Dulles International Airport,Washington,USA,IAD,North America
+3731,San Diego International Airport,San Diego,USA,SAN,North America
+3749,Lea County Regional Airport,Hobbs,USA,HOB,North America
+3782,Mobile Regional Airport,Mobile,USA,MOB,North America
+3816,Modesto City Co-Harry Sham Field,Modesto,USA,MOD,North America
+3840,Rick Husband Amarillo International Airport,Amarillo,USA,AMA,North America
+3859,New Castle Airport,Wilmington,USA,ILG,North America
+3877,McCarran International Airport,Las Vegas,USA,LAS,North America
+3950,Daytona Beach International Airport,Daytona Beach,USA,DAB,North America
+4018,Evansville Regional Airport,Evansville,USA,EVV,North America
+4034,Greenville Spartanburg International Airport,Greenville,USA,GSP,North America
+4047,Appleton International Airport,Appleton,USA,ATW,North America
+4087,Rapid City Regional Airport,Rapid City,USA,RAP,North America
+4115,Montgomery Regional (Dannelly Field) Airport,MONTGOMERY,USA,MGM,North America
+4219,Grand Canyon National Park Airport,Grand Canyon,USA,GCN,North America
+4278,Barnstable Municipal Boardman Polando Field,Barnstable,USA,HYA,North America
+4318,University Park Airport,State College Pennsylvania,USA,SCE,North America
+4359,South Bend Regional Airport,South Bend,USA,SBN,North America
+5714,Aberdeen Regional Airport,Aberdeen,USA,ABR,North America
+5726,Southeast Iowa Regional Airport,Burlington,USA,BRL,North America
+5738,Fayetteville Regional Grannis Field,Fayetteville,USA,FAY,North America
+5751,Lancaster Airport,Lancaster,USA,LNS,North America
+5765,Rhinelander Oneida County Airport,Rhinelander,USA,RHI,North America
+5776,Valdosta Regional Airport,Valdosta,USA,VLD,North America
+5847,Puerto Jimenez Airport,Puerto Jimenez,Costa Rica,PJM,North America
+6054,Obando Airport,Puerto Inírida,Colombia,PDA,South America
+6460,Gustaf III Airport,Gustavia,France,SBH,Europe
+6825,Williamson County Regional Airport,Marion,USA,MWA,North America
+6989,Northeast Florida Regional Airport,St. Augustine Airport,USA,UST,North America
+7066,Chadron Municipal Airport,Chadron,USA,CDR,North America
+7122,Merced Regional Macready Field,Merced,USA,MCE,North America
+8314,Hilton Head Airport,Hilton Head Island,USA,HHH,North America
+56,Fredericton Airport,Fredericton,Canada,YFC,North America
+100,Ottawa Macdonald-Cartier International Airport,Ottawa,Canada,YOW,North America
+125,Gander International Airport,Gander,Canada,YQX,North America
+164,Cranbrook/Canadian Rockies International Airport,Cranbrook,Canada,YXC,North America
+179,Smithers Airport,Smithers,Canada,YYD,North America
+1441,St Pierre Airport,St.-pierre,Saint Pierre and Miquelon,FSP,North America
+1773,La Laguna Airport,Guanaja,Honduras,GJA,North America
+1794,Ciudad Obregón International Airport,Ciudad Obregon,Mexico,CEN,North America
+1810,Plan De Guadalupe International Airport,Saltillo,Mexico,SLW,North America
+1824,Licenciado Benito Juarez International Airport,Mexico City,Mexico,MEX,North America
+1838,Querétaro Intercontinental Airport,Queretaro,Mexico,QRO,North America
+1853,Carlos Rovirosa Pérez International Airport,Villahermosa,Mexico,VSA,North America
+1887,Palmar Sur Airport,Palmar Sur,Costa Rica,PMZ,North America
+1910,Frank Pais International Airport,Holguin,Cuba,HOG,North America
+1944,Governor's Harbour Airport,Governor's Harbor,Bahamas,GHB,North America
+2670,Francisco De Orellana Airport,Coca,Ecuador,OCC,South America
+2706,Tres De Mayo Airport,Puerto Asis,Colombia,PUU,South America
+2718,Yariguíes Airport,Barrancabermeja,Colombia,EJA,South America
+2734,Benito Salas Airport,Neiva,Colombia,NVA,South America
+2750,Eduardo Falla Solano Airport,San Vincente De Caguan,Colombia,SVI,South America
+2787,Andahuaylas Airport,Andahuaylas,Peru,ANS,South America
+2830,Canaima Airport,Canaima,Venezuela,CAJ,South America
+2854,General Bartolome Salom International Airport,Puerto Cabello,Venezuela,PBL,South America
+2878,Martinique Aimé Césaire International Airport,Fort-de-france,Martinique,FDF,North America
+2893,George F. L. Charles Airport,Castries,Saint Lucia,SLU,North America
+2907,Argyle International Airport,Kingstown,Saint Vincent and the Grenadines,SVD,North America
+3453,Metropolitan Oakland International Airport,Oakland,USA,OAK,North America
+3469,San Francisco International Airport,San Francisco,USA,SFO,North America
+3498,Minot International Airport,Minot,USA,MOT,North America
+3533,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,USA,FLL,North America
+3560,Valley International Airport,Harlingen,USA,HRL,North America
+3585,Indianapolis International Airport,Indianapolis,USA,IND,North America
+3612,Southeast Texas Regional Airport,Beaumont,USA,BPT,North America
+3636,Tucson International Airport,Tucson,USA,TUS,North America
+3660,Bill & Hillary Clinton National Airport/Adams Field,Little Rock,USA,LIT,North America
+3680,Sheppard Air Force Base-Wichita Falls Municipal Airport,Wichita Falls,USA,SPS,North America
+3698,Tallahassee Regional Airport,Tallahassee,USA,TLH,North America
+3715,Easterwood Field,College Station,USA,CLL,North America
+3732,Monroe Regional Airport,Monroe,USA,MLU,North America
+3751,Denver International Airport,Denver,USA,DEN,North America
+3784,Santa Fe Municipal Airport,Santa Fe,USA,SAF,North America
+3817,Sacramento International Airport,Sacramento,USA,SMF,North America
+3843,Topeka Regional Airport - Forbes Field,Topeka,USA,FOE,North America
+3861,Louis Armstrong New Orleans International Airport,New Orleans,USA,MSY,North America
+3878,Orlando International Airport,Orlando,USA,MCO,North America
+4006,Tweed New Haven Airport,New Haven,USA,HVN,North America
+4019,Albuquerque International Sunport,Albuquerque,USA,ABQ,North America
+4037,Central Illinois Regional Airport at Bloomington-Normal,Bloomington,USA,BMI,North America
+4048,Rochester International Airport,Rochester,USA,RST,North America
+4088,Mc Clellan-Palomar Airport,Carlsbad,USA,CLD,North America
+4116,Tri-Cities Regional TN/VA Airport,BRISTOL,USA,TRI,North America
+4249,Juancho E. Yrausquin Airport,Saba,Netherlands Antilles,SAB,North America
+4279,San Pedro Airport,San Pedro,Belize,SPR,North America
+4335,Key Field,Meridian,USA,MEI,North America
+4384,California Redwood Coast-Humboldt County Airport,Arcata CA,USA,ACV,North America
+5715,Southwest Georgia Regional Airport,Albany,USA,ABY,North America
+5727,Jack Mc Namara Field Airport,Crescent City,USA,CEC,North America
+5739,Wokal Field Glasgow International Airport,Glasgow,USA,GGW,North America
+5753,Lynchburg Regional Preston Glenn Field,Lynchburg,USA,LYH,North America
+5766,Southwest Wyoming Regional Airport,Rock Springs,USA,RKS,North America
+5777,Worland Municipal Airport,Worland,USA,WRL,North America
+5848,Tobias Bolanos International Airport,San Jose,Costa Rica,SYQ,North America
+6055,El Yopal Airport,Yopal,Colombia,EYP,South America
+6505,Phoenix-Mesa-Gateway Airport,Mesa,USA,AZA,North America
+6837,Ford Airport,Iron Mountain,USA,IMT,North America
+6992,Charles M. Schulz Sonoma County Airport,Santa Rosa,USA,STS,North America
+7067,Alliance Municipal Airport,Alliance,USA,AIA,North America
+7266,Rainbow Lake Airport,Rainbow Lake,Canada,YOP,North America
+9543,Ogden Hinckley Airport,Ogden,USA,OGD,North America
+61,Kingston Norman Rogers Airport,Kingston,Canada,YGK,North America
+105,Pickle Lake Airport,Pickle Lake,Canada,YPL,North America
+126,Sydney / J.A. Douglas McCurdy Airport,Sydney,Canada,YQY,North America
+166,Saskatoon John G. Diefenbaker International Airport,Saskatoon,Canada,YXE,North America
+180,Fort Nelson Airport,Fort Nelson,Canada,YYE,North America
+1754,Providenciales Airport,Providenciales,Turks and Caicos Islands,PLS,North America
+1774,Juan Manuel Galvez International Airport,Roatan,Honduras,RTB,North America
+1795,Ingeniero Alberto Acuña Ongay International Airport,Campeche,Mexico,CPE,North America
+1813,Lázaro Cárdenas Airport,Lazard Cardenas,Mexico,LZC,North America
+1825,General Mariano Escobedo International Airport,Monterrey,Mexico,MTY,North America
+1839,General Lucio Blanco International Airport,Reynosa,Mexico,REX,North America
+1854,General Heriberto Jara International Airport,Vera Cruz,Mexico,VER,North America
+1889,Quepos Managua Airport,Quepos,Costa Rica,XQP,North America
+1918,Abel Santamaria Airport,Santa Clara,Cuba,SNU,North America
+1946,Rock Sound Airport,Rock Sound,Bahamas,RSD,North America
+2671,Mariscal Lamar Airport,Cuenca,Ecuador,CUE,South America
+2708,Palonegro Airport,Bucaramanga,Colombia,BGA,South America
+2719,Gustavo Artunduaga Paredes Airport,Florencia,Colombia,FLA,South America
+2738,German Olano Airport,Puerto Carreno,Colombia,PCR,South America
+2751,Gustavo Vargas Airport,Tame,Colombia,TME,South America
+2788,Comandante FAP German Arias Graziani Airport,Anta,Peru,ATA,South America
+2833,José Leonardo Chirinos Airport,Coro,Venezuela,CZE,South America
+2856,General Manuel Carlos Piar International Airport,Guayana,Venezuela,PZO,South America
+2879,L'Espérance Airport,St. Martin,Guadeloupe,SFG,North America
+2894,Hewanorra International Airport,Hewandorra,Saint Lucia,UVF,North America
+3415,Hilo International Airport,Hilo,USA,ITO,North America
+3454,Eppley Airfield,Omaha,USA,OMA,North America
+3472,Gainesville Regional Airport,Gainesville,USA,GNV,North America
+3502,Dallas Love Field,Dallas,USA,DAL,North America
+3535,Falls International Airport,International Falls,USA,INL,North America
+3561,Columbia Metropolitan Airport,Columbia,USA,CAE,North America
+3589,Westchester County Airport,White Plains,USA,HPN,North America
+3613,Savannah Hilton Head International Airport,Savannah,USA,SAV,North America
+3641,Theodore Francis Green State Airport,Providence,USA,PVD,North America
+3661,Stewart International Airport,Newburgh,USA,SWF,North America
+3681,Cincinnati Municipal Airport Lunken Field,Cincinnati,USA,LUK,North America
+3700,Waco Regional Airport,Waco,USA,ACT,North America
+3717,General Mitchell International Airport,Milwaukee,USA,MKE,North America
+3734,Ontario International Airport,Ontario,USA,ONT,North America
+3752,Philadelphia International Airport,Philadelphia,USA,PHL,North America
+3790,Scott AFB/Midamerica Airport,Belleville,USA,BLV,North America
+3819,City of Colorado Springs Municipal Airport,Colorado Springs,USA,COS,North America
+3845,Wilmington International Airport,Wilmington,USA,ILM,North America
+3862,Portland International Jetport Airport,Portland,USA,PWM,North America
+3879,Florence Regional Airport,Florence,USA,FLO,North America
+4007,Asheville Regional Airport,Asheville,USA,AVL,North America
+4020,Gallatin Field,Bozeman,USA,BZN,North America
+4038,Gulfport Biloxi International Airport,Gulfport,USA,GPT,North America
+4049,University of Illinois Willard Airport,Champaign,USA,CMI,North America
+4089,Bishop International Airport,Flint,USA,FNT,North America
+4117,Barkley Regional Airport,PADUCAH,USA,PAH,North America
+4250,Eagle County Regional Airport,Vail,USA,EGE,North America
+4284,Morgantown Municipal Walter L. Bill Hart Field,Morgantown,USA,MGW,North America
+4336,Abraham Lincoln Capital Airport,Springfield,USA,SPI,North America
+4386,Albert J Ellis Airport,Jacksonville NC,USA,OAJ,North America
+5716,Athens Ben Epps Airport,Athens,USA,AHN,North America
+5728,Cape Girardeau Regional Airport,Cape Girardeau,USA,CGI,North America
+5740,Central Nebraska Regional Airport,Grand Island,USA,GRI,North America
+5754,Muskegon County Airport,Muskegon,USA,MKG,North America
+5767,Rutland - Southern Vermont Regional Airport,Rutland,USA,RUT,North America
+5779,Yakima Air Terminal McAllister Field,Yakima,USA,YKM,North America
+5857,Arthur's Town Airport,Arthur's Town,Bahamas,ATC,North America
+6066,Mayor General FAP Armando Revoredo Iglesias Airport,Cajamarca,Peru,CJA,South America
+6731,Arenal Airport,La Fortuna/San Carlos,Costa Rica,FON,North America
+6880,Montrose Regional Airport,Montrose CO,USA,MTJ,North America
+7001,Aspen-Pitkin Co/Sardy Field,Aspen,USA,ASE,North America
+7068,Mc Cook Ben Nelson Regional Airport,McCook,USA,MCK,North America
+7275,Denny Island Airport,Bella Bella,Canada,\N,North America
+9768,Tingo Maria Airport,Tingo Maria,Peru,TGI,South America
+70,John C. Munro Hamilton International Airport,Hamilton,Canada,YHM,North America
+108,Prince Rupert Airport,Prince Pupert,Canada,YPR,North America
+127,Quesnel Airport,Quesnel,Canada,YQZ,North America
+167,Medicine Hat Airport,Medicine Hat,Canada,YXH,North America
+181,Penticton Airport,Penticton,Canada,YYF,North America
+1755,South Caicos Airport,South Caicos,Turks and Caicos Islands,XSC,North America
+1776,Toncontín International Airport,Tegucigalpa,Honduras,TGU,North America
+1796,Abraham González International Airport,Ciudad Juarez,Mexico,CJS,North America
+1814,Valle del Fuerte International Airport,Los Mochis,Mexico,LMM,North America
+1826,General Rafael Buelna International Airport,Mazatlan,Mexico,MZT,North America
+1840,Los Cabos International Airport,San Jose Del Cabo,Mexico,SJD,North America
+1855,General Leobardo C. Ruiz International Airport,Zacatecas,Mexico,ZCL,North America
+1892,Monseñor Óscar Arnulfo Romero International Airport,San Salvador,El Salvador,SAL,North America
+1923,Juan Gualberto Gomez International Airport,Varadero,Cuba,VRA,North America
+1948,Grand Bahama International Airport,Freeport,Bahamas,FPO,North America
+2672,Seymour Airport,Galapagos,Ecuador,GPS,South America
+2709,El Dorado International Airport,Bogota,Colombia,BOG,South America
+2722,Juan Casiano Airport,Guapi,Colombia,GPI,South America
+2739,Matecaña International Airport,Pereira,Colombia,PEI,South America
+2752,Santiago Perez Airport,Arauca,Colombia,AUC,South America
+2789,Jorge Chávez International Airport,Lima,Peru,LIM,South America
+2835,Cumaná (Antonio José de Sucre) Airport,Cumana,Venezuela,CUM,South America
+2858,San Antonio Del Tachira Airport,San Antonio,Venezuela,SVZ,South America
+2881,Pointe-à-Pitre Le Raizet,Pointe-a-pitre,Guadeloupe,PTP,North America
+2895,Queen Beatrix International Airport,Oranjestad,Aruba,AUA,North America
+3426,St Paul Island Airport,St. Paul Island,USA,SNP,North America
+3456,Kahului Airport,Kahului,USA,OGG,North America
+3473,Memphis International Airport,Memphis,USA,MEM,North America
+3504,Helena Regional Airport,Helena,USA,HLN,North America
+3536,Salt Lake City International Airport,Salt Lake City,USA,SLC,North America
+3564,Pensacola Regional Airport,Pensacola,USA,PNS,North America
+3591,Jonesboro Municipal Airport,Jonesboro,USA,JBR,North America
+3617,St Petersburg Clearwater International Airport,St. Petersburg,USA,PIE,North America
+3642,Salisbury Ocean City Wicomico Regional Airport,Salisbury,USA,SBY,North America
+3664,Homer Airport,Homer,USA,HOM,North America
+3682,Hartsfield Jackson Atlanta International Airport,Atlanta,USA,ATL,North America
+3701,Augusta State Airport,Augusta,USA,AUG,North America
+3718,Abilene Regional Airport,Abilene,USA,ABI,North America
+3736,Roswell International Air Center Airport,Roswell,USA,ROW,North America
+3753,Sioux Gateway Col. Bud Day Field,Sioux City,USA,SUX,North America
+3793,Southwest Florida International Airport,Fort Myers,USA,RSW,North America
+3820,Buffalo Niagara International Airport,Buffalo,USA,BUF,North America
+3846,Baton Rouge Metropolitan Airport,Baton Rouge,USA,BTR,North America
+3863,Will Rogers World Airport,Oklahoma City,USA,OKC,North America
+3880,Great Falls International Airport,Great Falls,USA,GTF,North America
+4008,Piedmont Triad International Airport,Greensboro,USA,GSO,North America
+4021,Billings Logan International Airport,Billings,USA,BIL,North America
+4039,Kalamazoo Battle Creek International Airport,Kalamazoo,USA,AZO,North America
+4050,Manhattan Regional Airport,Manhattan,USA,MHK,North America
+4098,Redding Municipal Airport,Redding,USA,RDD,North America
+4124,Page Municipal Airport,Page,USA,PGA,North America
+4255,Columbus Metropolitan Airport,Columbus,USA,CSG,North America
+4285,Yeager Airport,Charleston,USA,CRW,North America
+4338,Cortez Municipal Airport,Cortez,USA,CEZ,North America
+4388,Dubuque Regional Airport,Dubuque IA,USA,DBQ,North America
+5718,Waterloo Regional Airport,Waterloo,USA,ALO,North America
+5729,Chippewa County International Airport,Sault Ste Marie,USA,CIU,North America
+5741,Memorial Field,Hot Springs,USA,HOT,North America
+5756,Northwest Alabama Regional Airport,Muscle Shoals,USA,MSL,North America
+5768,San Luis County Regional Airport,San Luis Obispo,USA,SBP,North America
+5807,JAGS McCartney International Airport,Cockburn Town,Turks and Caicos Islands,GDT,North America
+5859,Colonel Hill Airport,Colonel Hill,Bahamas,CRI,North America
+6067,Alferez Fap David Figueroa Fernandini Airport,Huánuco,Peru,HUU,South America
+6732,Tambor Airport,Nicoya,Costa Rica,TMU,North America
+6881,Riverton Regional Airport,Riverton WY,USA,RIW,North America
+7018,Thief River Falls Regional Airport,Thief River Falls,USA,TVF,North America
+7070,Dawson Community Airport,Glendive,USA,GDV,North America
+7355,Los Colonizadores Airport,Saravena,Colombia,RVE,South America
+10792,Jumandy Airport,Tena,Ecuador,TNW,South America

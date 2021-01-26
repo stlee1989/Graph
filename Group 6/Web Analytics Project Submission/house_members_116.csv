@@ -1,0 +1,444 @@
+name_id,name,state,url,chamber,current_party,committee_assignments
+A000374,ralph-abraham,Louisiana,https://www.congress.gov/member/ralph-abraham/A000374,House,Republican,"['Agriculture', 'Armed Services']"
+A000370,alma-adams,North Carolina,https://www.congress.gov/member/alma-adams/A000370,House,Democratic,"['Agriculture', 'Education and Labor', 'Financial Services']"
+A000055,robert-aderholt,Alabama,https://www.congress.gov/member/robert-aderholt/A000055,House,Republican,['Appropriations']
+A000371,pete-aguilar,California,https://www.congress.gov/member/pete-aguilar/A000371,House,Democratic,"['Appropriations', 'House Administration']"
+A000372,rick-allen,Georgia,https://www.congress.gov/member/rick-allen/A000372,House,Republican,"['Agriculture', 'Education and Labor']"
+A000376,colin-allred,Texas,https://www.congress.gov/member/colin-allred/A000376,House,Democratic,"['Foreign Affairs', 'Transportation and Infrastructure', ""Veterans' Affairs""]"
+A000367,justin-amash,Michigan,https://www.congress.gov/member/justin-amash/A000367,House,Independent,[]
+A000369,mark-amodei,Nevada,https://www.congress.gov/member/mark-amodei/A000369,House,Republican,['Appropriations']
+A000377,kelly-armstrong,North Dakota,https://www.congress.gov/member/kelly-armstrong/A000377,House,Republican,"['Judiciary', 'Oversight and Reform', 'Select Committee on the Climate Crisis']"
+A000375,jodey-arrington,Texas,https://www.congress.gov/member/jodey-arrington/A000375,House,Republican,['Ways and Means']
+A000378,cynthia-axne,Iowa,https://www.congress.gov/member/cynthia-axne/A000378,House,Democratic,"['Agriculture', 'Financial Services']"
+B001291,brian-babin,Texas,https://www.congress.gov/member/brian-babin/B001291,House,Republican,"['Science, Space, and Technology', 'Transportation and Infrastructure']"
+B001298,don-bacon,Nebraska,https://www.congress.gov/member/don-bacon/B001298,House,Republican,"['Agriculture', 'Armed Services']"
+B001307,james-baird,Indiana,https://www.congress.gov/member/james-baird/B001307,House,Republican,"['Agriculture', 'Science, Space, and Technology']"
+B001306,troy-balderson,Ohio,https://www.congress.gov/member/troy-balderson/B001306,House,Republican,"['Science, Space, and Technology', 'Small Business', 'Transportation and Infrastructure']"
+B001299,jim-banks,Indiana,https://www.congress.gov/member/jim-banks/B001299,House,Republican,"['Armed Services', 'Education and Labor', ""Veterans' Affairs""]"
+B001282,andy-barr,Kentucky,https://www.congress.gov/member/andy-barr/B001282,House,Republican,"['Financial Services', ""Veterans' Affairs""]"
+B001300,nanette-barragan,California,https://www.congress.gov/member/nanette-barragan/B001300,House,Democratic,"['Energy and Commerce', 'Homeland Security']"
+B001270,karen-bass,California,https://www.congress.gov/member/karen-bass/B001270,House,Democratic,"['Foreign Affairs', 'Judiciary']"
+B001281,joyce-beatty,Ohio,https://www.congress.gov/member/joyce-beatty/B001281,House,Democratic,['Financial Services']
+B001287,ami-bera,California,https://www.congress.gov/member/ami-bera/B001287,House,Democratic,"['Foreign Affairs', 'Science, Space, and Technology']"
+B001301,jack-bergman,Michigan,https://www.congress.gov/member/jack-bergman/B001301,House,Republican,"['Armed Services', ""Veterans' Affairs""]"
+B001292,donald-beyer,Virginia,https://www.congress.gov/member/donald-beyer/B001292,House,Democratic,"['Science, Space, and Technology', 'Ways and Means']"
+B001302,andy-biggs,Arizona,https://www.congress.gov/member/andy-biggs/B001302,House,Republican,"['Judiciary', 'Science, Space, and Technology']"
+B001257,gus-bilirakis,Florida,https://www.congress.gov/member/gus-bilirakis/B001257,House,Republican,"['Energy and Commerce', ""Veterans' Affairs""]"
+B001311,dan-bishop,North Carolina,https://www.congress.gov/member/dan-bishop/B001311,House,Republican,"['Homeland Security', 'Small Business']"
+B001250,rob-bishop,Utah,https://www.congress.gov/member/rob-bishop/B001250,House,Republican,"['Armed Services', 'Natural Resources']"
+B000490,sanford-bishop,Georgia,https://www.congress.gov/member/sanford-bishop/B000490,House,Democratic,['Appropriations']
+B000574,earl-blumenauer,Oregon,https://www.congress.gov/member/earl-blumenauer/B000574,House,Democratic,['Ways and Means']
+B001303,lisa-blunt-rochester,Delaware,https://www.congress.gov/member/lisa-blunt-rochester/B001303,House,Democratic,['Energy and Commerce']
+B001278,suzanne-bonamici,Oregon,https://www.congress.gov/member/suzanne-bonamici/B001278,House,Democratic,"['Education and Labor', 'Science, Space, and Technology', 'Select Committee on the Climate Crisis']"
+B001295,mike-bost,Illinois,https://www.congress.gov/member/mike-bost/B001295,House,Republican,"['Agriculture', 'Transportation and Infrastructure', ""Veterans' Affairs""]"
+B001296,brendan-boyle,Pennsylvania,https://www.congress.gov/member/brendan-boyle/B001296,House,Democratic,"['Budget', 'Ways and Means']"
+B000755,kevin-brady,Texas,https://www.congress.gov/member/kevin-brady/B000755,House,Republican,['Ways and Means']
+B001308,anthony-brindisi,New York,https://www.congress.gov/member/anthony-brindisi/B001308,House,Democratic,"['Agriculture', ""Veterans' Affairs""]"
+B001274,mo-brooks,Alabama,https://www.congress.gov/member/mo-brooks/B001274,House,Republican,"['Armed Services', 'Science, Space, and Technology']"
+B001284,susan-brooks,Indiana,https://www.congress.gov/member/susan-brooks/B001284,House,Republican,"['Energy and Commerce', 'Select Committee on the Modernization of Congress']"
+B001304,anthony-brown,Maryland,https://www.congress.gov/member/anthony-brown/B001304,House,Democratic,"['Armed Services', 'Ethics', 'Natural Resources', 'Transportation and Infrastructure']"
+B001285,julia-brownley,California,https://www.congress.gov/member/julia-brownley/B001285,House,Democratic,"['Transportation and Infrastructure', ""Veterans' Affairs"", 'Select Committee on the Climate Crisis']"
+B001260,vern-buchanan,Florida,https://www.congress.gov/member/vern-buchanan/B001260,House,Republican,['Ways and Means']
+B001297,ken-buck,Colorado,https://www.congress.gov/member/ken-buck/B001297,House,Republican,"['Foreign Affairs', 'Judiciary']"
+B001275,larry-bucshon,Indiana,https://www.congress.gov/member/larry-bucshon/B001275,House,Republican,['Energy and Commerce']
+B001305,ted-budd,North Carolina,https://www.congress.gov/member/ted-budd/B001305,House,Republican,['Financial Services']
+B001309,tim-burchett,Tennessee,https://www.congress.gov/member/tim-burchett/B001309,House,Republican,"['Budget', 'Foreign Affairs', 'Small Business']"
+B001248,michael-burgess,Texas,https://www.congress.gov/member/michael-burgess/B001248,House,Republican,"['Energy and Commerce', 'Rules']"
+B001286,cheri-bustos,Illinois,https://www.congress.gov/member/cheri-bustos/B001286,House,Democratic,"['Agriculture', 'Appropriations']"
+B001251,g-k-butterfield,North Carolina,https://www.congress.gov/member/g-k-butterfield/B001251,House,Democratic,"['Energy and Commerce', 'House Administration']"
+B001289,bradley-byrne,Alabama,https://www.congress.gov/member/bradley-byrne/B001289,House,Republican,"['Armed Services', 'Education and Labor']"
+C000059,ken-calvert,California,https://www.congress.gov/member/ken-calvert/C000059,House,Republican,['Appropriations']
+C001112,salud-carbajal,California,https://www.congress.gov/member/salud-carbajal/C001112,House,Democratic,"['Agriculture', 'Armed Services', 'Transportation and Infrastructure']"
+C001097,tony-cardenas,California,https://www.congress.gov/member/tony-cardenas/C001097,House,Democratic,['Energy and Commerce']
+C001072,andre-carson,Indiana,https://www.congress.gov/member/andre-carson/C001072,House,Democratic,"['Transportation and Infrastructure', 'Permanent Select Committee on Intelligence']"
+C001103,earl-carter,Georgia,https://www.congress.gov/member/earl-carter/C001103,House,Republican,"['Energy and Commerce', 'Select Committee on the Climate Crisis']"
+C001051,john-carter,Texas,https://www.congress.gov/member/john-carter/C001051,House,Republican,['Appropriations']
+C001090,matt-cartwright,Pennsylvania,https://www.congress.gov/member/matt-cartwright/C001090,House,Democratic,"['Appropriations', 'Natural Resources']"
+C001055,ed-case,Hawaii,https://www.congress.gov/member/ed-case/C001055,House,Democratic,"['Appropriations', 'Natural Resources']"
+C001117,sean-casten,Illinois,https://www.congress.gov/member/sean-casten/C001117,House,Democratic,"['Financial Services', 'Science, Space, and Technology', 'Select Committee on the Climate Crisis']"
+C001066,kathy-castor,Florida,https://www.congress.gov/member/kathy-castor/C001066,House,Democratic,"['Select Committee on the Climate Crisis, Chair', 'Energy and Commerce']"
+C001091,joaquin-castro,Texas,https://www.congress.gov/member/joaquin-castro/C001091,House,Democratic,"['Education and Labor', 'Foreign Affairs', 'Permanent Select Committee on Intelligence']"
+C000266,steve-chabot,Ohio,https://www.congress.gov/member/steve-chabot/C000266,House,Republican,"['Foreign Affairs', 'Judiciary', 'Small Business']"
+C001109,liz-cheney,Wyoming,https://www.congress.gov/member/liz-cheney/C001109,House,Republican,"['Armed Services', 'Natural Resources']"
+C001080,judy-chu,California,https://www.congress.gov/member/judy-chu/C001080,House,Democratic,"['Small Business', 'Ways and Means']"
+C001084,david-cicilline,Rhode Island,https://www.congress.gov/member/david-cicilline/C001084,House,Democratic,"['Foreign Affairs', 'Judiciary']"
+C001123,gilbert-cisneros,California,https://www.congress.gov/member/gilbert-cisneros/C001123,House,Democratic,"['Armed Services', ""Veterans' Affairs""]"
+C001101,katherine-clark,Massachusetts,https://www.congress.gov/member/katherine-clark/C001101,House,Democratic,['Appropriations']
+C001067,yvette-clarke,New York,https://www.congress.gov/member/yvette-clarke/C001067,House,Democratic,"['Energy and Commerce', 'Homeland Security']"
+C001049,wm-clay,Missouri,https://www.congress.gov/member/wm-clay/C001049,House,Democratic,"['Financial Services', 'Natural Resources', 'Oversight and Reform']"
+C001061,emanuel-cleaver,Missouri,https://www.congress.gov/member/emanuel-cleaver/C001061,House,Democratic,"['Financial Services', 'Homeland Security', 'Select Committee on the Modernization of Congress']"
+C001118,ben-cline,Virginia,https://www.congress.gov/member/ben-cline/C001118,House,Republican,"['Education and Labor', 'Judiciary']"
+C001115,michael-cloud,Texas,https://www.congress.gov/member/michael-cloud/C001115,House,Republican,"['Oversight and Reform', 'Science, Space, and Technology']"
+C000537,james-clyburn,South Carolina,https://www.congress.gov/member/james-clyburn/C000537,House,Democratic,['Majority Whip']
+C001068,steve-cohen,Tennessee,https://www.congress.gov/member/steve-cohen/C001068,House,Democratic,"['Judiciary', 'Science, Space, and Technology', 'Transportation and Infrastructure']"
+C001053,tom-cole,Oklahoma,https://www.congress.gov/member/tom-cole/C001053,House,Republican,"['Appropriations', 'Rules, Ranking Member']"
+C001092,chris-collins,New York,https://www.congress.gov/member/chris-collins/C001092,House,Republican,[]
+C001093,doug-collins,Georgia,https://www.congress.gov/member/doug-collins/C001093,House,Republican,['Judiciary']
+C001108,james-comer,Kentucky,https://www.congress.gov/member/james-comer/C001108,House,Republican,"['Agriculture', 'Education and Labor', 'Oversight and Reform']"
+C001062,k-conaway,Texas,https://www.congress.gov/member/k-conaway/C001062,House,Republican,"['Agriculture', 'Armed Services', 'Permanent Select Committee on Intelligence']"
+C001078,gerald-connolly,Virginia,https://www.congress.gov/member/gerald-connolly/C001078,House,Democratic,"['Foreign Affairs', 'Oversight and Reform']"
+C001094,paul-cook,California,https://www.congress.gov/member/paul-cook/C001094,House,Republican,"['Armed Services', 'Natural Resources']"
+C000754,james-cooper,Tennessee,https://www.congress.gov/member/james-cooper/C000754,House,Democratic,"['Armed Services', 'Budget', 'Oversight and Reform']"
+C001110,j-correa,California,https://www.congress.gov/member/j-correa/C001110,House,Democratic,"['Homeland Security', 'Judiciary']"
+C001059,jim-costa,California,https://www.congress.gov/member/jim-costa/C001059,House,Democratic,"['Agriculture', 'Foreign Affairs', 'Natural Resources']"
+C001069,joe-courtney,Connecticut,https://www.congress.gov/member/joe-courtney/C001069,House,Democratic,"['Armed Services', 'Education and Labor']"
+C001124,tj-cox,California,https://www.congress.gov/member/tj-cox/C001124,House,Democratic,"['Agriculture', 'Natural Resources']"
+C001119,angie-craig,Minnesota,https://www.congress.gov/member/angie-craig/C001119,House,Democratic,"['Agriculture', 'Small Business', 'Transportation and Infrastructure']"
+C001087,eric-crawford,Arkansas,https://www.congress.gov/member/eric-crawford/C001087,House,Republican,"['Agriculture', 'Transportation and Infrastructure', 'Permanent Select Committee on Intelligence']"
+C001120,dan-crenshaw,Texas,https://www.congress.gov/member/dan-crenshaw/C001120,House,Republican,"['Budget', 'Homeland Security']"
+C001111,charlie-crist,Florida,https://www.congress.gov/member/charlie-crist/C001111,House,Democratic,"['Appropriations', 'Science, Space, and Technology']"
+C001121,jason-crow,Colorado,https://www.congress.gov/member/jason-crow/C001121,House,Democratic,"['Armed Services', 'Small Business']"
+C001063,henry-cuellar,Texas,https://www.congress.gov/member/henry-cuellar/C001063,House,Democratic,['Appropriations']
+C000984,elijah-cummings,Maryland,https://www.congress.gov/member/elijah-cummings/C000984,House,Democratic,"['Oversight and Reform, Chair', 'Transportation and Infrastructure']"
+C001122,joe-cunningham,South Carolina,https://www.congress.gov/member/joe-cunningham/C001122,House,Democratic,"['Natural Resources', ""Veterans' Affairs""]"
+C001114,john-curtis,Utah,https://www.congress.gov/member/john-curtis/C001114,House,Republican,"['Foreign Affairs', 'Natural Resources']"
+D000629,sharice-davids,Kansas,https://www.congress.gov/member/sharice-davids/D000629,House,Democratic,"['Small Business', 'Transportation and Infrastructure']"
+D000626,warren-davidson,Ohio,https://www.congress.gov/member/warren-davidson/D000626,House,Republican,['Financial Services']
+D000096,danny-davis,Illinois,https://www.congress.gov/member/danny-davis/D000096,House,Democratic,['Ways and Means']
+D000619,rodney-davis,Illinois,https://www.congress.gov/member/rodney-davis/D000619,House,Republican,"['Agriculture', 'House Administration, Ranking Member', 'Transportation and Infrastructure', 'Select Committee on the Modernization of Congress']"
+D000598,susan-davis,California,https://www.congress.gov/member/susan-davis/D000598,House,Democratic,"['Armed Services', 'Education and Labor', 'House Administration']"
+D000631,madeleine-dean,Pennsylvania,https://www.congress.gov/member/madeleine-dean/D000631,House,Democratic,"['Financial Services', 'Judiciary']"
+D000191,peter-defazio,Oregon,https://www.congress.gov/member/peter-defazio/D000191,House,Democratic,"['Transportation and Infrastructure, Chair']"
+D000197,diana-degette,Colorado,https://www.congress.gov/member/diana-degette/D000197,House,Democratic,"['Energy and Commerce', 'Natural Resources']"
+D000216,rosa-delauro,Connecticut,https://www.congress.gov/member/rosa-delauro/D000216,House,Democratic,"['Appropriations', 'Budget']"
+D000617,suzan-delbene,Washington,https://www.congress.gov/member/suzan-delbene/D000617,House,Democratic,"['Ways and Means', 'Select Committee on the Modernization of Congress']"
+D000630,antonio-delgado,New York,https://www.congress.gov/member/antonio-delgado/D000630,House,Democratic,"['Agriculture', 'Small Business', 'Transportation and Infrastructure']"
+D000627,val-demings,Florida,https://www.congress.gov/member/val-demings/D000627,House,Democratic,"['Homeland Security', 'Judiciary', 'Permanent Select Committee on Intelligence']"
+D000623,mark-desaulnier,California,https://www.congress.gov/member/mark-desaulnier/D000623,House,Democratic,"['Education and Labor', 'Oversight and Reform', 'Rules', 'Transportation and Infrastructure']"
+D000616,scott-desjarlais,Tennessee,https://www.congress.gov/member/scott-desjarlais/D000616,House,Republican,"['Agriculture', 'Armed Services']"
+D000610,theodore-deutch,Florida,https://www.congress.gov/member/theodore-deutch/D000610,House,Democratic,"['Ethics, Chair', 'Foreign Affairs', 'Judiciary']"
+D000600,mario-diaz-balart,Florida,https://www.congress.gov/member/mario-diaz-balart/D000600,House,Republican,['Appropriations']
+D000624,debbie-dingell,Michigan,https://www.congress.gov/member/debbie-dingell/D000624,House,Democratic,"['Energy and Commerce', 'Natural Resources']"
+D000399,lloyd-doggett,Texas,https://www.congress.gov/member/lloyd-doggett/D000399,House,Democratic,"['Budget', 'Ways and Means']"
+D000482,mike-doyle,Pennsylvania,https://www.congress.gov/member/mike-doyle/D000482,House,Democratic,['Energy and Commerce']
+D000614,sean-duffy,Wisconsin,https://www.congress.gov/member/sean-duffy/D000614,House,Republican,[]
+D000615,jeff-duncan,South Carolina,https://www.congress.gov/member/jeff-duncan/D000615,House,Republican,['Energy and Commerce']
+D000628,neal-dunn,Florida,https://www.congress.gov/member/neal-dunn/D000628,House,Republican,"['Agriculture', ""Veterans' Affairs""]"
+E000294,tom-emmer,Minnesota,https://www.congress.gov/member/tom-emmer/E000294,House,Republican,['Financial Services']
+E000179,eliot-engel,New York,https://www.congress.gov/member/eliot-engel/E000179,House,Democratic,"['Foreign Affairs, Chair', 'Energy and Commerce']"
+E000299,veronica-escobar,Texas,https://www.congress.gov/member/veronica-escobar/E000299,House,Democratic,"['Armed Services', 'Judiciary']"
+E000215,anna-eshoo,California,https://www.congress.gov/member/anna-eshoo/E000215,House,Democratic,['Energy and Commerce']
+E000297,adriano-espaillat,New York,https://www.congress.gov/member/adriano-espaillat/E000297,House,Democratic,"['Foreign Affairs', 'Small Business', 'Transportation and Infrastructure']"
+E000298,ron-estes,Kansas,https://www.congress.gov/member/ron-estes/E000298,House,Republican,['Ways and Means']
+E000296,dwight-evans,Pennsylvania,https://www.congress.gov/member/dwight-evans/E000296,House,Democratic,"['Small Business', 'Ways and Means']"
+F000465,a-ferguson,Georgia,https://www.congress.gov/member/a-ferguson/F000465,House,Republican,['Ways and Means']
+F000467,abby-finkenauer,Iowa,https://www.congress.gov/member/abby-finkenauer/F000467,House,Democratic,"['Small Business', 'Transportation and Infrastructure']"
+F000466,brian-fitzpatrick,Pennsylvania,https://www.congress.gov/member/brian-fitzpatrick/F000466,House,Republican,"['Foreign Affairs', 'Transportation and Infrastructure']"
+F000459,charles-fleischmann,Tennessee,https://www.congress.gov/member/charles-fleischmann/F000459,House,Republican,['Appropriations']
+F000468,lizzie-fletcher,Texas,https://www.congress.gov/member/lizzie-fletcher/F000468,House,Democratic,"['Science, Space, and Technology', 'Transportation and Infrastructure']"
+F000461,bill-flores,Texas,https://www.congress.gov/member/bill-flores/F000461,House,Republican,"['Budget', 'Energy and Commerce']"
+F000449,jeff-fortenberry,Nebraska,https://www.congress.gov/member/jeff-fortenberry/F000449,House,Republican,['Appropriations']
+F000454,bill-foster,Illinois,https://www.congress.gov/member/bill-foster/F000454,House,Democratic,"['Financial Services', 'Science, Space, and Technology']"
+F000450,virginia-foxx,North Carolina,https://www.congress.gov/member/virginia-foxx/F000450,House,Republican,"['Education and Labor', 'Oversight and Reform']"
+F000462,lois-frankel,Florida,https://www.congress.gov/member/lois-frankel/F000462,House,Democratic,['Appropriations']
+F000455,marcia-fudge,Ohio,https://www.congress.gov/member/marcia-fudge/F000455,House,Democratic,"['Agriculture', 'Education and Labor', 'House Administration']"
+F000469,russ-fulcher,Idaho,https://www.congress.gov/member/russ-fulcher/F000469,House,Republican,"['Education and Labor', 'Natural Resources']"
+G000571,tulsi-gabbard,Hawaii,https://www.congress.gov/member/tulsi-gabbard/G000571,House,Democratic,"['Armed Services', 'Financial Services']"
+G000578,matt-gaetz,Florida,https://www.congress.gov/member/matt-gaetz/G000578,House,Republican,"['Armed Services', 'Judiciary']"
+G000579,mike-gallagher,Wisconsin,https://www.congress.gov/member/mike-gallagher/G000579,House,Republican,"['Armed Services', 'Transportation and Infrastructure']"
+G000574,ruben-gallego,Arizona,https://www.congress.gov/member/ruben-gallego/G000574,House,Democratic,"['Armed Services', 'Natural Resources']"
+G000559,john-garamendi,California,https://www.congress.gov/member/john-garamendi/G000559,House,Democratic,"['Armed Services', 'Transportation and Infrastructure']"
+G000586,jesus-garcia,Illinois,https://www.congress.gov/member/jesus-garcia/G000586,House,Democratic,"['Financial Services', 'Transportation and Infrastructure']"
+G000587,sylvia-garcia,Texas,https://www.congress.gov/member/sylvia-garcia/G000587,House,Democratic,"['Financial Services', 'Judiciary']"
+G000584,greg-gianforte,Montana,https://www.congress.gov/member/greg-gianforte/G000584,House,Republican,['Energy and Commerce']
+G000563,bob-gibbs,Ohio,https://www.congress.gov/member/bob-gibbs/G000563,House,Republican,"['Oversight and Reform', 'Transportation and Infrastructure']"
+G000552,louie-gohmert,Texas,https://www.congress.gov/member/louie-gohmert/G000552,House,Republican,"['Judiciary', 'Natural Resources']"
+G000592,jared-golden,Maine,https://www.congress.gov/member/jared-golden/G000592,House,Democratic,"['Armed Services', 'Small Business']"
+G000585,jimmy-gomez,California,https://www.congress.gov/member/jimmy-gomez/G000585,House,Democratic,"['Oversight and Reform', 'Ways and Means']"
+G000588,anthony-gonzalez,Ohio,https://www.congress.gov/member/anthony-gonzalez/G000588,House,Republican,"['Financial Services', 'Science, Space, and Technology']"
+G000581,vicente-gonzalez,Texas,https://www.congress.gov/member/vicente-gonzalez/G000581,House,Democratic,"['Financial Services', 'Foreign Affairs']"
+G000582,jenniffer-gonzalez-colon,Puerto Rico,https://www.congress.gov/member/jenniffer-gonzalez-colon/G000582,House,Republican,"['Natural Resources', 'Transportation and Infrastructure']"
+G000589,lance-gooden,Texas,https://www.congress.gov/member/lance-gooden/G000589,House,Republican,['Financial Services']
+G000565,paul-gosar,Arizona,https://www.congress.gov/member/paul-gosar/G000565,House,Republican,"['Natural Resources', 'Oversight and Reform']"
+G000583,josh-gottheimer,New Jersey,https://www.congress.gov/member/josh-gottheimer/G000583,House,Democratic,['Financial Services']
+G000377,kay-granger,Texas,https://www.congress.gov/member/kay-granger/G000377,House,Republican,['Appropriations']
+G000577,garret-graves,Louisiana,https://www.congress.gov/member/garret-graves/G000577,House,Republican,"['Natural Resources', 'Transportation and Infrastructure', 'Select Committee on the Climate Crisis']"
+G000546,sam-graves,Missouri,https://www.congress.gov/member/sam-graves/G000546,House,Republican,"['Armed Services', 'Transportation and Infrastructure']"
+G000560,tom-graves,Georgia,https://www.congress.gov/member/tom-graves/G000560,House,Republican,"['Appropriations', 'Select Committee on the Modernization of Congress, Vice Chair']"
+G000553,al-green,Texas,https://www.congress.gov/member/al-green/G000553,House,Democratic,"['Financial Services', 'Homeland Security']"
+G000590,mark-green,Tennessee,https://www.congress.gov/member/mark-green/G000590,House,Republican,"['Homeland Security', 'Oversight and Reform']"
+G000568,h-griffith,Virginia,https://www.congress.gov/member/h-griffith/G000568,House,Republican,"['Energy and Commerce', 'Select Committee on the Climate Crisis']"
+G000551,raul-grijalva,Arizona,https://www.congress.gov/member/raul-grijalva/G000551,House,Democratic,"['Natural Resources, Chair', 'Education and Labor']"
+G000576,glenn-grothman,Wisconsin,https://www.congress.gov/member/glenn-grothman/G000576,House,Republican,"['Education and Labor', 'Oversight and Reform']"
+G000591,michael-guest,Mississippi,https://www.congress.gov/member/michael-guest/G000591,House,Republican,"['Ethics', 'Foreign Affairs', 'Homeland Security']"
+G000558,brett-guthrie,Kentucky,https://www.congress.gov/member/brett-guthrie/G000558,House,Republican,"['Education and Labor', 'Energy and Commerce']"
+H001080,debra-haaland,New Mexico,https://www.congress.gov/member/debra-haaland/H001080,House,Democratic,"['Armed Services', 'Natural Resources']"
+H001088,jim-hagedorn,Minnesota,https://www.congress.gov/member/jim-hagedorn/H001088,House,Republican,"['Agriculture', 'Small Business']"
+H001090,josh-harder,California,https://www.congress.gov/member/josh-harder/H001090,House,Democratic,"['Agriculture', 'Education and Labor']"
+H001052,andy-harris,Maryland,https://www.congress.gov/member/andy-harris/H001052,House,Republican,['Appropriations']
+H001053,vicky-hartzler,Missouri,https://www.congress.gov/member/vicky-hartzler/H001053,House,Republican,"['Agriculture', 'Armed Services']"
+H000324,alcee-hastings,Florida,https://www.congress.gov/member/alcee-hastings/H000324,House,Democratic,['Rules']
+H001081,jahana-hayes,Connecticut,https://www.congress.gov/member/jahana-hayes/H001081,House,Democratic,"['Agriculture', 'Education and Labor']"
+H001064,denny-heck,Washington,https://www.congress.gov/member/denny-heck/H001064,House,Democratic,"['Financial Services', 'Permanent Select Committee on Intelligence']"
+H001082,kevin-hern,Oklahoma,https://www.congress.gov/member/kevin-hern/H001082,House,Republican,"['Budget', 'Natural Resources', 'Small Business']"
+H001056,jaime-herrera-beutler,Washington,https://www.congress.gov/member/jaime-herrera-beutler/H001056,House,Republican,"['Appropriations', 'Science, Space, and Technology']"
+H001071,jody-hice,Georgia,https://www.congress.gov/member/jody-hice/H001071,House,Republican,"['Natural Resources', 'Oversight and Reform']"
+H001038,brian-higgins,New York,https://www.congress.gov/member/brian-higgins/H001038,House,Democratic,"['Budget', 'Ways and Means']"
+H001077,clay-higgins,Louisiana,https://www.congress.gov/member/clay-higgins/H001077,House,Republican,"['Homeland Security', 'Oversight and Reform']"
+H001072,j-hill,Arkansas,https://www.congress.gov/member/j-hill/H001072,House,Republican,['Financial Services']
+H001087,katie-hill,California,https://www.congress.gov/member/katie-hill/H001087,House,Democratic,"['Armed Services', 'Oversight and Reform', 'Science, Space, and Technology']"
+H001047,james-himes,Connecticut,https://www.congress.gov/member/james-himes/H001047,House,Democratic,"['Financial Services', 'Permanent Select Committee on Intelligence']"
+H001065,george-holding,North Carolina,https://www.congress.gov/member/george-holding/H001065,House,Republican,"['Budget', 'Ethics', 'Ways and Means']"
+H001074,trey-hollingsworth,Indiana,https://www.congress.gov/member/trey-hollingsworth/H001074,House,Republican,['Financial Services']
+H001083,kendra-horn,Oklahoma,https://www.congress.gov/member/kendra-horn/H001083,House,Democratic,"['Armed Services', 'Science, Space, and Technology']"
+H001066,steven-horsford,Nevada,https://www.congress.gov/member/steven-horsford/H001066,House,Democratic,"['Budget', 'Natural Resources', 'Ways and Means']"
+H001085,chrissy-houlahan,Pennsylvania,https://www.congress.gov/member/chrissy-houlahan/H001085,House,Democratic,"['Armed Services', 'Foreign Affairs', 'Small Business']"
+H000874,steny-hoyer,Maryland,https://www.congress.gov/member/steny-hoyer/H000874,House,Democratic,['Majority Leader']
+H001067,richard-hudson,North Carolina,https://www.congress.gov/member/richard-hudson/H001067,House,Republican,['Energy and Commerce']
+H001068,jared-huffman,California,https://www.congress.gov/member/jared-huffman/H001068,House,Democratic,"['Natural Resources', 'Transportation and Infrastructure', 'Select Committee on the Climate Crisis']"
+H001058,bill-huizenga,Michigan,https://www.congress.gov/member/bill-huizenga/H001058,House,Republican,['Financial Services']
+H001048,duncan-hunter,California,https://www.congress.gov/member/duncan-hunter/H001048,House,Republican,[]
+H001073,will-hurd,Texas,https://www.congress.gov/member/will-hurd/H001073,House,Republican,"['Appropriations', 'Permanent Select Committee on Intelligence']"
+J000032,sheila-jackson-lee,Texas,https://www.congress.gov/member/sheila-jackson-lee/J000032,House,Democratic,"['Budget', 'Homeland Security', 'Judiciary']"
+J000298,pramila-jayapal,Washington,https://www.congress.gov/member/pramila-jayapal/J000298,House,Democratic,"['Budget', 'Education and Labor', 'Judiciary']"
+J000294,hakeem-jeffries,New York,https://www.congress.gov/member/hakeem-jeffries/J000294,House,Democratic,"['Budget', 'Judiciary']"
+J000292,bill-johnson,Ohio,https://www.congress.gov/member/bill-johnson/J000292,House,Republican,"['Budget', 'Energy and Commerce']"
+J000301,dusty-johnson,South Dakota,https://www.congress.gov/member/dusty-johnson/J000301,House,Republican,"['Agriculture', 'Education and Labor']"
+J000126,eddie-johnson,Texas,https://www.congress.gov/member/eddie-johnson/J000126,House,Democratic,"['Science, Space, and Technology, Chair', 'Transportation and Infrastructure']"
+J000288,henry-johnson,Georgia,https://www.congress.gov/member/henry-johnson/J000288,House,Democratic,"['Judiciary', 'Transportation and Infrastructure']"
+J000299,mike-johnson,Louisiana,https://www.congress.gov/member/mike-johnson/J000299,House,Republican,"['Judiciary', 'Natural Resources']"
+J000255,walter-jones,North Carolina,https://www.congress.gov/member/walter-jones/J000255,House,Republican,[]
+J000289,jim-jordan,Ohio,https://www.congress.gov/member/jim-jordan/J000289,House,Republican,"['Judiciary', 'Oversight and Reform']"
+J000295,david-joyce,Ohio,https://www.congress.gov/member/david-joyce/J000295,House,Republican,['Appropriations']
+J000302,john-joyce,Pennsylvania,https://www.congress.gov/member/john-joyce/J000302,House,Republican,"['Homeland Security', 'Small Business']"
+K000009,marcy-kaptur,Ohio,https://www.congress.gov/member/marcy-kaptur/K000009,House,Democratic,['Appropriations']
+K000386,john-katko,New York,https://www.congress.gov/member/john-katko/K000386,House,Republican,"['Homeland Security', 'Transportation and Infrastructure']"
+K000375,william-keating,Massachusetts,https://www.congress.gov/member/william-keating/K000375,House,Democratic,"['Armed Services', 'Foreign Affairs']"
+K000395,fred-keller,Pennsylvania,https://www.congress.gov/member/fred-keller/K000395,House,Republican,"['Education and Labor', 'Oversight and Reform']"
+K000376,mike-kelly,Pennsylvania,https://www.congress.gov/member/mike-kelly/K000376,House,Republican,['Ways and Means']
+K000385,robin-kelly,Illinois,https://www.congress.gov/member/robin-kelly/K000385,House,Democratic,"['Energy and Commerce', 'Oversight and Reform']"
+K000388,trent-kelly,Mississippi,https://www.congress.gov/member/trent-kelly/K000388,House,Republican,"['Agriculture', 'Armed Services']"
+K000379,joseph-kennedy,Massachusetts,https://www.congress.gov/member/joseph-kennedy/K000379,House,Democratic,['Energy and Commerce']
+K000389,ro-khanna,California,https://www.congress.gov/member/ro-khanna/K000389,House,Democratic,"['Armed Services', 'Budget', 'Oversight and Reform']"
+K000380,daniel-kildee,Michigan,https://www.congress.gov/member/daniel-kildee/K000380,House,Democratic,"['Budget', 'Ways and Means']"
+K000381,derek-kilmer,Washington,https://www.congress.gov/member/derek-kilmer/K000381,House,Democratic,"['Select Committee on the Modernization of Congress, Chair', 'Appropriations']"
+K000394,andy-kim,New Jersey,https://www.congress.gov/member/andy-kim/K000394,House,Democratic,"['Armed Services', 'Small Business']"
+K000188,ron-kind,Wisconsin,https://www.congress.gov/member/ron-kind/K000188,House,Democratic,['Ways and Means']
+K000210,peter-king,New York,https://www.congress.gov/member/peter-king/K000210,House,Republican,"['Financial Services', 'Homeland Security']"
+K000362,steve-king,Iowa,https://www.congress.gov/member/steve-king/K000362,House,Republican,[]
+K000378,adam-kinzinger,Illinois,https://www.congress.gov/member/adam-kinzinger/K000378,House,Republican,"['Energy and Commerce', 'Foreign Affairs']"
+K000368,ann-kirkpatrick,Arizona,https://www.congress.gov/member/ann-kirkpatrick/K000368,House,Democratic,"['Agriculture', 'Appropriations']"
+K000391,raja-krishnamoorthi,Illinois,https://www.congress.gov/member/raja-krishnamoorthi/K000391,House,Democratic,"['Oversight and Reform', 'Permanent Select Committee on Intelligence']"
+K000382,ann-kuster,New Hampshire,https://www.congress.gov/member/ann-kuster/K000382,House,Democratic,['Energy and Commerce']
+K000392,david-kustoff,Tennessee,https://www.congress.gov/member/david-kustoff/K000392,House,Republican,['Financial Services']
+L000585,darin-lahood,Illinois,https://www.congress.gov/member/darin-lahood/L000585,House,Republican,['Ways and Means']
+L000578,doug-lamalfa,California,https://www.congress.gov/member/doug-lamalfa/L000578,House,Republican,"['Agriculture', 'Transportation and Infrastructure']"
+L000588,conor-lamb,Pennsylvania,https://www.congress.gov/member/conor-lamb/L000588,House,Democratic,"['Science, Space, and Technology', ""Veterans' Affairs""]"
+L000564,doug-lamborn,Colorado,https://www.congress.gov/member/doug-lamborn/L000564,House,Republican,"['Armed Services', 'Natural Resources']"
+L000559,james-langevin,Rhode Island,https://www.congress.gov/member/james-langevin/L000559,House,Democratic,"['Armed Services', 'Homeland Security']"
+L000560,rick-larsen,Washington,https://www.congress.gov/member/rick-larsen/L000560,House,Democratic,"['Armed Services', 'Transportation and Infrastructure']"
+L000557,john-larson,Connecticut,https://www.congress.gov/member/john-larson/L000557,House,Democratic,['Ways and Means']
+L000566,robert-latta,Ohio,https://www.congress.gov/member/robert-latta/L000566,House,Republican,['Energy and Commerce']
+L000581,brenda-lawrence,Michigan,https://www.congress.gov/member/brenda-lawrence/L000581,House,Democratic,"['Appropriations', 'Oversight and Reform']"
+L000586,al-lawson,Florida,https://www.congress.gov/member/al-lawson/L000586,House,Democratic,"['Agriculture', 'Financial Services']"
+L000551,barbara-lee,California,https://www.congress.gov/member/barbara-lee/L000551,House,Democratic,"['Appropriations', 'Budget']"
+L000590,susie-lee,Nevada,https://www.congress.gov/member/susie-lee/L000590,House,Democratic,"['Education and Labor', ""Veterans' Affairs""]"
+L000589,debbie-lesko,Arizona,https://www.congress.gov/member/debbie-lesko/L000589,House,Republican,"['Homeland Security', 'Judiciary', 'Rules']"
+L000592,andy-levin,Michigan,https://www.congress.gov/member/andy-levin/L000592,House,Democratic,"['Education and Labor', 'Foreign Affairs']"
+L000593,mike-levin,California,https://www.congress.gov/member/mike-levin/L000593,House,Democratic,"['Natural Resources', ""Veterans' Affairs"", 'Select Committee on the Climate Crisis']"
+L000287,john-lewis,Georgia,https://www.congress.gov/member/john-lewis/L000287,House,Democratic,"['Senior Chief Deputy Majority Whip', 'Ways and Means']"
+L000582,ted-lieu,California,https://www.congress.gov/member/ted-lieu/L000582,House,Democratic,"['Foreign Affairs', 'Judiciary']"
+L000563,daniel-lipinski,Illinois,https://www.congress.gov/member/daniel-lipinski/L000563,House,Democratic,"['Science, Space, and Technology', 'Transportation and Infrastructure']"
+L000565,david-loebsack,Iowa,https://www.congress.gov/member/david-loebsack/L000565,House,Democratic,['Energy and Commerce']
+L000397,zoe-lofgren,California,https://www.congress.gov/member/zoe-lofgren/L000397,House,Democratic,"['House Administration, Chairperson', 'Judiciary', 'Science, Space, and Technology', 'Select Committee on the Modernization of Congress']"
+L000576,billy-long,Missouri,https://www.congress.gov/member/billy-long/L000576,House,Republican,['Energy and Commerce']
+L000583,barry-loudermilk,Georgia,https://www.congress.gov/member/barry-loudermilk/L000583,House,Republican,"['Financial Services', 'House Administration']"
+L000579,alan-lowenthal,California,https://www.congress.gov/member/alan-lowenthal/L000579,House,Democratic,"['Natural Resources', 'Transportation and Infrastructure']"
+L000480,nita-lowey,New York,https://www.congress.gov/member/nita-lowey/L000480,House,Democratic,"['Appropriations, Chair']"
+L000491,frank-lucas,Oklahoma,https://www.congress.gov/member/frank-lucas/L000491,House,Republican,"['Financial Services', 'Science, Space, and Technology, Ranking Member']"
+L000569,blaine-luetkemeyer,Missouri,https://www.congress.gov/member/blaine-luetkemeyer/L000569,House,Republican,['Financial Services']
+L000570,ben-lujan,New Mexico,https://www.congress.gov/member/ben-lujan/L000570,House,Democratic,"['Assistant Speaker', 'Energy and Commerce', 'Select Committee on the Climate Crisis']"
+L000591,elaine-luria,Virginia,https://www.congress.gov/member/elaine-luria/L000591,House,Democratic,"['Armed Services', ""Veterans' Affairs""]"
+L000562,stephen-lynch,Massachusetts,https://www.congress.gov/member/stephen-lynch/L000562,House,Democratic,"['Financial Services', 'Oversight and Reform', 'Transportation and Infrastructure']"
+M001203,tom-malinowski,New Jersey,https://www.congress.gov/member/tom-malinowski/M001203,House,Democratic,"['Foreign Affairs', 'Transportation and Infrastructure']"
+M000087,carolyn-maloney,New York,https://www.congress.gov/member/carolyn-maloney/M000087,House,Democratic,"['Financial Services', 'Oversight and Reform']"
+M001185,sean-maloney,New York,https://www.congress.gov/member/sean-maloney/M001185,House,Democratic,"['Agriculture', 'Transportation and Infrastructure', 'Permanent Select Committee on Intelligence']"
+M001158,kenny-marchant,Texas,https://www.congress.gov/member/kenny-marchant/M001158,House,Republican,"['Ethics', 'Ways and Means']"
+M001179,tom-marino,Pennsylvania,https://www.congress.gov/member/tom-marino/M001179,House,Republican,[]
+M001198,roger-marshall,Kansas,https://www.congress.gov/member/roger-marshall/M001198,House,Republican,"['Agriculture', 'Science, Space, and Technology']"
+M001184,thomas-massie,Kentucky,https://www.congress.gov/member/thomas-massie/M001184,House,Republican,"['Oversight and Reform', 'Transportation and Infrastructure']"
+M001199,brian-mast,Florida,https://www.congress.gov/member/brian-mast/M001199,House,Republican,"['Foreign Affairs', 'Transportation and Infrastructure']"
+M001163,doris-matsui,California,https://www.congress.gov/member/doris-matsui/M001163,House,Democratic,['Energy and Commerce']
+M001209,ben-mcadams,Utah,https://www.congress.gov/member/ben-mcadams/M001209,House,Democratic,"['Financial Services', 'Science, Space, and Technology']"
+M001208,lucy-mcbath,Georgia,https://www.congress.gov/member/lucy-mcbath/M001208,House,Democratic,"['Education and Labor', 'Judiciary']"
+M001165,kevin-mccarthy,California,https://www.congress.gov/member/kevin-mccarthy/M001165,House,Republican,['Minority Leader']
+M001157,michael-mccaul,Texas,https://www.congress.gov/member/michael-mccaul/M001157,House,Republican,"['Foreign Affairs', 'Homeland Security']"
+M001177,tom-mcclintock,California,https://www.congress.gov/member/tom-mcclintock/M001177,House,Republican,"['Judiciary', 'Natural Resources']"
+M001143,betty-mccollum,Minnesota,https://www.congress.gov/member/betty-mccollum/M001143,House,Democratic,['Appropriations']
+M001200,a-mceachin,Virginia,https://www.congress.gov/member/a-mceachin/M001200,House,Democratic,"['Energy and Commerce', 'Natural Resources', 'Select Committee on the Climate Crisis']"
+M000312,james-mcgovern,Massachusetts,https://www.congress.gov/member/james-mcgovern/M000312,House,Democratic,"['Rules, Chair', 'Agriculture']"
+M001156,patrick-mchenry,North Carolina,https://www.congress.gov/member/patrick-mchenry/M001156,House,Republican,['Financial Services']
+M001180,david-mckinley,West Virginia,https://www.congress.gov/member/david-mckinley/M001180,House,Republican,['Energy and Commerce']
+M001159,cathy-rodgers,Washington,https://www.congress.gov/member/cathy-rodgers/M001159,House,Republican,['Energy and Commerce']
+M001166,jerry-mcnerney,California,https://www.congress.gov/member/jerry-mcnerney/M001166,House,Democratic,"['Energy and Commerce', 'Science, Space, and Technology']"
+M001187,mark-meadows,North Carolina,https://www.congress.gov/member/mark-meadows/M001187,House,Republican,"['Oversight and Reform', 'Transportation and Infrastructure']"
+M001137,gregory-meeks,New York,https://www.congress.gov/member/gregory-meeks/M001137,House,Democratic,"['Financial Services', 'Foreign Affairs']"
+M001188,grace-meng,New York,https://www.congress.gov/member/grace-meng/M001188,House,Democratic,"['Appropriations', 'Ethics']"
+M001204,daniel-meuser,Pennsylvania,https://www.congress.gov/member/daniel-meuser/M001204,House,Republican,"['Budget', 'Education and Labor', ""Veterans' Affairs""]"
+M001205,carol-miller,West Virginia,https://www.congress.gov/member/carol-miller/M001205,House,Republican,"['Oversight and Reform', 'Transportation and Infrastructure', 'Select Committee on the Climate Crisis']"
+M001201,paul-mitchell,Michigan,https://www.congress.gov/member/paul-mitchell/M001201,House,Republican,"['Armed Services', 'Transportation and Infrastructure']"
+M001194,john-moolenaar,Michigan,https://www.congress.gov/member/john-moolenaar/M001194,House,Republican,['Appropriations']
+M001195,alexander-mooney,West Virginia,https://www.congress.gov/member/alexander-mooney/M001195,House,Republican,['Financial Services']
+M001160,gwen-moore,Wisconsin,https://www.congress.gov/member/gwen-moore/M001160,House,Democratic,['Ways and Means']
+M001206,joseph-morelle,New York,https://www.congress.gov/member/joseph-morelle/M001206,House,Democratic,"['Budget', 'Education and Labor', 'Rules']"
+M001196,seth-moulton,Massachusetts,https://www.congress.gov/member/seth-moulton/M001196,House,Democratic,"['Armed Services', 'Budget']"
+M001207,debbie-mucarsel-powell,Florida,https://www.congress.gov/member/debbie-mucarsel-powell/M001207,House,Democratic,"['Judiciary', 'Transportation and Infrastructure']"
+M001190,markwayne-mullin,Oklahoma,https://www.congress.gov/member/markwayne-mullin/M001190,House,Republican,['Energy and Commerce']
+M001210,gregory-murphy,North Carolina,https://www.congress.gov/member/gregory-murphy/M001210,House,Republican,"['Education and Labor', 'Science, Space, and Technology']"
+M001202,stephanie-murphy,Florida,https://www.congress.gov/member/stephanie-murphy/M001202,House,Democratic,['Ways and Means']
+N000002,jerrold-nadler,New York,https://www.congress.gov/member/jerrold-nadler/N000002,House,Democratic,"['Judiciary, Chair']"
+N000179,grace-napolitano,California,https://www.congress.gov/member/grace-napolitano/N000179,House,Democratic,"['Natural Resources', 'Transportation and Infrastructure']"
+N000015,richard-neal,Massachusetts,https://www.congress.gov/member/richard-neal/N000015,House,Democratic,"['Ways and Means, Chair']"
+N000191,joe-neguse,Colorado,https://www.congress.gov/member/joe-neguse/N000191,House,Democratic,"['Judiciary', 'Natural Resources', 'Select Committee on the Climate Crisis']"
+N000189,dan-newhouse,Washington,https://www.congress.gov/member/dan-newhouse/N000189,House,Republican,"['Appropriations', 'Select Committee on the Modernization of Congress']"
+N000188,donald-norcross,New Jersey,https://www.congress.gov/member/donald-norcross/N000188,House,Democratic,"['Armed Services', 'Education and Labor']"
+N000190,ralph-norman,South Carolina,https://www.congress.gov/member/ralph-norman/N000190,House,Republican,"['Budget', 'Oversight and Reform', 'Science, Space, and Technology']"
+N000147,eleanor-norton,District of Columbia,https://www.congress.gov/member/eleanor-norton/N000147,House,Democratic,"['Oversight and Reform', 'Transportation and Infrastructure']"
+N000181,devin-nunes,California,https://www.congress.gov/member/devin-nunes/N000181,House,Republican,"['Ways and Means', 'Permanent Select Committee on Intelligence']"
+O000171,tom-o-halleran,Arizona,https://www.congress.gov/member/tom-o-halleran/O000171,House,Democratic,"['Agriculture', 'Energy and Commerce']"
+O000172,alexandria-ocasio-cortez,New York,https://www.congress.gov/member/alexandria-ocasio-cortez/O000172,House,Democratic,"['Financial Services', 'Oversight and Reform']"
+O000168,pete-olson,Texas,https://www.congress.gov/member/pete-olson/O000168,House,Republican,"['Energy and Commerce', 'Science, Space, and Technology']"
+O000173,ilhan-omar,Minnesota,https://www.congress.gov/member/ilhan-omar/O000173,House,Democratic,"['Budget', 'Education and Labor', 'Foreign Affairs']"
+P000601,steven-palazzo,Mississippi,https://www.congress.gov/member/steven-palazzo/P000601,House,Republican,['Appropriations']
+P000034,frank-pallone,New Jersey,https://www.congress.gov/member/frank-pallone/P000034,House,Democratic,"['Energy and Commerce, Chair']"
+P000609,gary-palmer,Alabama,https://www.congress.gov/member/gary-palmer/P000609,House,Republican,"['Transportation and Infrastructure', 'Select Committee on the Climate Crisis']"
+P000613,jimmy-panetta,California,https://www.congress.gov/member/jimmy-panetta/P000613,House,Democratic,"['Agriculture', 'Budget', 'Ways and Means']"
+P000614,chris-pappas,New Hampshire,https://www.congress.gov/member/chris-pappas/P000614,House,Democratic,"['Transportation and Infrastructure', ""Veterans' Affairs""]"
+P000096,william-pascrell,New Jersey,https://www.congress.gov/member/william-pascrell/P000096,House,Democratic,['Ways and Means']
+P000604,donald-payne,New Jersey,https://www.congress.gov/member/donald-payne/P000604,House,Democratic,"['Homeland Security', 'Transportation and Infrastructure']"
+P000197,nancy-pelosi,California,https://www.congress.gov/member/nancy-pelosi/P000197,House,Democratic,['The Speaker']
+P000615,greg-pence,Indiana,https://www.congress.gov/member/greg-pence/P000615,House,Republican,"['Foreign Affairs', 'Transportation and Infrastructure']"
+P000593,ed-perlmutter,Colorado,https://www.congress.gov/member/ed-perlmutter/P000593,House,Democratic,"['Financial Services', 'Rules', 'Science, Space, and Technology']"
+P000605,scott-perry,Pennsylvania,https://www.congress.gov/member/scott-perry/P000605,House,Republican,"['Foreign Affairs', 'Transportation and Infrastructure']"
+P000608,scott-peters,California,https://www.congress.gov/member/scott-peters/P000608,House,Democratic,"['Budget', 'Energy and Commerce']"
+P000258,collin-peterson,Minnesota,https://www.congress.gov/member/collin-peterson/P000258,House,Democratic,"['Agriculture, Chair', ""Veterans' Affairs""]"
+P000616,dean-phillips,Minnesota,https://www.congress.gov/member/dean-phillips/P000616,House,Democratic,"['Ethics', 'Financial Services', 'Foreign Affairs']"
+P000597,chellie-pingree,Maine,https://www.congress.gov/member/chellie-pingree/P000597,House,Democratic,"['Agriculture', 'Appropriations']"
+P000610,stacey-plaskett,Virgin Islands,https://www.congress.gov/member/stacey-plaskett/P000610,House,Democratic,"['Agriculture', 'Oversight and Reform', 'Transportation and Infrastructure']"
+P000607,mark-pocan,Wisconsin,https://www.congress.gov/member/mark-pocan/P000607,House,Democratic,"['Appropriations', 'Select Committee on the Modernization of Congress']"
+P000618,katie-porter,California,https://www.congress.gov/member/katie-porter/P000618,House,Democratic,['Financial Services']
+P000599,bill-posey,Florida,https://www.congress.gov/member/bill-posey/P000599,House,Republican,"['Financial Services', 'Science, Space, and Technology']"
+P000617,ayanna-pressley,Massachusetts,https://www.congress.gov/member/ayanna-pressley/P000617,House,Democratic,"['Financial Services', 'Oversight and Reform']"
+P000523,david-price,North Carolina,https://www.congress.gov/member/david-price/P000523,House,Democratic,"['Appropriations', 'Budget']"
+Q000023,mike-quigley,Illinois,https://www.congress.gov/member/mike-quigley/Q000023,House,Democratic,"['Appropriations', 'Permanent Select Committee on Intelligence']"
+R000600,aumua-amata-radewagen,American Samoa,https://www.congress.gov/member/aumua-amata-radewagen/R000600,House,Republican,"['Natural Resources', 'Small Business', ""Veterans' Affairs""]"
+R000606,jamie-raskin,Maryland,https://www.congress.gov/member/jamie-raskin/R000606,House,Democratic,"['House Administration', 'Judiciary', 'Oversight and Reform', 'Rules']"
+R000601,john-ratcliffe,Texas,https://www.congress.gov/member/john-ratcliffe/R000601,House,Republican,"['Ethics', 'Judiciary', 'Permanent Select Committee on Intelligence']"
+R000585,tom-reed,New York,https://www.congress.gov/member/tom-reed/R000585,House,Republican,['Ways and Means']
+R000610,guy-reschenthaler,Pennsylvania,https://www.congress.gov/member/guy-reschenthaler/R000610,House,Republican,"['Foreign Affairs', 'Judiciary']"
+R000602,kathleen-rice,New York,https://www.congress.gov/member/kathleen-rice/R000602,House,Democratic,"['Homeland Security', ""Veterans' Affairs""]"
+R000597,tom-rice,South Carolina,https://www.congress.gov/member/tom-rice/R000597,House,Republican,['Ways and Means']
+R000588,cedric-richmond,Louisiana,https://www.congress.gov/member/cedric-richmond/R000588,House,Democratic,"['Homeland Security', 'Judiciary']"
+R000611,denver-riggleman,Virginia,https://www.congress.gov/member/denver-riggleman/R000611,House,Republican,['Financial Services']
+R000591,martha-roby,Alabama,https://www.congress.gov/member/martha-roby/R000591,House,Republican,"['Appropriations', 'Judiciary']"
+R000582,david-roe,Tennessee,https://www.congress.gov/member/david-roe/R000582,House,Republican,"['Education and Labor', ""Veterans' Affairs, Ranking Member""]"
+R000395,harold-rogers,Kentucky,https://www.congress.gov/member/harold-rogers/R000395,House,Republican,['Appropriations']
+R000575,mike-rogers,Alabama,https://www.congress.gov/member/mike-rogers/R000575,House,Republican,"['Armed Services', 'Homeland Security']"
+R000607,francis-rooney,Florida,https://www.congress.gov/member/francis-rooney/R000607,House,Republican,"['Foreign Affairs', 'Science, Space, and Technology']"
+R000612,john-rose,Tennessee,https://www.congress.gov/member/john-rose/R000612,House,Republican,['Financial Services']
+R000613,max-rose,New York,https://www.congress.gov/member/max-rose/R000613,House,Democratic,"['Homeland Security', ""Veterans' Affairs""]"
+R000616,harley-rouda,California,https://www.congress.gov/member/harley-rouda/R000616,House,Democratic,"['Oversight and Reform', 'Transportation and Infrastructure']"
+R000603,david-rouzer,North Carolina,https://www.congress.gov/member/david-rouzer/R000603,House,Republican,"['Agriculture', 'Transportation and Infrastructure']"
+R000614,chip-roy,Texas,https://www.congress.gov/member/chip-roy/R000614,House,Republican,"['Budget', 'Oversight and Reform', ""Veterans' Affairs""]"
+R000486,lucille-roybal-allard,California,https://www.congress.gov/member/lucille-roybal-allard/R000486,House,Democratic,['Appropriations']
+R000599,raul-ruiz,California,https://www.congress.gov/member/raul-ruiz/R000599,House,Democratic,['Energy and Commerce']
+R000576,c-a-ruppersberger,Maryland,https://www.congress.gov/member/c-a-ruppersberger/R000576,House,Democratic,['Appropriations']
+R000515,bobby-rush,Illinois,https://www.congress.gov/member/bobby-rush/R000515,House,Democratic,['Energy and Commerce']
+R000609,john-rutherford,Florida,https://www.congress.gov/member/john-rutherford/R000609,House,Republican,['Appropriations']
+R000577,tim-ryan,Ohio,https://www.congress.gov/member/tim-ryan/R000577,House,Democratic,['Appropriations']
+S001177,gregorio-sablan,Northern Mariana Islands,https://www.congress.gov/member/gregorio-sablan/S001177,House,Democratic,"['Education and Labor', 'Natural Resources', ""Veterans' Affairs""]"
+S001204,michael-san-nicolas,Guam,https://www.congress.gov/member/michael-san-nicolas/S001204,House,Democratic,"['Financial Services', 'Natural Resources']"
+S001156,linda-sanchez,California,https://www.congress.gov/member/linda-sanchez/S001156,House,Democratic,['Ways and Means']
+S001168,john-sarbanes,Maryland,https://www.congress.gov/member/john-sarbanes/S001168,House,Democratic,"['Energy and Commerce', 'Oversight and Reform']"
+S001176,steve-scalise,Louisiana,https://www.congress.gov/member/steve-scalise/S001176,House,Republican,"['Minority Whip', 'Energy and Commerce']"
+S001205,mary-scanlon,Pennsylvania,https://www.congress.gov/member/mary-scanlon/S001205,House,Democratic,"['Judiciary', 'Rules', 'Select Committee on the Modernization of Congress']"
+S001145,janice-schakowsky,Illinois,https://www.congress.gov/member/janice-schakowsky/S001145,House,Democratic,"['Senior Chief Deputy Majority Whip', 'Budget', 'Energy and Commerce']"
+S001150,adam-schiff,California,https://www.congress.gov/member/adam-schiff/S001150,House,Democratic,"['Permanent Select Committee on Intelligence, Chairman']"
+S001190,bradley-schneider,Illinois,https://www.congress.gov/member/bradley-schneider/S001190,House,Democratic,"['Small Business', 'Ways and Means']"
+S001180,kurt-schrader,Oregon,https://www.congress.gov/member/kurt-schrader/S001180,House,Democratic,['Energy and Commerce']
+S001216,kim-schrier,Washington,https://www.congress.gov/member/kim-schrier/S001216,House,Democratic,"['Agriculture', 'Education and Labor']"
+S001183,david-schweikert,Arizona,https://www.congress.gov/member/david-schweikert/S001183,House,Republican,['Ways and Means']
+S001189,austin-scott,Georgia,https://www.congress.gov/member/austin-scott/S001189,House,Republican,"['Agriculture', 'Armed Services']"
+S001157,david-scott,Georgia,https://www.congress.gov/member/david-scott/S001157,House,Democratic,"['Agriculture', 'Financial Services']"
+S000185,robert-scott,Virginia,https://www.congress.gov/member/robert-scott/S000185,House,Democratic,"['Education and Labor, Chair', 'Budget']"
+S000244,f-sensenbrenner,Wisconsin,https://www.congress.gov/member/f-sensenbrenner/S000244,House,Republican,"['Foreign Affairs', 'Judiciary']"
+S000248,jose-serrano,New York,https://www.congress.gov/member/jose-serrano/S000248,House,Democratic,['Appropriations']
+S001185,terri-sewell,Alabama,https://www.congress.gov/member/terri-sewell/S001185,House,Democratic,"['Ways and Means', 'Permanent Select Committee on Intelligence']"
+S001206,donna-shalala,Florida,https://www.congress.gov/member/donna-shalala/S001206,House,Democratic,"['Education and Labor', 'Rules']"
+S000344,brad-sherman,California,https://www.congress.gov/member/brad-sherman/S000344,House,Democratic,"['Financial Services', 'Foreign Affairs', 'Science, Space, and Technology']"
+S001207,mikie-sherrill,New Jersey,https://www.congress.gov/member/mikie-sherrill/S001207,House,Democratic,"['Armed Services', 'Science, Space, and Technology']"
+S000364,john-shimkus,Illinois,https://www.congress.gov/member/john-shimkus/S000364,House,Republican,['Energy and Commerce']
+S001148,michael-simpson,Idaho,https://www.congress.gov/member/michael-simpson/S001148,House,Republican,['Appropriations']
+S001165,albio-sires,New Jersey,https://www.congress.gov/member/albio-sires/S001165,House,Democratic,"['Budget', 'Foreign Affairs', 'Transportation and Infrastructure']"
+S001208,elissa-slotkin,Michigan,https://www.congress.gov/member/elissa-slotkin/S001208,House,Democratic,"['Armed Services', 'Homeland Security']"
+S000510,adam-smith,Washington,https://www.congress.gov/member/adam-smith/S000510,House,Democratic,"['Armed Services, Chair']"
+S001172,adrian-smith,Nebraska,https://www.congress.gov/member/adrian-smith/S001172,House,Republican,['Ways and Means']
+S000522,christopher-smith,New Jersey,https://www.congress.gov/member/christopher-smith/S000522,House,Republican,['Foreign Affairs']
+S001195,jason-smith,Missouri,https://www.congress.gov/member/jason-smith/S001195,House,Republican,"['Budget', 'Ways and Means']"
+S001199,lloyd-smucker,Pennsylvania,https://www.congress.gov/member/lloyd-smucker/S001199,House,Republican,"['Education and Labor', 'Transportation and Infrastructure']"
+S001200,darren-soto,Florida,https://www.congress.gov/member/darren-soto/S001200,House,Democratic,"['Energy and Commerce', 'Natural Resources']"
+S001209,abigail-spanberger,Virginia,https://www.congress.gov/member/abigail-spanberger/S001209,House,Democratic,"['Agriculture', 'Foreign Affairs']"
+S001210,ross-spano,Florida,https://www.congress.gov/member/ross-spano/S001210,House,Republican,"['Small Business', 'Transportation and Infrastructure']"
+S001175,jackie-speier,California,https://www.congress.gov/member/jackie-speier/S001175,House,Democratic,"['Armed Services', 'Oversight and Reform', 'Permanent Select Committee on Intelligence']"
+S001211,greg-stanton,Arizona,https://www.congress.gov/member/greg-stanton/S001211,House,Democratic,"['Judiciary', 'Transportation and Infrastructure']"
+S001212,pete-stauber,Minnesota,https://www.congress.gov/member/pete-stauber/S001212,House,Republican,"['Small Business', 'Transportation and Infrastructure']"
+S001196,elise-stefanik,New York,https://www.congress.gov/member/elise-stefanik/S001196,House,Republican,"['Armed Services', 'Education and Labor', 'Permanent Select Committee on Intelligence']"
+S001213,bryan-steil,Wisconsin,https://www.congress.gov/member/bryan-steil/S001213,House,Republican,['Financial Services']
+S001214,w-steube,Florida,https://www.congress.gov/member/w-steube/S001214,House,Republican,"['Judiciary', 'Oversight and Reform', ""Veterans' Affairs""]"
+S001215,haley-stevens,Michigan,https://www.congress.gov/member/haley-stevens/S001215,House,Democratic,"['Education and Labor', 'Science, Space, and Technology']"
+S001192,chris-stewart,Utah,https://www.congress.gov/member/chris-stewart/S001192,House,Republican,"['Appropriations', 'Budget', 'Permanent Select Committee on Intelligence']"
+S001187,steve-stivers,Ohio,https://www.congress.gov/member/steve-stivers/S001187,House,Republican,['Financial Services']
+S001201,thomas-suozzi,New York,https://www.congress.gov/member/thomas-suozzi/S001201,House,Democratic,['Ways and Means']
+S001193,eric-swalwell,California,https://www.congress.gov/member/eric-swalwell/S001193,House,Democratic,"['Judiciary', 'Permanent Select Committee on Intelligence']"
+T000472,mark-takano,California,https://www.congress.gov/member/mark-takano/T000472,House,Democratic,"[""Veterans' Affairs, Chair"", 'Education and Labor']"
+T000479,van-taylor,Texas,https://www.congress.gov/member/van-taylor/T000479,House,Republican,"['Education and Labor', 'Homeland Security']"
+T000193,bennie-thompson,Mississippi,https://www.congress.gov/member/bennie-thompson/T000193,House,Democratic,"['Homeland Security, Chair']"
+T000467,glenn-thompson,Pennsylvania,https://www.congress.gov/member/glenn-thompson/T000467,House,Republican,"['Agriculture', 'Education and Labor']"
+T000460,mike-thompson,California,https://www.congress.gov/member/mike-thompson/T000460,House,Democratic,['Ways and Means']
+T000238,william-thornberry,Texas,https://www.congress.gov/member/william-thornberry/T000238,House,Republican,['Armed Services']
+T000480,william-timmons,South Carolina,https://www.congress.gov/member/william-timmons/T000480,House,Republican,"['Financial Services', 'Select Committee on the Modernization of Congress']"
+T000470,scott-tipton,Colorado,https://www.congress.gov/member/scott-tipton/T000470,House,Republican,['Financial Services']
+T000468,dina-titus,Nevada,https://www.congress.gov/member/dina-titus/T000468,House,Democratic,"['Foreign Affairs', 'Homeland Security', 'Transportation and Infrastructure']"
+T000481,rashida-tlaib,Michigan,https://www.congress.gov/member/rashida-tlaib/T000481,House,Democratic,"['Financial Services', 'Oversight and Reform']"
+T000469,paul-tonko,New York,https://www.congress.gov/member/paul-tonko/T000469,House,Democratic,"['Energy and Commerce', 'Natural Resources', 'Science, Space, and Technology']"
+T000484,xochitl-torres-small,New Mexico,https://www.congress.gov/member/xochitl-torres-small/T000484,House,Democratic,"['Armed Services', 'Homeland Security']"
+T000474,norma-torres,California,https://www.congress.gov/member/norma-torres/T000474,House,Democratic,"['Appropriations', 'Rules']"
+T000482,lori-trahan,Massachusetts,https://www.congress.gov/member/lori-trahan/T000482,House,Democratic,"['Armed Services', 'Education and Labor']"
+T000483,david-trone,Maryland,https://www.congress.gov/member/david-trone/T000483,House,Democratic,"['Education and Labor', 'Foreign Affairs']"
+T000463,michael-turner,Ohio,https://www.congress.gov/member/michael-turner/T000463,House,Republican,"['Armed Services', 'Permanent Select Committee on Intelligence']"
+U000040,lauren-underwood,Illinois,https://www.congress.gov/member/lauren-underwood/U000040,House,Democratic,"['Education and Labor', 'Homeland Security', ""Veterans' Affairs""]"
+U000031,fred-upton,Michigan,https://www.congress.gov/member/fred-upton/U000031,House,Republican,['Energy and Commerce']
+V000133,jefferson-van-drew,New Jersey,https://www.congress.gov/member/jefferson-van-drew/V000133,House,Democratic,"['Agriculture', 'Natural Resources']"
+V000130,juan-vargas,California,https://www.congress.gov/member/juan-vargas/V000130,House,Democratic,"['Financial Services', 'Foreign Affairs']"
+V000131,marc-veasey,Texas,https://www.congress.gov/member/marc-veasey/V000131,House,Democratic,"['Energy and Commerce', 'Small Business']"
+V000132,filemon-vela,Texas,https://www.congress.gov/member/filemon-vela/V000132,House,Democratic,"['Agriculture', 'Armed Services']"
+V000081,nydia-velazquez,New York,https://www.congress.gov/member/nydia-velazquez/V000081,House,Democratic,"['Small Business, Chair', 'Financial Services', 'Natural Resources']"
+V000108,peter-visclosky,Indiana,https://www.congress.gov/member/peter-visclosky/V000108,House,Democratic,['Appropriations']
+W000812,ann-wagner,Missouri,https://www.congress.gov/member/ann-wagner/W000812,House,Republican,"['Financial Services', 'Foreign Affairs']"
+W000798,tim-walberg,Michigan,https://www.congress.gov/member/tim-walberg/W000798,House,Republican,"['Education and Labor', 'Energy and Commerce']"
+W000791,greg-walden,Oregon,https://www.congress.gov/member/greg-walden/W000791,House,Republican,['Energy and Commerce']
+W000819,mark-walker,North Carolina,https://www.congress.gov/member/mark-walker/W000819,House,Republican,"['Education and Labor', 'Homeland Security', 'House Administration']"
+W000813,jackie-walorski,Indiana,https://www.congress.gov/member/jackie-walorski/W000813,House,Republican,"['Ethics', 'Ways and Means']"
+W000823,michael-waltz,Florida,https://www.congress.gov/member/michael-waltz/W000823,House,Republican,"['Armed Services', 'Science, Space, and Technology']"
+W000797,debbie-wasserman-schultz,Florida,https://www.congress.gov/member/debbie-wasserman-schultz/W000797,House,Democratic,"['Appropriations', 'Oversight and Reform']"
+W000187,maxine-waters,California,https://www.congress.gov/member/maxine-waters/W000187,House,Democratic,"['Financial Services, Chair']"
+W000824,steve-watkins,Kansas,https://www.congress.gov/member/steve-watkins/W000824,House,Republican,"['Education and Labor', 'Foreign Affairs', ""Veterans' Affairs""]"
+W000822,bonnie-watson-coleman,New Jersey,https://www.congress.gov/member/bonnie-watson-coleman/W000822,House,Democratic,"['Appropriations', 'Homeland Security']"
+W000814,randy-weber,Texas,https://www.congress.gov/member/randy-weber/W000814,House,Republican,"['Science, Space, and Technology', 'Transportation and Infrastructure']"
+W000806,daniel-webster,Florida,https://www.congress.gov/member/daniel-webster/W000806,House,Republican,"['Natural Resources', 'Transportation and Infrastructure']"
+W000800,peter-welch,Vermont,https://www.congress.gov/member/peter-welch/W000800,House,Democratic,"['Energy and Commerce', 'Oversight and Reform', 'Permanent Select Committee on Intelligence']"
+W000815,brad-wenstrup,Ohio,https://www.congress.gov/member/brad-wenstrup/W000815,House,Republican,"['Ways and Means', 'Permanent Select Committee on Intelligence']"
+W000821,bruce-westerman,Arkansas,https://www.congress.gov/member/bruce-westerman/W000821,House,Republican,"['Natural Resources', 'Transportation and Infrastructure']"
+W000825,jennifer-wexton,Virginia,https://www.congress.gov/member/jennifer-wexton/W000825,House,Democratic,"['Financial Services', 'Science, Space, and Technology']"
+W000826,susan-wild,Pennsylvania,https://www.congress.gov/member/susan-wild/W000826,House,Democratic,"['Education and Labor', 'Ethics', 'Foreign Affairs']"
+W000816,roger-williams,Texas,https://www.congress.gov/member/roger-williams/W000816,House,Republican,['Financial Services']
+W000808,frederica-wilson,Florida,https://www.congress.gov/member/frederica-wilson/W000808,House,Democratic,"['Education and Labor', 'Transportation and Infrastructure']"
+W000795,joe-wilson,South Carolina,https://www.congress.gov/member/joe-wilson/W000795,House,Republican,"['Armed Services', 'Foreign Affairs']"
+W000804,robert-wittman,Virginia,https://www.congress.gov/member/robert-wittman/W000804,House,Republican,"['Armed Services', 'Natural Resources']"
+W000809,steve-womack,Arkansas,https://www.congress.gov/member/steve-womack/W000809,House,Republican,"['Appropriations', 'Budget']"
+W000810,rob-woodall,Georgia,https://www.congress.gov/member/rob-woodall/W000810,House,Republican,"['Budget', 'Rules', 'Transportation and Infrastructure', 'Select Committee on the Modernization of Congress']"
+W000827,ron-wright,Texas,https://www.congress.gov/member/ron-wright/W000827,House,Republican,"['Education and Labor', 'Foreign Affairs']"
+Y000062,john-yarmuth,Kentucky,https://www.congress.gov/member/john-yarmuth/Y000062,House,Democratic,"['Budget, Chair']"
+Y000065,ted-yoho,Florida,https://www.congress.gov/member/ted-yoho/Y000065,House,Republican,"['Agriculture', 'Foreign Affairs']"
+Y000033,don-young,Alaska,https://www.congress.gov/member/don-young/Y000033,House,Republican,"['Natural Resources', 'Transportation and Infrastructure']"
+Z000017,lee-zeldin,New York,https://www.congress.gov/member/lee-zeldin/Z000017,House,Republican,"['Financial Services', 'Foreign Affairs']"

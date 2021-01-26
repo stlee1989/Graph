@@ -1,0 +1,602 @@
+ID,Name,City,Country,IATA,Continent
+16,Keflavik International Airport,Keflavik,Iceland,KEF,Europe
+237,Noumérat - Moufdi Zakaria Airport,Ghardaia,Algeria,GHA,Africa
+309,Liège Airport,Liege,Belgium,LGG,Europe
+348,Leipzig/Halle Airport,Leipzig,Germany,LEJ,Europe
+374,Augsburg Airport,Augsburg,Germany,AGB,Europe
+433,Kajaani Airport,Kajaani,Finland,KAJ,Europe
+462,Vaasa Airport,Vaasa,Finland,VAA,Europe
+494,Bournemouth Airport,Bournemouth,UK,BOH,Europe
+519,Hawarden Airport,Hawarden,UK,CEG,Europe
+537,Glasgow Prestwick Airport,Prestwick,UK,PIK,Europe
+591,Rotterdam The Hague Airport,Rotterdam,Netherlands,RTM,Europe
+618,Bornholm Airport,Ronne,Denmark,RNN,Europe
+645,Haugesund Airport,Haugesund,Norway,HAU,Europe
+669,Kraków John Paul II International Airport,Krakow,Poland,KRK,Europe
+698,Mora Airport,Mora,Sweden,MXX,Europe
+724,Kiruna Airport,Kiruna,Sweden,KRN,Europe
+772,Rostock-Laage Airport,Laage,Germany,RLG,Europe
+1070,Angads Airport,Oujda,Morocco,OUD,Europe
+1130,Hurghada International Airport,Hurghada,Egypt,HRG,Africa
+1206,Split Airport,Split,Croatia,SPU,Europe
+1225,Ibiza Airport,Ibiza,Spain,IBZ,Europe
+1247,Valladolid Airport,Valladolid,Spain,VLL,Europe
+1276,Tarbes-Lourdes-Pyrénées Airport,Tarbes,France,LDE,Europe
+1323,Figari Sud-Corse Airport,Figari,France,FSC,Europe
+1361,Avignon-Caumont Airport,Avignon,France,AVN,Europe
+1412,Caen-Carpiquet Airport,Caen,France,CFR,Europe
+1450,Chios Island National Airport,Chios,Greece,JKH,Europe
+1463,Filippos Airport,Kozani,Greece,KZI,Europe
+1480,Sitia Airport,Sitia,Greece,JSH,Europe
+1511,Pantelleria Airport,Pantelleria,Italy,PNL,Europe
+1531,Parma Airport,Parma,Italy,PMF,Europe
+1561,Naples International Airport,Naples,Italy,NAP,Europe
+1609,Graz Airport,Graz,Austria,GRZ,Europe
+1649,Tautii Magheraus Airport,Baia Mare,Romania,BAY,Europe
+1675,Lugano Airport,Lugano,Switzerland,LUG,Europe
+1696,Kayseri Erkilet Airport,Kayseri,Turkey,ASR,Europe
+1735,Chi?in?u International Airport,Chisinau,Moldova,KIV,Europe
+2940,Donetsk International Airport,Donetsk,Ukraine,DOK,Europe
+2957,Kemerovo Airport,Kemorovo,Russia,KEJ,Europe
+2983,Tashkent International Airport,Tashkent,Uzbekistan,TAS,Asia
+3971,Batumi International Airport,Batumi,Georgia,BUS,Europe
+4191,Ikaria Airport,Ikaria,Greece,JIK,Europe
+4322,Klagenfurt Airport,Klagenfurt,Austria,KLU,Europe
+5572,Land's End Airport,Land's End,UK,LEQ,Europe
+5659,La Gomera Airport,La Gomera,Spain,GMZ,Europe
+5800,Ad?yaman Airport,Adiyaman,Turkey,ADF,Europe
+6122,Khankala Air Base,Grozny,Russia,\N,Europe
+6164,Orsk Airport,Orsk,Russia,OSW,Europe
+6780,Anadolu Airport,Eskissehir,Turkey,AOE,Europe
+8266,Gazipa?a Airport,Alanya,Turkey,GZP,Europe
+9327,Comiso Airport,Comiso,Italy,CIY,Europe
+209,Soummam Airport,Bejaja,Algeria,BJA,Africa
+238,Oued Irara Airport,Hassi Messaoud,Algeria,HME,Africa
+310,Ostend-Bruges International Airport,Ostend,Belgium,OST,Europe
+349,Saarbrücken Airport,Saarbruecken,Germany,SCN,Europe
+382,Friedrichshafen Airport,Friedrichshafen,Germany,FDH,Europe
+435,Kokkola-Pietarsaari Airport,Kruunupyy,Finland,KOK,Europe
+465,Belfast International Airport,Belfast,UK,BFS,Europe
+495,Southampton Airport,Southampton,UK,SOU,Europe
+520,Isle of Man Airport,Isle Of Man,Isle of Man,IOM,Europe
+538,Benbecula Airport,Benbecula,UK,BEB,Europe
+596,Cork Airport,Cork,Ireland,ORK,Europe
+619,Sønderborg Airport,Soenderborg,Denmark,SGD,Europe
+647,Kristiansund Airport (Kvernberget),Kristiansund,Norway,KSU,Europe
+671,Katowice International Airport,Katowice,Poland,KTW,Europe
+699,Stockholm Skavsta Airport,Stockholm,Sweden,NYO,Europe
+726,Skellefteå Airport,Skelleftea,Sweden,SFT,Europe
+1051,Fuerteventura Airport,Fuerteventura,Spain,FUE,Europe
+1072,Rabat-Salé Airport,Rabat,Morocco,RBA,Europe
+1190,Tirana International Airport Mother Teresa,Tirana,Albania,TIA,Europe
+1208,Zagreb Airport,Zagreb,Croatia,ZAG,Europe
+1226,Jerez Airport,Jerez,Spain,XRY,Europe
+1250,Vigo Airport,Vigo,Spain,VGO,Europe
+1277,Angoulême-Brie-Champniers Airport,Angouleme,France,ANG,Europe
+1324,Ajaccio-Napoléon Bonaparte Airport,Ajaccio,France,AJA,Europe
+1367,Paris Beauvais Tillé Airport,Beauvais,France,BVA,Europe
+1415,Rennes-Saint-Jacques Airport,Rennes,France,RNS,Europe
+1451,Ioannina Airport,Ioannina,Greece,IOA,Europe
+1464,Leros Airport,Leros,Greece,LRS,Europe
+1482,Skiros Airport,Skiros,Greece,SKU,Europe
+1512,Falcone–Borsellino Airport,Palermo,Italy,PMO,Europe
+1534,Cuneo International Airport,Cuneo,Italy,CUF,Europe
+1562,Pisa International Airport,Pisa,Italy,PSA,Europe
+1610,Innsbruck Airport,Innsbruck,Austria,INN,Europe
+1651,Mihail Kog?lniceanu International Airport,Constanta,Romania,CND,Europe
+1676,Bern Belp Airport,Bern,Switzerland,BRN,Europe
+1699,Çardak Airport,Denizli,Turkey,DNZ,Europe
+1737,Skopje Alexander the Great Airport,Skopje,Macedonia,SKP,Europe
+2941,Dnipropetrovsk International Airport,Dnepropetrovsk,Ukraine,DNK,Europe
+2960,Krasnodar Pashkovsky International Airport,Krasnodar,Russia,KRR,Europe
+2985,Sheremetyevo International Airport,Moscow,Russia,SVO,Europe
+3972,Kopitnari Airport,Kutaisi,Georgia,KUT,Europe
+4192,Kalymnos Airport,Kalymnos,Greece,JKL,Europe
+4345,"Ørsta-Volda Airport, Hovden",Orsta-Volda,Norway,HOV,Europe
+5574,Anglesey Airport,Angelsey,UK,VLY,Europe
+5670,Dakhla Airport,Dakhla,Western Sahara,VIL,Africa
+5801,Süleyman Demirel International Airport,Isparta,Turkey,ISE,Europe
+6124,Beslan Airport,Beslan,Russia,OGZ,Europe
+6165,Penza Airport,Penza,Russia,PEZ,Europe
+6781,Çanakkale Airport,Canakkale,Turkey,CKZ,Europe
+8414,Modlin Airport,Warsaw,Poland,WMI,Europe
+210,Houari Boumediene Airport,Algier,Algeria,ALG,Africa
+240,Touggourt Sidi Madhi Airport,Touggourt,Algeria,TGR,Africa
+337,Berlin-Schönefeld Airport,Berlin,Germany,SXF,Europe
+350,Stuttgart Airport,Stuttgart,Germany,STR,Europe
+393,Zweibrücken Airport,Zweibruecken,Germany,ZQW,Europe
+437,Kuusamo Airport,Kuusamo,Finland,KAO,Europe
+467,George Best Belfast City Airport,Belfast,UK,BHD,Europe
+497,Alderney Airport,Alderney,Guernsey,ACI,Europe
+521,Newcastle Airport,Newcastle,UK,NCL,Europe
+540,Dundee Airport,Dundee,UK,DND,Europe
+599,Dublin Airport,Dublin,Ireland,DUB,Europe
+625,Vagar Airport,Vagar,Faroe Islands,FAE,Europe
+651,Molde Airport,Molde,Norway,MOL,Europe
+674,Pozna?-?awica Airport,Poznan,Poland,POZ,Europe
+703,Kristianstad Airport,Kristianstad,Sweden,KID,Europe
+728,Umeå Airport,Umea,Sweden,UME,Europe
+1052,Hierro Airport,Hierro,Spain,VDE,Europe
+1074,Mohammed V International Airport,Casablanca,Morocco,CMN,Europe
+1191,Burgas Airport,Bourgas,Bulgaria,BOJ,Europe
+1209,Zadar Airport,Zadar,Croatia,ZAD,Europe
+1227,San Javier Airport,Murcia,Spain,MJV,Europe
+1251,Santander Airport,Santander,Spain,SDR,Europe
+1278,Brive Souillac Airport,Brive,France,BVE,Europe
+1330,Clermont-Ferrand Auvergne Airport,Clermont-Ferrand,France,CFE,Europe
+1371,Le Havre Octeville Airport,Le Havre,France,LEH,Europe
+1416,Lannion-Côte de Granit Airport,Lannion,France,LAI,Europe
+1452,Heraklion International Nikos Kazantzakis Airport,Heraklion,Greece,HER,Europe
+1465,Limnos Airport,Limnos,Greece,LXS,Europe
+1486,Thessaloniki Macedonia International Airport,Thessaloniki,Greece,SKG,Europe
+1514,Reggio Calabria Airport,Reggio Calabria,Italy,REG,Europe
+1536,Bolzano Airport,Bolzano,Italy,BZO,Europe
+1563,Peretola Airport,Florence,Italy,FLR,Europe
+1611,Linz Hörsching Airport,Linz,Austria,LNZ,Europe
+1652,Cluj-Napoca International Airport,Cluj-napoca,Romania,CLJ,Europe
+1678,Zürich Airport,Zurich,Switzerland,ZRH,Europe
+1701,Atatürk International Airport,Istanbul,Turkey,ISL,Europe
+1738,Gibraltar Airport,Gibraltar,Gibraltar,GIB,Europe
+2942,Simferopol International Airport,Simferopol,Ukraine,SIP,Europe
+2961,Uytash Airport,Makhachkala,Russia,MCX,Europe
+2987,Voronezh International Airport,Voronezh,Russia,VOZ,Europe
+3973,Tbilisi International Airport,Tbilisi,Georgia,TBS,Europe
+4193,Milos Airport,Milos,Greece,MLO,Europe
+4347,St. Mary's Airport,ST MARY\'S,UK,ISC,Europe
+5575,Barra Airport,Barra,UK,BRR,Europe
+5671,Mogador Airport,Essadouira,Morocco,ESU,Europe
+5802,Bal?kesir Körfez Airport,Balikesir Korfez,Turkey,EDO,Europe
+6125,Elista Airport,Elista,Russia,ESL,Europe
+6166,Saransk Airport,Saransk,Russia,SKX,Europe
+6782,Mu? Airport,Mus,Turkey,MSR,Europe
+8740,Gorno-Altaysk Airport,Gorno-Altaysk,Russia,RGK,Europe
+220,Rabah Bitat Airport,Annaba,Algeria,AAE,Africa
+286,Monastir Habib Bourguiba International Airport,Monastir,Tunisia,MIR,Africa
+338,Dresden Airport,Dresden,Germany,DRS,Europe
+351,Berlin-Tegel Airport,Berlin,Germany,TXL,Europe
+400,Kassel-Calden Airport,Kassel,Germany,KSF,Europe
+439,Kuopio Airport,Kuopio,Finland,KUO,Europe
+468,City of Derry Airport,Londonderry,UK,LDY,Europe
+498,Guernsey Airport,Guernsey,Guernsey,GCI,Europe
+522,Durham Tees Valley Airport,Teesside,UK,MME,Europe
+541,Stornoway Airport,Stornoway,UK,SYY,Europe
+600,Ireland West Knock Airport,Connaught,Ireland,NOC,Europe
+628,Aalborg Airport,Aalborg,Denmark,AAL,Europe
+655,Ørland Airport,Orland,Norway,OLA,Europe
+675,Rzeszów-Jasionka Airport,Rzeszow,Poland,RZE,Europe
+707,Kalmar Airport,Kalkmar,Sweden,KLR,Europe
+731,Örebro Airport,Orebro,Sweden,ORB,Europe
+1053,La Palma Airport,Santa Cruz De La Palma,Spain,SPC,Europe
+1075,Menara Airport,Marrakech,Morocco,RAK,Europe
+1193,Plovdiv International Airport,Plovdiv,Bulgaria,PDV,Europe
+1212,Alicante International Airport,Alicante,Spain,ALC,Europe
+1229,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,Europe
+1252,Zaragoza Air Base,Zaragoza,Spain,ZAZ,Europe
+1279,Périgueux-Bassillac Airport,Perigueux,France,PGX,Europe
+1335,Lyon Saint-Exupéry Airport,Lyon,France,LYS,Europe
+1374,Châlons-Vatry Airport,Chalons,France,XCR,Europe
+1417,Quimper-Cornouaille Airport,Quimper,France,UIP,Europe
+1453,Kastoria National Airport,Kastoria,Greece,KSO,Europe
+1468,Mikonos Airport,Mykonos,Greece,JMK,Europe
+1488,"Zakynthos International Airport ""Dionysios Solomos""",Zakynthos,Greece,ZTH,Europe
+1515,Vincenzo Florio Airport Trapani-Birgi,Trapani,Italy,TPS,Europe
+1538,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,Europe
+1567,Perugia San Francesco d'Assisi – Umbria International Airport,Perugia,Italy,PEG,Europe
+1612,Salzburg Airport,Salzburg,Austria,SZG,Europe
+1654,Craiova Airport,Craiova,Romania,CRA,Europe
+1679,St Gallen Altenrhein Airport,Altenrhein,Switzerland,ACH,Europe
+1706,Adnan Menderes International Airport,Izmir,Turkey,ADB,Europe
+1739,Belgrade Nikola Tesla Airport,Belgrade,Serbia,BEG,Europe
+2944,Kiev Zhuliany International Airport,Kiev,Ukraine,IEV,Europe
+2962,Mineralnyye Vody Airport,Mineralnye Vody,Russia,MRV,Europe
+2988,Vnukovo International Airport,Moscow,Russia,VKO,Europe
+3986,Memmingen Allgau Airport,Memmingen,Germany,FMM,Europe
+4194,Naxos Airport,Cyclades Islands,Greece,JNX,Europe
+4352,Norilsk-Alykel Airport,Norilsk,Russia,NSK,Europe
+5577,Donegal Airport,Dongloe,Ireland,CFN,Europe
+5672,Hassan I Airport,El Aaiún,Western Sahara,EUN,Africa
+6089,Ganja Airport,Ganja,Azerbaijan,KVD,Europe
+6148,Andizhan Airport,Andizhan,Uzbekistan,AZN,Asia
+6466,Donskoye Airport,Tambow,Russia,TBW,Europe
+6784,Tekirda? Çorlu Airport,Çorlu,Turkey,TEQ,Europe
+8774,Lankaran International Airport,Lankaran,Azerbaijan,LLK,Europe
+221,Mohamed Boudiaf International Airport,Constantine,Algeria,CZL,Africa
+287,Tunis Carthage International Airport,Tunis,Tunisia,TUN,Africa
+339,Erfurt Airport,Erfurt,Germany,ERF,Europe
+352,Hannover Airport,Hannover,Germany,HAJ,Europe
+410,Westerland Sylt Airport,Westerland,Germany,GWT,Europe
+441,Lappeenranta Airport,Lappeenranta,Finland,LPP,Europe
+469,Birmingham International Airport,Birmingham,UK,BHX,Europe
+499,Jersey Airport,Jersey,Jersey,JER,Europe
+523,East Midlands Airport,East Midlands,UK,EMA,Europe
+542,Tiree Airport,Tiree,UK,TRE,Europe
+601,Kerry Airport,Kerry,Ireland,KIR,Europe
+629,Luxembourg-Findel International Airport,Luxemburg,Luxembourg,LUX,Europe
+656,Røros Airport,Roros,Norway,RRS,Europe
+676,"Szczecin-Goleniów ""Solidarno??"" Airport",Szczecin,Poland,SZZ,Europe
+708,Malmö Sturup Airport,Malmoe,Sweden,MMX,Europe
+733,Stockholm Västerås Airport,Vasteras,Sweden,VST,Europe
+1054,Gran Canaria Airport,Gran Canaria,Spain,LPA,Europe
+1077,Ouarzazate Airport,Ouarzazate,Morocco,OZZ,Europe
+1194,Sofia Airport,Sofia,Bulgaria,SOF,Europe
+1213,Almería International Airport,Almeria,Spain,LEI,Europe
+1230,Málaga Airport,Malaga,Spain,AGP,Europe
+1253,Sevilla Airport,Sevilla,Spain,SVQ,Europe
+1280,Biarritz-Anglet-Bayonne Airport,Biarritz-bayonne,France,BIQ,Europe
+1344,Aurillac Airport,Aurillac,France,AUR,Europe
+1376,Tours-Val-de-Loire Airport,Tours,France,TUF,Europe
+1418,Nantes Atlantique Airport,Nantes,France,NTE,Europe
+1454,Kithira Airport,Kithira,Greece,KIT,Europe
+1469,Mytilene International Airport,Mytilini,Greece,MJT,Europe
+1489,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,Europe
+1517,Alghero-Fertilia Airport,Alghero,Italy,AHO,Europe
+1539,Treviso-Sant'Angelo Airport,Treviso,Italy,TSF,Europe
+1569,Ljubljana Jože Pu?nik Airport,Ljubljana,Slovenia,LJU,Europe
+1613,Vienna International Airport,Vienna,Austria,VIE,Europe
+1655,Ia?i Airport,Iasi,Romania,IAS,Europe
+1682,Esenbo?a International Airport,Ankara,Turkey,ESB,Europe
+1715,Dalaman International Airport,Dalaman,Turkey,DLM,Europe
+1741,Podgorica Airport,Podgorica,Montenegro,TGD,Europe
+2945,Lviv International Airport,Lvov,Ukraine,LWO,Europe
+2963,Stavropol Shpakovskoye Airport,Stavropol,Russia,STW,Europe
+2993,Kurumoch International Airport,Samara,Russia,KUF,Europe
+3987,Nev?ehir Kapadokya Airport,Nevsehir,Turkey,NAV,Europe
+4195,Paros National Airport,Paros,Greece,PAS,Europe
+4353,Anapa Vityazevo Airport,Anapa,Russia,AAQ,Europe
+5585,Sandane Airport (Anda),Sandane,Norway,SDN,Europe
+5673,Nador International Airport,El Aroui,Morocco,NDR,Europe
+6090,Nakhchivan Airport,Nakhchivan,Azerbaijan,NAJ,Europe
+6149,Fergana International Airport,Fergana,Uzbekistan,FEG,Asia
+6485,Navoi Airport,Navoi,Uzbekistan,NVI,Asia
+6933,Gelendzhik Airport,Gelendzhik,Russia,GDZ,Europe
+8775,Gabala International Airport,Qabala,Azerbaijan,GBB,Europe
+222,Cheikh Larbi Tébessi Airport,Tebessa,Algeria,TEE,Africa
+290,Gafsa Ksar International Airport,Gafsa,Tunisia,GAF,Africa
+340,Frankfurt am Main Airport,Frankfurt,Germany,FRA,Europe
+353,Bremen Airport,Bremen,Germany,BRE,Europe
+413,Kuressaare Airport,Kuressaare,Estonia,URE,Europe
+442,Mariehamn Airport,Mariehamn,Finland,MHQ,Europe
+472,Gloucestershire Airport,Golouchestershire,UK,GLO,Europe
+502,London Gatwick Airport,London,UK,LGW,Europe
+530,Sumburgh Airport,Sumburgh,UK,LSI,Europe
+547,Norwich International Airport,Norwich,UK,NWI,Europe
+603,Shannon Airport,Shannon,Ireland,SNN,Europe
+630,Ålesund Airport,Alesund,Norway,AES,Europe
+657,"Moss Airport, Rygge",Rygge,Norway,RYG,Europe
+679,Warsaw Chopin Airport,Warsaw,Poland,WAW,Europe
+709,Halmstad Airport,Halmstad,Sweden,HAD,Europe
+734,Luleå Airport,Lulea,Sweden,LLA,Europe
+1055,Lanzarote Airport,Arrecife,Spain,ACE,Europe
+1078,Cherif Al Idrissi Airport,Al Hociema,Morocco,AHU,Europe
+1196,Varna Airport,Varna,Bulgaria,VAR,Europe
+1214,Asturias Airport,Aviles,Spain,OVD,Europe
+1231,Menorca Airport,Menorca,Spain,MAH,Europe
+1262,Agen-La Garenne Airport,Agen,France,AGF,Europe
+1285,Castres-Mazamet Airport,Castres,France,DCM,Europe
+1350,Saint-Étienne-Bouthéon Airport,St-Etienne,France,EBU,Europe
+1382,Charles de Gaulle International Airport,Paris,France,CDG,Europe
+1423,EuroAirport Basel-Mulhouse-Freiburg Airport,Mulhouse,France,BSL,Europe
+1455,Kefallinia Airport,Keffallinia,Greece,EFL,Europe
+1470,Aktion National Airport,Preveza,Greece,PVK,Europe
+1490,Debrecen International Airport,Debrecen,Hungary,DEB,Europe
+1519,Cagliari Elmas Airport,Cagliari,Italy,CAG,Europe
+1545,Trieste–Friuli Venezia Giulia Airport,Ronchi De Legionari,Italy,TRS,Europe
+1582,Ostrava Leos Janá?ek Airport,Ostrava,Czech Republic,OSR,Europe
+1626,Faro Airport,Faro,Portugal,FAO,Europe
+1656,Oradea International Airport,Oradea,Romania,OMR,Europe
+1685,Adana Airport,Adana,Turkey,ADA,Europe
+1721,Elaz?? Airport,Elazig,Turkey,EZS,Europe
+1742,Priština International Airport,Pristina,Serbia,PRN,Europe
+2947,Odessa International Airport,Odessa,Ukraine,ODS,Europe
+2964,Platov International Airport,Rostov,Russia,ROV,Europe
+3941,Eleftherios Venizelos International Airport,Athens,Greece,ATH,Europe
+3998,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,Europe
+4196,Kastelorizo Airport,Kastelorizo,Greece,KZS,Europe
+4363,Saratov Central Airport,Saratov,Russia,RTW,Europe
+5586,Sogndal Airport,Sogndal,Norway,SOG,Europe
+5780,Ercan International Airport,Nicosia,Cyprus,ECN,Europe
+6103,Zaporizhzhia International Airport,Zaporozhye,Ukraine,OZH,Europe
+6151,Nukus Airport,Nukus,Uzbekistan,NCU,Asia
+6492,Ain Arnat Airport,Setif,Algeria,QSF,Africa
+6940,Tunoshna Airport,Yaroslavl,Russia,IAR,Europe
+8832,Lublin Airport,Lublin,Poland,LUZ,Europe
+224,Hassi R'Mel Airport,Tilrempt,Algeria,HRM,Africa
+291,Gabès Matmata International Airport,Gabes,Tunisia,GAE,Africa
+341,Münster Osnabrück Airport,Munster,Germany,FMO,Europe
+355,Frankfurt-Hahn Airport,Hahn,Germany,HHN,Europe
+415,Lennart Meri Tallinn Airport,Tallinn-ulemiste International,Estonia,TLL,Europe
+446,Oulu Airport,Oulu,Finland,OUL,Europe
+478,Manchester Airport,Manchester,UK,MAN,Europe
+503,London City Airport,London,UK,LCY,Europe
+531,Wick Airport,Wick,UK,WIC,Europe
+548,London Stansted Airport,London,UK,STN,Europe
+605,Waterford Airport,Waterford,Ireland,WAT,Europe
+636,Bergen Airport Flesland,Bergen,Norway,BGO,Europe
+659,Skien Airport,Skien,Norway,SKE,Europe
+680,Copernicus Wroc?aw Airport,Wroclaw,Poland,WRO,Europe
+711,Växjö Kronoberg Airport,Vaxjo,Sweden,VXO,Europe
+737,Stockholm-Arlanda Airport,Stockholm,Sweden,ARN,Europe
+1056,Tenerife South Airport,Tenerife,Spain,TFS,Europe
+1079,Saniat R'mel Airport,Tetouan,Morocco,TTU,Europe
+1197,Larnaca International Airport,Larnaca,Cyprus,LCA,Europe
+1216,Bilbao Airport,Bilbao,Spain,BIO,Europe
+1234,Pamplona Airport,Pamplona,Spain,PNA,Europe
+1264,Bordeaux-Mérignac Airport,Bordeaux,France,BOD,Europe
+1289,Rodez-Marcillac Airport,Rodez,France,RDZ,Europe
+1352,Carcassonne Airport,Carcassonne,France,CCF,Europe
+1386,Paris-Orly Airport,Paris,France,ORY,Europe
+1425,Dijon-Bourgogne Airport,Dijon,France,DIJ,Europe
+1456,Kalamata Airport,Kalamata,Greece,KLX,Europe
+1472,Diagoras Airport,Rhodos,Greece,RHO,Europe
+1501,Bari Karol Wojty?a Airport,Bari,Italy,BRI,Europe
+1520,Olbia Costa Smeralda Airport,Olbia,Italy,OLB,Europe
+1546,Federico Fellini International Airport,Rimini,Italy,RMI,Europe
+1584,Pardubice Airport,Pardubice,Czech Republic,PED,Europe
+1636,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,Europe
+1657,Henri Coand? International Airport,Bucharest,Romania,OTP,Europe
+1688,Antalya International Airport,Antalya,Turkey,AYT,Europe
+1722,Diyarbakir Airport,Diyabakir,Turkey,DIY,Europe
+1743,Tivat Airport,Tivat,Montenegro,TIV,Europe
+2948,Pulkovo Airport,St. Petersburg,Russia,LED,Europe
+2965,Sochi International Airport,Sochi,Russia,AER,Europe
+3953,Riga International Airport,Riga,Latvia,RIX,Europe
+4029,Domodedovo International Airport,Moscow,Russia,DME,Europe
+4197,Marsa Alam International Airport,Marsa Alam,Egypt,RMF,Africa
+5552,Batna Airport,Batna,Algeria,BLJ,Africa
+5591,Bydgoszcz Ignacy Jan Paderewski Airport,Bydgoszcz,Poland,BZG,Europe
+5781,Logroño-Agoncillo Airport,Logroño-Agoncillo,Spain,RJL,Europe
+6105,Kharkiv International Airport,Kharkov,Ukraine,HRK,Europe
+6152,Urgench Airport,Urgench,Uzbekistan,UGC,Asia
+6493,La Rochelle-Île de Ré Airport,La Rochelle,France,LRH,Europe
+6969,Begishevo Airport,Nizhnekamsk,Russia,NBC,Europe
+8924,Velikiy Ustyug Airport,Veliky Ustyug,Russia,VUS,Europe
+225,Bou Chekif Airport,Tiaret,Algeria,TID,Africa
+293,Djerba Zarzis International Airport,Djerba,Tunisia,DJE,Africa
+342,Hamburg Airport,Hamburg,Germany,HAM,Europe
+356,Mannheim-City Airport,Mannheim,Germany,MHG,Europe
+416,Tartu Airport,Tartu,Estonia,TAY,Europe
+448,Pori Airport,Pori,Finland,POR,Europe
+481,Newquay Cornwall Airport,Newquai,UK,NQY,Europe
+507,London Heathrow Airport,London,UK,LHR,Europe
+532,Aberdeen Dyce Airport,Aberdeen,UK,ABZ,Europe
+552,Exeter International Airport,Exeter,UK,EXT,Europe
+607,Aarhus Airport,Aarhus,Denmark,AAR,Europe
+638,Kristiansand Airport,Kristiansand,Norway,KRS,Europe
+660,Stord Airport,Stord,Norway,SRP,Europe
+685,Ronneby Airport,Ronneby,Sweden,RNB,Europe
+714,Sveg Airport,Sveg,Sweden,EVG,Europe
+738,Stockholm-Bromma Airport,Stockholm,Sweden,BMA,Europe
+1057,Tenerife Norte Airport,Tenerife,Spain,TFN,Europe
+1080,Ibn Batouta Airport,Tanger,Morocco,TNG,Europe
+1198,Paphos International Airport,Paphos,Cyprus,PFO,Europe
+1218,Barcelona International Airport,Barcelona,Spain,BCN,Europe
+1236,Reus Air Base,Reus,Spain,REU,Europe
+1265,Bergerac-Roumanière Airport,Bergerac,France,EGC,Europe
+1309,Dole-Tavaux Airport,Dole,France,DLE,Europe
+1353,Marseille Provence Airport,Marseille,France,MRS,Europe
+1399,Lille-Lesquin Airport,Lille,France,LIL,Europe
+1435,Strasbourg Airport,Strasbourg,France,SXB,Europe
+1458,Kos Airport,Kos,Greece,KGS,Europe
+1473,Araxos Airport,Patras,Greece,GPA,Europe
+1505,Pescara International Airport,Pescara,Italy,PSR,Europe
+1524,Malpensa International Airport,Milano,Italy,MXP,Europe
+1550,Verona Villafranca Airport,Villafranca,Italy,VRN,Europe
+1587,Václav Havel Airport Prague,Prague,Czech Republic,PRG,Europe
+1637,Porto Santo Airport,Porto Santo,Portugal,PXO,Europe
+1658,Sibiu International Airport,Sibiu,Romania,SBZ,Europe
+1689,Gaziantep International Airport,Gaziantep,Turkey,GZT,Europe
+1723,Erzincan Airport,Erzincan,Turkey,ERC,Europe
+1745,M. R. Štefánik Airport,Bratislava,Slovakia,BTS,Europe
+2949,Murmansk Airport,Murmansk,Russia,MMK,Europe
+2966,Astrakhan Airport,Astrakhan,Russia,ASF,Europe
+3956,Kaunas International Airport,Kaunas,Lithuania,KUN,Europe
+4057,Sharm El Sheikh International Airport,Sharm El Sheikh,Egypt,SSH,Africa
+4198,Weeze Airport,Weeze,Germany,NRN,Europe
+5553,Béchar Boudghene Ben Ali Lotfi Airport,Béchar,Algeria,CBH,Africa
+5593,Åre Östersund Airport,Östersund,Sweden,OSD,Europe
+5787,Syros Airport,Syros Island,Greece,JSY,Europe
+6106,Ivano-Frankivsk International Airport,Ivano-Frankivsk,Ukraine,IFO,Europe
+6153,Karshi Khanabad Airport,Khanabad,Uzbekistan,KSQ,Asia
+6734,Kirovsk-Apatity Airport,Apatity,Russia,KVK,Europe
+7447,Enfidha - Hammamet International Airport,Enfidha,Tunisia,NBE,Africa
+9043,I?d?r Airport,Igdir,Turkey,IGD,Europe
+230,Zenata – Messali El Hadj Airport,Tlemcen,Algeria,TLM,Africa
+296,Tozeur Nefta International Airport,Tozeur,Tunisia,TOE,Africa
+344,Cologne Bonn Airport,Cologne,Germany,CGN,Europe
+362,Hamburg-Finkenwerder Airport,Hamburg,Germany,XFW,Europe
+421,Helsinki Vantaa Airport,Helsinki,Finland,HEL,Europe
+453,Rovaniemi Airport,Rovaniemi,Finland,RVN,Europe
+488,Cardiff International Airport,Cardiff,UK,CWL,Europe
+508,Southend Airport,Southend,UK,SEN,Europe
+533,Inverness Airport,Inverness,UK,INV,Europe
+580,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,Europe
+608,Billund Airport,Billund,Denmark,BLL,Europe
+640,Bardufoss Airport,Bardufoss,Norway,BDU,Europe
+664,"Sandefjord Airport, Torp",Sandefjord,Norway,TRF,Europe
+687,Gothenburg-Landvetter Airport,Gothenborg,Sweden,GOT,Europe
+715,Gällivare Airport,Gallivare,Sweden,GEV,Europe
+739,Borlange Airport,Borlange,Sweden,BLE,Europe
+1058,Melilla Airport,Melilla,Spain,MLN,Europe
+1102,Amílcar Cabral International Airport,Amilcar Cabral,Cape Verde,SID,Africa
+1200,Dubrovnik Airport,Dubrovnik,Croatia,DBV,Europe
+1219,Badajoz Airport,Badajoz,Spain,BJZ,Europe
+1238,Salamanca Airport,Salamanca,Spain,SLM,Europe
+1268,Poitiers-Biard Airport,Poitiers,France,PIS,Europe
+1313,Le Puy-Loudes Airport,Le Puy,France,LPY,Europe
+1354,Nice-Côte d'Azur Airport,Nice,France,NCE,Europe
+1403,Brest Bretagne Airport,Brest,France,BES,Europe
+1438,Toulon-Hyères Airport,Hyeres,France,TLN,Europe
+1459,Karpathos Airport,Karpathos,Greece,AOK,Europe
+1474,Chania International Airport,Chania,Greece,CHQ,Europe
+1506,Brindisi – Salento Airport,Brindisi,Italy,BDS,Europe
+1525,Il Caravaggio International Airport,Bergamo,Italy,BGY,Europe
+1551,Venice Marco Polo Airport,Venice,Italy,VCE,Europe
+1588,Brno-Tu?any Airport,Brno,Czech Republic,BRQ,Europe
+1638,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,Europe
+1659,Satu Mare Airport,Satu Mare,Romania,SUJ,Europe
+1691,Konya Airport,Konya,Turkey,KYA,Europe
+1724,Erzurum International Airport,Erzurum,Turkey,ERZ,Europe
+1746,Košice Airport,Kosice,Slovakia,KSC,Europe
+2952,Khrabrovo Airport,Kaliningrad,Russia,KGD,Europe
+2967,Volgograd International Airport,Volgograd,Russia,VOG,Europe
+3958,Palanga International Airport,Palanga,Lithuania,PLQ,Europe
+4091,Madeira Airport,Funchal,Portugal,FNC,Europe
+4274,Nizhny Novgorod Strigino International Airport,Nizhniy Novgorod,Russia,GOJ,Europe
+5555,Guemar Airport,Guemar,Algeria,ELU,Africa
+5594,Hagfors Airport,Hagfors,Sweden,HFS,Europe
+5794,Banja Luka International Airport,Banja Luka,Bosnia and Herzegovina,BNX,Europe
+6109,Uzhhorod International Airport,Uzhgorod,Ukraine,UDJ,Europe
+6154,Termez Airport,Termez,Uzbekistan,TMJ,Asia
+6737,Pajala Airport,Pajala,Sweden,PJA,Europe
+7459,Lleida-Alguaire Airport,Lleida,Spain,ILD,Europe
+9044,?anl?urfa GAP Airport,Sanliurfa,Turkey,GNY,Europe
+231,Es Senia Airport,Oran,Algeria,ORN,Africa
+299,Antwerp International Airport (Deurne),Antwerp,Belgium,ANR,Europe
+345,Düsseldorf Airport,Duesseldorf,Germany,DUS,Europe
+364,Lübeck Blankensee Airport,Luebeck,Germany,LBC,Europe
+429,Joensuu Airport,Joensuu,Finland,JOE,Europe
+455,Savonlinna Airport,Savonlinna,Finland,SVL,Europe
+490,Bristol Airport,Bristol,UK,BRS,Europe
+514,Blackpool International Airport,Blackpool,UK,BLK,Europe
+534,Glasgow International Airport,Glasgow,UK,GLA,Europe
+582,Maastricht Aachen Airport,Maastricht,Netherlands,MST,Europe
+609,Copenhagen Kastrup Airport,Copenhagen,Denmark,CPH,Europe
+642,Leirin Airport,Fagernes,Norway,VDB,Europe
+665,Trondheim Airport Værnes,Trondheim,Norway,TRD,Europe
+688,Jönköping Airport,Joenkoeping,Sweden,JKG,Europe
+718,Kramfors Sollefteå Airport,Kramfors,Sweden,KRF,Europe
+742,Linköping City Airport,Linkoeping,Sweden,LPI,Europe
+1064,Al Massira Airport,Agadir,Morocco,AGA,Europe
+1103,Rabil Airport,Boa Vista,Cape Verde,BVC,Africa
+1202,Osijek Airport,Osijek,Croatia,OSI,Europe
+1220,A Coruña Airport,La Coruna,Spain,LCG,Europe
+1242,San Sebastian Airport,San Sebastian,Spain,EAS,Europe
+1270,Limoges Airport,Limoges,France,LIG,Europe
+1320,Metz-Nancy-Lorraine Airport,Metz,France,ETZ,Europe
+1356,Perpignan-Rivesaltes (Llabanère) Airport,Perpignan,France,PGF,Europe
+1405,Dinard-Pleurtuit-Saint-Malo Airport,Dinard,France,DNR,Europe
+1439,Nîmes-Arles-Camargue Airport,Nimes,France,FNI,Europe
+1460,Ioannis Kapodistrias International Airport,Kerkyra/corfu,Greece,CFU,Europe
+1475,Skiathos Island National Airport,Skiathos,Greece,JSI,Europe
+1508,Lamezia Terme Airport,Lamezia,Italy,SUF,Europe
+1526,Turin Airport,Torino,Italy,TRN,Europe
+1553,Ciampino–G. B. Pastine International Airport,Rome,Italy,CIA,Europe
+1590,Ben Gurion International Airport,Tel-aviv,Israel,TLV,Asia
+1645,Mostar International Airport,Mostar,Bosnia and Herzegovina,OMO,Europe
+1662,Transilvania Târgu Mure? International Airport,Tirgu Mures,Romania,TGM,Europe
+1692,Malatya Tulga Airport,Malatya,Turkey,\N,Europe
+1726,Trabzon International Airport,Trabzon,Turkey,TZX,Europe
+2922,Heydar Aliyev International Airport,Baku,Azerbaijan,GYD,Europe
+2954,Minsk National Airport,Minsk 2,Belarus,MSQ,Europe
+2973,Bolshoye Savino Airport,Perm,Russia,PEE,Europe
+3959,Vilnius International Airport,Vilnius,Lithuania,VNO,Europe
+4160,Bol Airport,Brac,Croatia,BWK,Europe
+4309,Ancona Falconara Airport,Ancona,Italy,AOI,Europe
+5557,Heringsdorf Airport,Heringsdorf,Germany,HDF,Europe
+5595,Karlstad Airport,Karlstad,Sweden,KSD,Europe
+5796,Kars Airport,Kars,Turkey,KSY,Europe
+6111,Cherepovets Airport,Cherepovets,Russia,CEE,Europe
+6156,Belgorod International Airport,Belgorod,Russia,EGO,Europe
+6753,Mardin Airport,Mardin,Turkey,MQM,Europe
+7821,Zonguldak Airport,Zonguldak,Turkey,ONQ,Europe
+9045,Zafer Airport,Kutahya,Turkey,KZR,Europe
+233,Ghriss Airport,Ghriss,Algeria,MUW,Africa
+302,Brussels Airport,Brussels,Belgium,BRU,Europe
+346,Munich Airport,Munich,Germany,MUC,Europe
+371,Paderborn Lippstadt Airport,Paderborn,Germany,PAD,Europe
+430,Jyvaskyla Airport,Jyvaskyla,Finland,JYV,Europe
+458,Tampere-Pirkkala Airport,Tampere,Finland,TMP,Europe
+491,Liverpool John Lennon Airport,Liverpool,UK,LPL,Europe
+515,Humberside Airport,Humberside,UK,HUY,Europe
+535,Edinburgh Airport,Edinburgh,UK,EDI,Europe
+585,Eindhoven Airport,Eindhoven,Netherlands,EIN,Europe
+610,Esbjerg Airport,Esbjerg,Denmark,EBJ,Europe
+643,Florø Airport,Floro,Norway,FRO,Europe
+666,Stavanger Airport Sola,Stavanger,Norway,SVG,Europe
+691,Gothenburg City Airport,Gothenborg,Sweden,GSE,Europe
+721,Sundsvall-Härnösand Airport,Sundsvall,Sweden,SDL,Europe
+743,Norrköping Airport,Norrkoeping,Sweden,NRK,Europe
+1065,Tan Tan Airport,Tan Tan,Morocco,TTA,Europe
+1105,Preguiça Airport,Sao Nocolau Island,Cape Verde,SNE,Africa
+1203,Pula Airport,Pula,Croatia,PUY,Europe
+1222,Girona Airport,Gerona,Spain,GRO,Europe
+1243,Santiago de Compostela Airport,Santiago,Spain,SCQ,Europe
+1273,Toulouse-Blagnac Airport,Toulouse,France,TLS,Europe
+1321,Bastia-Poretta Airport,Bastia,France,BIA,Europe
+1359,Montpellier-Méditerranée Airport,Montpellier,France,MPL,Europe
+1408,Deauville-Saint-Gatien Airport,Deauville,France,DOL,Europe
+1446,Dimokritos Airport,Alexandroupolis,Greece,AXD,Europe
+1461,Kasos Airport,Kasos,Greece,KSJ,Europe
+1476,Samos Airport,Samos,Greece,SMI,Europe
+1509,Catania-Fontanarossa Airport,Catania,Italy,CTA,Europe
+1528,Genoa Cristoforo Colombo Airport,Genoa,Italy,GOA,Europe
+1555,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,Europe
+1602,Ovda International Airport,Ovda,Israel,VDA,Asia
+1646,Sarajevo International Airport,Sarajevo,Bosnia and Herzegovina,SJJ,Europe
+1663,Timi?oara Traian Vuia Airport,Timisoara,Romania,TSR,Europe
+1693,Amasya Merzifon Airport,Merzifon,Turkey,MZH,Europe
+1728,Van Ferit Melen Airport,Van,Turkey,VAN,Europe
+2931,Pevek Airport,Pevek,Russia,PWE,Europe
+2955,Abakan Airport,Abakan,Russia,ABA,Europe
+2976,Ashgabat International Airport,Ashkhabad,Turkmenistan,ASB,Asia
+3964,Zvartnots International Airport,Yerevan,Armenia,EVN,Europe
+4166,Karlsruhe Baden-Baden Airport,Karlsruhe/Baden-Baden,Germany,FKB,Europe
+4315,Milas Bodrum International Airport,Bodrum,Turkey,BJV,Europe
+5562,Robin Hood Doncaster Sheffield Airport,"Doncaster, Sheffield",UK,DSA,Europe
+5596,Torsby Airport,Torsby,Sweden,TYF,Europe
+5798,Kahramanmara? Airport,Kahramanmaras,Turkey,KCM,Europe
+6114,Petrozavodsk Airport,Petrozavodsk,Russia,PES,Europe
+6157,Kursk East Airport,Kursk,Russia,URS,Europe
+6756,Leon Airport,Leon,Spain,LEN,Europe
+7863,Belbek Airport,Sevastopol,Ukraine,UKS,Europe
+9272,Bingöl Çeltiksuyu Airport,Bingol,Turkey,BGG,Europe
+235,Biskra Airport,Biskra,Algeria,BSK,Africa
+304,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,Europe
+347,Nuremberg Airport,Nuernberg,Germany,NUE,Europe
+373,Dortmund Airport,Dortmund,Germany,DTM,Europe
+432,Kemi-Tornio Airport,Kemi,Finland,KEM,Europe
+460,Turku Airport,Turku,Finland,TKU,Europe
+492,London Luton Airport,London,UK,LTN,Europe
+517,Leeds Bradford Airport,Leeds,UK,LBA,Europe
+536,Islay Airport,Islay,UK,ILY,Europe
+586,Eelde Airport,Groningen,Netherlands,GRQ,Europe
+612,Karup Airport,Karup,Denmark,KRP,Europe
+644,Oslo Lufthavn,Oslo,Norway,OSL,Europe
+668,Gda?sk Lech Wa??sa Airport,Gdansk,Poland,GDN,Europe
+693,Trollhättan-Vänersborg Airport,Trollhattan,Sweden,THN,Europe
+722,Örnsköldsvik Airport,Ornskoldsvik,Sweden,OER,Europe
+746,Visby Airport,Visby,Sweden,VBY,Europe
+1066,Saïss Airport,Fes,Morocco,FEZ,Europe
+1106,São Pedro Airport,Sao Vicente Island,Cape Verde,VXE,Africa
+1205,Rijeka Airport,Rijeka,Croatia,RJK,Europe
+1223,Federico Garcia Lorca Airport,Granada,Spain,GRX,Europe
+1246,Valencia Airport,Valencia,Spain,VLC,Europe
+1274,Pau Pyrénées Airport,Pau,France,PUF,Europe
+1322,Calvi-Sainte-Catherine Airport,Calvi,France,CLY,Europe
+1360,Béziers-Vias Airport,Beziers,France,BZR,Europe
+1409,Lorient South Brittany (Bretagne Sud) Airport,Lorient,France,LRT,Europe
+1448,Nea Anchialos Airport,Nea Anghialos,Greece,VOL,Europe
+1462,Alexander the Great International Airport,Kavala,Greece,KVA,Europe
+1479,Santorini Airport,Thira,Greece,JTR,Europe
+1510,Lampedusa Airport,Lampedusa,Italy,LMP,Europe
+1529,Milano Linate Airport,Milan,Italy,LIN,Europe
+1558,Marina Di Campo Airport,Marina Di Campo,Italy,EBA,Europe
+1606,Malta International Airport,Malta,Malta,MLA,Europe
+1647,Arad International Airport,Arad,Romania,ARW,Europe
+1665,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,Europe
+1694,Sivas Nuri Demira? Airport,Sivas,Turkey,VAS,Europe
+1729,Batman Airport,Batman,Turkey,BAL,Europe
+2939,Boryspil International Airport,Kiev,Ukraine,KBP,Europe
+2956,Barnaul Airport,Barnaul,Russia,BAX,Europe
+2980,Bukhara Airport,Bukhara,Uzbekistan,BHK,Asia
+3965,Gyumri Shirak Airport,Gyumri,Armenia,LWN,Europe
+4190,Astypalaia Airport,Astypalaia,Greece,JTY,Europe
+4317,Sabiha Gökçen International Airport,Istanbul,Turkey,SAW,Europe
+5563,Campbeltown Airport,Campbeltown,UK,CAL,Europe
+5597,Ängelholm-Helsingborg Airport,Ängelholm,Sweden,AGH,Europe
+5799,A?r? Airport,Agri,Turkey,AJI,Europe
+6119,Spichenkovo Airport,Novokuznetsk,Russia,NOZ,Europe
+6162,Cheboksary Airport,Cheboksary,Russia,CSY,Europe
+6757,Burgos Airport,Burgos,Spain,RGS,Europe
+8209,Vinnytsia/Gavyryshivka Airport,Vinnitsa,Ukraine,VIN,Europe
+9273,Kastamonu Airport,Kastamonu,Turkey,KFS,Europe

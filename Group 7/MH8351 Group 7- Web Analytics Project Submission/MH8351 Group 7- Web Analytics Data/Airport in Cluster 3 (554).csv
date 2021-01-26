@@ -1,0 +1,555 @@
+ID,Name,City,Country,IATA,Continent
+11258,Saumlaki/Olilit Airport,Saumlaki,Indonesia,SXK,Asia
+11257,Dharavandhoo Airport,DHARAVANDHOO,Maldives,DRV,Asia
+11051,Hamad International Airport,Doha,Qatar,DOH,Africa
+9905,RAAF Base Curtin,Derby,Australia,DCN,Oceania
+9904,Richmond Airport,Richmond,Australia,RCM,Oceania
+9898,Oksibil Airport,Oksibil,Indonesia,OKL,Asia
+9889,Melangguane Airport,Melonguane,Indonesia,MNA,Asia
+9888,Kao Airport,Kao,Indonesia,KAZ,Asia
+9887,Betoambari Airport,Bau-Bau,Indonesia,BUW,Asia
+9229,Sigiriya Air Force Base,Sigiriya,Sri Lanka,GIU,Asia
+9090,Busselton Regional Airport,Brusselton,Australia,BQB,Oceania
+8961,Sir Bani Yas Airport,Sir Bani Yas Island,United Arab Emirates,XSB,Asia
+8949,Mattala Rajapaksa International Airport,Mattala,Sri Lanka,HRI,Asia
+8892,Kooddoo Airport,Kooddoo,Maldives,GKK,Asia
+8807,Tabing Airport,Padang,Indonesia,\N,Asia
+8401,Lombok International Airport,Praya,Indonesia,LOP,Asia
+8381,Majeed Bin Abdulaziz Airport,Al-Ula,Saudi Arabia,ULH,Asia
+8235,Sohag International Airport,Sohag,Egypt,HMB,Africa
+8076,Al Maktoum International Airport,Dubai,United Arab Emirates,DWC,Asia
+7774,Mysore Airport,Mysore,India,MYQ,Asia
+7577,Ravensthorpe Airport,Ravensthorpe,Australia,RVT,Oceania
+7547,Yasouj Airport,Yasuj,Iran,YES,Asia
+7546,Persian Gulf International Airport,Khalije Fars,Iran,PGU,Asia
+7490,Al Najaf International Airport,Najaf,Iraq,NJF,Asia
+7453,Hatay Airport,Hatay,Turkey,HTY,Europe
+7128,Toowoomba Airport,Toowoomba,Australia,TWB,Oceania
+6974,Siargao Airport,Siargao,Philippines,IAO,Asia
+6949,Naypyidaw Airport,Naypyidaw,Burma,NYT,Asia
+6794,Taree Airport,Taree,Australia,TRO,Oceania
+6793,Orange Airport,Orange,Australia,OAG,Oceania
+6792,Grafton Airport,Grafton,Australia,GFN,Oceania
+6790,Hamadan Airport,Hamadan,Iran,HDM,Asia
+6776,Sialkot Airport,Sialkot,Pakistan,SKT,Asia
+6769,Long Akah Airport,Long Akah,Malaysia,LKH,Asia
+6768,Geneina Airport,Geneina,Sudan,EGN,Africa
+6760,Kangra Airport,Kangra,India,DHM,Asia
+6749,Parsabade Moghan Airport,Parsabad,Iran,PFQ,Asia
+6748,Ilam Airport,Ilam,Iran,IIL,Asia
+6747,Gorgan Airport,Gorgan,Iran,GBT,Asia
+6741,Gorakhpur Airport,Gorakhpur,India,GOP,Asia
+6733,Cauayan Airport,Cauayan,Philippines,CYZ,Asia
+6338,Wynyard Airport,Burnie,Australia,BWT,Oceania
+6337,Winton Airport,Winton,Australia,WIN,Oceania
+6334,Whyalla Airport,Whyalla,Australia,WYA,Oceania
+6333,Windorah Airport,Windorah,Australia,WNR,Oceania
+6329,Thargomindah Airport,Thargomindah,Australia,XTG,Oceania
+6325,St George Airport,St George,Australia,SGO,Oceania
+6324,Roma Airport,Roma,Australia,RMA,Oceania
+6322,Quilpie Airport,Quilpie,Australia,ULP,Oceania
+6321,Portland Airport,Portland,Australia,PTJ,Oceania
+6320,Port Macquarie Airport,Port Macquarie,Australia,PQQ,Oceania
+6319,Pormpuraaw Airport,Pormpuraaw,Australia,EDR,Oceania
+6318,Port Lincoln Airport,Port Lincoln,Australia,PLO,Oceania
+6317,Parkes Airport,Parkes,Australia,PKE,Oceania
+6316,Gove Airport,Gove,Australia,GOV,Oceania
+6315,Cocos (Keeling) Islands Airport,Cocos Keeling Island,Cocos (Keeling) Islands,CCK,Asia
+6314,Paraburdoo Airport,Paraburdoo,Australia,PBO,Oceania
+6312,Port Augusta Airport,Argyle,Australia,PUG,Oceania
+6311,Olympic Dam Airport,Olympic Dam,Australia,OLP,Oceania
+6310,Newman Airport,Newman,Australia,ZNE,Oceania
+6309,Normanton Airport,Normanton,Australia,NTN,Oceania
+6307,Narrandera Airport,Narrandera,Australia,NRA,Oceania
+6304,Mornington Island Airport,Mornington Island,Australia,ONG,Oceania
+6303,Mount Gambier Airport,Mount Gambier,Australia,MGB,Oceania
+6302,Moruya Airport,Moruya,Australia,MYA,Oceania
+6301,Moranbah Airport,Moranbah,Australia,MOV,Oceania
+6300,Moree Airport,Moree,Australia,MRZ,Oceania
+6298,Mildura Airport,Mildura,Australia,MQL,Oceania
+6297,McArthur River Mine Airport,McArthur River Mine,Australia,MCV,Oceania
+6296,Maningrida Airport,Maningrida,Australia,MNG,Oceania
+6295,Milingimbi Airport,Milingimbi,Australia,MGT,Oceania
+6294,Merimbula Airport,Merimbula,Australia,MIM,Oceania
+6289,Longreach Airport,Longreach,Australia,LRE,Oceania
+6287,Lismore Airport,Lismore,Australia,LSY,Oceania
+6286,Lockhart River Airport,Lockhart River,Australia,IRG,Oceania
+6285,Lord Howe Island Airport,Lord Howe Island,Australia,LDH,Oceania
+6281,Kowanyama Airport,Kowanyama,Australia,KWM,Oceania
+6278,King Island Airport,King Island,Australia,KNS,Oceania
+6276,Julia Creek Airport,Julia Creek,Australia,JCK,Oceania
+6272,Horn Island Airport,Horn Island,Australia,HID,Oceania
+6271,Griffith Airport,Griffith,Australia,GFF,Oceania
+6270,Groote Eylandt Airport,Groote Eylandt,Australia,GTE,Oceania
+6269,Gladstone Airport,Gladstone,Australia,GLT,Oceania
+6268,Geraldton Airport,Geraldton,Australia,GET,Oceania
+6267,Flinders Island Airport,Flinders Island,Australia,FLS,Oceania
+6266,Esperance Airport,Esperance,Australia,EPR,Oceania
+6265,Elcho Island Airport,Elcho Island,Australia,ELC,Oceania
+6264,Devonport Airport,Devonport,Australia,DPO,Oceania
+6262,Doomadgee Airport,Doomadgee,Australia,DMD,Oceania
+6260,Coen Airport,Coen,Australia,CUQ,Oceania
+6258,Cunnamulla Airport,Cunnamulla,Australia,CMA,Oceania
+6256,Ceduna Airport,Ceduna,Australia,CED,Oceania
+6255,Cloncurry Airport,Cloncurry,Australia,CNJ,Oceania
+6253,Coober Pedy Airport,Coober Pedy,Australia,CPD,Oceania
+6249,Bathurst Airport,Bathurst,Australia,BHS,Oceania
+6248,Boulia Airport,Boulia,Australia,BQL,Oceania
+6245,Burketown Airport,Burketown,Australia,BUC,Oceania
+6243,Bedourie Airport,Bedourie,Australia,BEU,Oceania
+6242,Hamilton Island Airport,Hamilton Island,Australia,HTI,Oceania
+6241,Broken Hill Airport,Broken Hill,Australia,BHQ,Oceania
+6240,Birdsville Airport,Birdsville,Australia,BVI,Oceania
+6238,Barcaldine Airport,Barcaldine,Australia,BCI,Oceania
+6237,Aurukun Airport,Aurukun,Australia,AUU,Oceania
+6235,Albany Airport,Albany,Australia,ALH,Oceania
+6225,Ranai Airport,Ranai-Natuna Besar Island,Indonesia,NTX,Asia
+6223,Radin Inten II (Branti) Airport,Bandar Lampung-Sumatra Island,Indonesia,TKG,Asia
+6222,Kudat Airport,Kudat,Malaysia,KUD,Asia
+6220,Bario Airport,Bario,Malaysia,BBN,Asia
+6219,Lawas Airport,Lawas,Malaysia,LWY,Asia
+6218,Bakalalan Airport,Bakalalan,Malaysia,BKM,Asia
+6217,Mukah Airport,Mukah,Malaysia,MKM,Asia
+6216,Long Seridan Airport,Long Seridan,Malaysia,ODN,Asia
+6215,Long Lellang Airport,Long Datih,Malaysia,LGL,Asia
+6212,Dumatumbun Airport,Langgur-Kei Islands,Indonesia,LUV,Asia
+6209,Kalimarau Airport,Tanjung Redep-Borneo Island,Indonesia,BEJ,Asia
+6204,Tambolaka Airport,Waikabubak-Sumba Island,Indonesia,TMC,Asia
+6185,Kadhdhoo Airport,Laamu Atoll,Maldives,KDO,Asia
+6184,Hanimaadhoo Airport,Haa Dhaalu Atoll,Maldives,HAQ,Asia
+6183,Gan International Airport,Gan Island,Maldives,GAN,Asia
+6182,Nepalgunj Airport,Nepalgunj,Nepal,KEP,Asia
+6180,Bhadrapur Airport,Chandragarhi,Nepal,BDP,Asia
+6179,Bharatpur Airport,Bharatpur,Nepal,BHR,Asia
+6176,Barisal Airport,Barisal,Bangladesh,BZL,Asia
+6174,Dimapur Airport,Dimapur,India,DMU,Asia
+6173,Lokpriya Gopinath Bordoloi International Airport,Guwahati,India,GAU,Asia
+6172,Shillong Airport,Shillong,India,SHL,Asia
+6169,Koggala Airport,Koggala,Sri Lanka,KCT,Asia
+6168,Hubli Airport,Hubli,India,HBX,Asia
+6026,Roxas Airport,Roxas City,Philippines,RXS,Asia
+6025,Moises R. Espinosa Airport,Masbate,Philippines,MBT,Asia
+6024,Catarman National Airport,Catarman,Philippines,CRM,Asia
+6023,Calbayog Airport,Calbayog City,Philippines,CYP,Asia
+6022,Virac Airport,Virac,Philippines,VRC,Asia
+6021,Tuguegarao Airport,Tuguegarao,Philippines,TUG,Asia
+6019,Basco Airport,Basco,Philippines,BSO,Asia
+6018,Naga Airport,Naga,Philippines,WNP,Asia
+6016,Surigao Airport,Sangley Point,Philippines,SUG,Asia
+6013,Jolo Airport,Jolo,Philippines,JOL,Asia
+6012,Camiguin Airport,Camiguin,Philippines,CGM,Asia
+5954,Sayun International Airport,Sayun Intl,Yemen,GXF,Asia
+5952,Sulaymaniyah International Airport,Sulaymaniyah,Iraq,ISU,Asia
+5951,Turbat International Airport,Turbat,Pakistan,TUK,Asia
+5949,Skardu Airport,Skardu,Pakistan,KDU,Asia
+5943,Dera Ismael Khan Airport,Dera Ismael Khan,Pakistan,DSK,Asia
+5942,Dera Ghazi Khan Airport,Dera Ghazi Khan,Pakistan,DEA,Asia
+5941,Dalbandin Airport,Dalbandin,Pakistan,DBA,Asia
+5940,Chitral Airport,Chitral,Pakistan,CJL,Asia
+5939,Bahawalpur Airport,Bahawalpur,Pakistan,BHV,Asia
+5937,Al Ain International Airport,Al Ain,United Arab Emirates,AAN,Asia
+5936,Urmia Airport,Uromiyeh,Iran,OMH,Asia
+5935,Ardabil Airport,Ardabil,Iran,ADU,Asia
+5934,Lar Airport,Lar,Iran,LRR,Asia
+5933,Dasht-e Naz Airport,Dasht-e-naz,Iran,SRY,Asia
+5932,Noshahr Airport,Noshahr,Iran,NSH,Asia
+5931,Sabzevar National Airport,Sabzevar,Iran,AFZ,Asia
+5930,Bojnord Airport,Bojnourd,Iran,BJB,Asia
+5928,Bam Airport,Bam,Iran,BXR,Asia
+5927,Khoram Abad Airport,Khorram Abad,Iran,KHD,Asia
+5925,Al-Jawf Domestic Airport,Al-Jawf,Saudi Arabia,AJF,Asia
+5924,Dawadmi Domestic Airport,Dawadmi,Saudi Arabia,\N,Asia
+5885,Pointe Vele Airport,Futuna Island,Wallis and Futuna,FUT,Oceania
+5884,Niue International Airport,Alofi,Niue,IUE,Oceania
+5883,Vanua Balavu Airport,Vanua Balavu,Fiji,VBV,Oceania
+5878,Savusavu Airport,Savusavu,Fiji,SVU,Oceania
+5877,Rotuma Airport,Rotuma,Fiji,RTA,Oceania
+5875,Matei Airport,Matei,Fiji,TVU,Oceania
+5874,Labasa Airport,Lambasa,Fiji,LBS,Oceania
+5873,Lakeba Island Airport,Lakeba Island,Fiji,LKB,Oceania
+5869,Vunisea Airport,Vunisea,Fiji,KDV,Oceania
+5867,Cicia Airport,Cicia,Fiji,ICI,Oceania
+5711,Diu Airport,Diu,India,DIU,Asia
+5702,Port Sudan New International Airport,Port Sudan,Sudan,PZU,Africa
+5701,Nyala Airport,Nyala,Sudan,UYL,Africa
+5699,La Abraq Airport,Al Bayda',Libya,LAQ,Africa
+5697,Gamal Abdel Nasser Airport,Tobruk,Libya,TOB,Africa
+5696,Gardabya Airport,Sirt,Libya,SRX,Africa
+5691,Assiut International Airport,Asyut,Egypt,ATZ,Africa
+5688,Galcaio Airport,Galcaio,Somalia,GLK,Africa
+5687,Aden Adde International Airport,Mogadishu,Somalia,MGQ,Africa
+5686,Bosaso Airport,Bosaso,Somalia,BSA,Africa
+4331,Mashhad International Airport,Mashhad,Iran,MHD,Asia
+4330,Imam Khomeini International Airport,Tehran,Iran,IKA,Asia
+4320,Newcastle Airport,Newcastle,Australia,NTL,Oceania
+4319,Broome International Airport,Broome,Australia,BME,Oceania
+4291,Ballina Byron Gateway Airport,Ballina Byron Bay,Australia,BNK,Oceania
+4235,Kaadedhdhoo Airport,Kaadedhdhoo,Maldives,KDM,Asia
+4218,Bundaberg Airport,Bundaberg,Australia,BDB,Oceania
+4217,Blackall Airport,Blackall,Australia,BKQ,Oceania
+4206,Mactan Cebu International Airport,Cebu,Philippines,CEB,Asia
+4204,Labo Airport,Ozamis,Philippines,OZC,Asia
+4203,Legazpi City International Airport,Legazpi,Philippines,LGP,Asia
+4202,Laoag International Airport,Laoag,Philippines,LAO,Asia
+4201,Dipolog Airport,Dipolog,Philippines,DPL,Asia
+4200,Bancasi Airport,Butuan,Philippines,BXU,Asia
+4199,Francisco B. Reyes Airport,Busuanga,Philippines,USU,Asia
+4188,Dhangarhi Airport,Dhangarhi,Nepal,DHI,Asia
+4183,Tumling Tar Airport,Tumling Tar,Nepal,TMI,Asia
+4141,Sandakan Airport,Sandakan,Malaysia,SDK,Asia
+4135,Trat Airport,Trat,Thailand,TDX,Asia
+4130,Baghdad International Airport,Baghdad,Iraq,BGW,Asia
+4119,Djibouti-Ambouli Airport,Djibouti,Djibouti,JIB,Africa
+4095,Hawke's Bay Airport,NAPIER,New Zealand,NPE,Oceania
+4090,Francisco Bangoy International Airport,Davao,Philippines,DVO,Asia
+4077,Funafuti International Airport,Funafuti,Tuvalu,FUN,Oceania
+4062,Armidale Airport,Armidale,Australia,ARM,Oceania
+4056,Mulu Airport,Mulu,Malaysia,MZV,Asia
+4052,Hervey Bay Airport,Hervey Bay,Australia,HVB,Oceania
+4051,Kingscote Airport,Kingscote,Australia,KGC,Oceania
+4013,LTS Pulau Redang Airport,Redang,Malaysia,RDN,Asia
+4010,Ayers Rock Connellan Airport,Uluru,Australia,AYQ,Oceania
+4000,Surat Thani Airport,Surat Thani,Thailand,URT,Asia
+3999,Darwin International Airport,Darwin,Australia,DRW,Oceania
+3994,Tagbilaran Airport,Tagbilaran,Philippines,TAG,Asia
+3990,Emerald Airport,Emerald,Australia,EMD,Oceania
+3989,Erbil International Airport,Erbil,Iraq,EBL,Asia
+3984,Socotra International Airport,Socotra,Yemen,SCT,Asia
+3980,Sana'a International Airport,Sanaa,Yemen,SAH,Asia
+3979,Al Ghaidah International Airport,Al Ghaidah Intl,Yemen,AAY,Asia
+3978,Ataq Airport,Ataq,Yemen,AXK,Asia
+3977,Aden International Airport,Aden,Yemen,ADE,Asia
+3976,Hodeidah International Airport,Hodeidah,Yemen,HOD,Asia
+3975,Ta'izz International Airport,Taiz,Yemen,TAI,Asia
+3974,Mukalla International Airport,Mukalla,Yemen,RIY,Asia
+3968,Massawa International Airport,Massawa,Eritrea,MSW,Africa
+3967,Asmara International Airport,Asmara,Eritrea,ASM,Africa
+3940,Ngurah Rai (Bali) International Airport,Denpasar,Indonesia,DPS,Asia
+3939,Sukhothai Airport,Sukhothai,Thailand,THS,Asia
+3929,Adi Sumarmo Wiryokusumo Airport,Solo City,Indonesia,SOC,Asia
+3928,Juanda International Airport,Surabaya,Indonesia,SUB,Asia
+3927,Umbu Mehang Kunda Airport,Waingapu,Indonesia,WGP,Asia
+3924,Muhammad Salahuddin Airport,Bima,Indonesia,BMU,Asia
+3920,Juwata Airport,Taraken,Indonesia,TRK,Asia
+3919,Sultan Aji Muhamad Sulaiman Airport,Balikpapan,Indonesia,BPN,Asia
+3917,Komodo Airport,Labuhan Bajo,Indonesia,LBJ,Asia
+3916,El Tari Airport,Kupang,Indonesia,KOE,Asia
+3914,Ende (H Hasan Aroeboesman) Airport,Ende,Indonesia,ENE,Asia
+3913,Maumere(Wai Oti) Airport,Maumere,Indonesia,MOF,Asia
+3911,Tjilik Riwut Airport,Palangkaraya,Indonesia,PKY,Asia
+3910,Iskandar Airport,Pangkalan Bun,Indonesia,PKN,Asia
+3908,Syamsudin Noor Airport,Banjarmasin,Indonesia,BDJ,Asia
+3906,Raja Haji Fisabilillah International Airport,Tanjung Pinang,Indonesia,TNJ,Asia
+3905,Pangkal Pinang (Depati Amir) Airport,Pangkal Pinang,Indonesia,PGK,Asia
+3904,Buluh Tumbang (H A S Hanandjoeddin) Airport,Tanjung Pandan,Indonesia,TJQ,Asia
+3903,Hang Nadim International Airport,Batam,Indonesia,BTH,Asia
+3901,Achmad Yani Airport,Semarang,Indonesia,SRG,Asia
+3898,Adi Sutjipto International Airport,Yogyakarta,Indonesia,JOG,Asia
+3896,Husein Sastranegara International Airport,Bandung,Indonesia,BDO,Asia
+3894,Abdul Rachman Saleh Airport,Malang,Indonesia,MLG,Asia
+3890,Wolter Monginsidi Airport,Kendari,Indonesia,KDI,Asia
+3886,Naha Airport,Naha,Indonesia,NAH,Asia
+3885,Suvarnabhumi Airport,Bangkok,Thailand,BKK,Asia
+3410,Borg El Arab International Airport,Alexandria,Egypt,HBE,Africa
+3408,Sultan Abdul Aziz Shah International Airport,Kuala Lumpur,Malaysia,SZB,Asia
+3363,Wagga Wagga City Airport,Wagga Wagga,Australia,WGA,Oceania
+3362,Tamworth Airport,Tamworth,Australia,TMW,Oceania
+3361,Sydney Kingsford Smith International Airport,Sydney,Australia,SYD,Oceania
+3359,Norfolk Island International Airport,Norfolk Island,Norfolk Island,NLK,Oceania
+3358,Dubbo City Regional Airport,Dubbo,Australia,DBO,Oceania
+3356,Coffs Harbour Airport,Coff's Harbour,Australia,CFS,Oceania
+3355,Canberra International Airport,Canberra,Australia,CBR,Oceania
+3353,Christmas Island Airport,Christmas Island,Christmas Island,XCH,Asia
+3351,Perth International Airport,Perth,Australia,PER,Oceania
+3349,Port Hedland International Airport,Port Hedland,Australia,PHE,Oceania
+3348,Learmonth Airport,Learmonth,Australia,LEA,Oceania
+3347,Kununurra Airport,Kununurra,Australia,KNX,Oceania
+3346,Kalgoorlie Boulder Airport,Kalgoorlie,Australia,KGI,Oceania
+3345,Karratha Airport,Karratha,Australia,KTA,Oceania
+3341,Adelaide International Airport,Adelaide,Australia,ADL,Oceania
+3339,Melbourne International Airport,Melbourne,Australia,MEL,Oceania
+3337,Launceston Airport,Launceston,Australia,LST,Oceania
+3336,Hobart International Airport,Hobart,Australia,HBA,Oceania
+3334,Melbourne Essendon Airport,Melbourne,Australia,MEB,Oceania
+3333,Albury Airport,Albury,Australia,ABX,Oceania
+3332,Avalon Airport,Avalon,Australia,AVV,Oceania
+3331,Weipa Airport,Weipa,Australia,WEI,Oceania
+3330,Townsville Airport,Townsville,Australia,TSV,Oceania
+3329,Rockhampton Airport,Rockhampton,Australia,ROK,Oceania
+3328,Proserpine Whitsunday Coast Airport,Prosserpine,Australia,PPP,Oceania
+3326,Mackay Airport,Mackay,Australia,MKY,Oceania
+3325,Sunshine Coast Airport,Maroochydore,Australia,MCY,Oceania
+3324,Mount Isa Airport,Mount Isa,Australia,ISA,Oceania
+3323,Charleville Airport,Charlieville,Australia,CTL,Oceania
+3322,Cairns International Airport,Cairns,Australia,CNS,Oceania
+3321,Gold Coast Airport,Coolangatta,Australia,OOL,Oceania
+3320,Brisbane International Airport,Brisbane,Australia,BNE,Oceania
+3319,Alice Springs Airport,Alice Springs,Australia,ASP,Oceania
+3318,Northern Peninsula Airport,Amberley,Australia,ABM,Oceania
+3316,Singapore Changi Airport,Singapore,Singapore,SIN,Asia
+3310,Presidente Nicolau Lobato International Airport,Dili,East Timor,DIL,Asia
+3308,Penang International Airport,Penang,Malaysia,PEN,Asia
+3307,Sultan Mahmud Airport,Kuala Terengganu,Malaysia,TGG,Asia
+3305,Langkawi International Airport,Langkawi,Malaysia,LGK,Asia
+3304,Kuala Lumpur International Airport,Kuala Lumpur,Malaysia,KUL,Asia
+3303,Senai International Airport,Johor Bahru,Malaysia,JHB,Asia
+3302,Sultan Azlan Shah Airport,Ipoh,Malaysia,IPH,Asia
+3300,Kerteh Airport,Kerteh,Malaysia,KTE,Asia
+3299,Kuantan Airport,Kuantan,Malaysia,KUA,Asia
+3298,Sultan Ismail Petra Airport,Kota Bahru,Malaysia,KBR,Asia
+3296,Sultan Abdul Halim Airport,Alor Setar,Malaysia,AOR,Asia
+3294,Sultan Iskandar Muda International Airport,Banda Aceh,Indonesia,BTJ,Asia
+3289,Sultan Mahmud Badaruddin II Airport,Palembang,Indonesia,PLM,Asia
+3288,Fatmawati Soekarno Airport,Bengkulu,Indonesia,BKS,Asia
+3287,Sultan Thaha Airport,Jambi,Indonesia,DJB,Asia
+3284,Supadio Airport,Pontianak,Indonesia,PNK,Asia
+3282,Ketapang(Rahadi Usman) Airport,Ketapang,Indonesia,KTG,Asia
+3275,Soekarno-Hatta International Airport,Jakarta,Indonesia,CGK,Asia
+3273,Sultan Syarif Kasim Ii (Simpang Tiga) Airport,Pekanbaru,Indonesia,PKU,Asia
+3272,Brunei International Airport,Bandar Seri Begawan,Brunei,BWN,Asia
+3271,Tawau Airport,Tawau,Malaysia,TWU,Asia
+3270,Labuan Airport,Labuan,Malaysia,LBU,Asia
+3269,Kota Kinabalu International Airport,Kota Kinabalu,Malaysia,BKI,Asia
+3268,Lahad Datu Airport,Lahad Datu,Malaysia,LDU,Asia
+3267,Sibu Airport,Sibu,Malaysia,SBW,Asia
+3266,Miri Airport,Miri,Malaysia,MYY,Asia
+3265,Marudi Airport,Marudi,Malaysia,MUR,Asia
+3264,Limbang Airport,Limbang,Malaysia,LMN,Asia
+3263,Kuching International Airport,Kuching,Malaysia,KCH,Asia
+3262,Bintulu Airport,Bintulu,Malaysia,BTU,Asia
+3261,Dominique Edward Osok Airport,Sorong,Indonesia,SOQ,Asia
+3260,Rendani Airport,Manokwari,Indonesia,MKW,Asia
+3259,Babo Airport,Babo,Indonesia,BXB,Asia
+3258,Kaimana Airport,Kaimana,Indonesia,KNG,Asia
+3257,Fakfak Airport,Fak Fak,Indonesia,FKQ,Asia
+3256,"Pattimura Airport, Ambon",Ambon,Indonesia,AMQ,Asia
+3254,Syukuran Aminuddin Amir Airport,Luwuk,Indonesia,LUW,Asia
+3253,Sultan Khairun Babullah Airport,Ternate,Indonesia,TTE,Asia
+3251,Kasiguncu Airport,Poso,Indonesia,PSJ,Asia
+3250,Sam Ratulangi Airport,Manado,Indonesia,MDC,Asia
+3249,Mutiara Airport,Palu,Indonesia,PLW,Asia
+3247,Jalaluddin Airport,Gorontalo,Indonesia,GTO,Asia
+3246,Mopah Airport,Merauke,Indonesia,MKQ,Asia
+3245,Wamena Airport,Wamena,Indonesia,WMX,Asia
+3244,Sentani International Airport,Jayapura,Indonesia,DJJ,Asia
+3243,Moses Kilangin Airport,Timika,Indonesia,TIM,Asia
+3242,Nabire Airport,Nabire,Indonesia,NBX,Asia
+3241,Frans Kaisiepo Airport,Biak,Indonesia,BIK,Asia
+3240,Hasanuddin International Airport,Ujung Pandang,Indonesia,UPG,Asia
+3183,Udon Thani Airport,Udon Thani,Thailand,UTH,Asia
+3181,Hat Yai International Airport,Hat Yai,Thailand,HDY,Asia
+3179,Phuket International Airport,Phuket,Thailand,HKT,Asia
+3177,Samui Airport,Ko Samui,Thailand,USM,Asia
+3174,Krabi Airport,Krabi,Thailand,KBV,Asia
+3163,Lampang Airport,Lampang,Thailand,LPT,Asia
+3161,U-Tapao International Airport,Pattaya,Thailand,UTP,Asia
+3156,Malé International Airport,Male,Maldives,MLE,Asia
+3155,Paro Airport,Thimphu,Bhutan,PBH,Asia
+3153,Trivandrum International Airport,Trivandrum,India,TRV,Asia
+3152,Tiruchirapally Civil Airport Airport,Tiruchirappalli,India,TRZ,Asia
+3146,Vir Savarkar International Airport,Port Blair,India,IXZ,Asia
+3144,Chennai International Airport,Madras,India,MAA,Asia
+3143,Mangalore International Airport,Mangalore,India,IXE,Asia
+3142,Madurai Airport,Madurai,India,IXM,Asia
+3137,Calicut International Airport,Calicut,India,CCJ,Asia
+3136,Cochin International Airport,Kochi,India,COK,Asia
+3135,Coimbatore International Airport,Coimbatore,India,CJB,Asia
+3134,Vijayawada Airport,Vijayawada,India,VGA,Asia
+3131,Kempegowda International Airport,Bangalore,India,BLR,Asia
+3130,Agatti Airport,Agatti Island,India,AGX,Asia
+3129,Biratnagar Airport,Biratnagar,Nepal,BIR,Asia
+3127,Pokhara Airport,Pokhara,Nepal,PKR,Asia
+3125,Tribhuvan International Airport,Kathmandu,Nepal,KTM,Asia
+3122,Gautam Buddha Airport,Bhairawa,Nepal,BWA,Asia
+3112,Sheikh ul Alam Airport,Srinagar,India,SXR,Asia
+3105,Chaudhary Charan Singh International Airport,Lucknow,India,LKO,Asia
+3104,Leh Kushok Bakula Rimpochee Airport,Leh,India,IXL,Asia
+3103,Ludhiana Airport,Ludhiaha,India,LUH,Asia
+3101,Kanpur Civil Airport,Kanpur,India,\N,Asia
+3100,Jammu Airport,Jammu,India,IXJ,Asia
+3098,Jaipur International Airport,Jaipur,India,JAI,Asia
+3097,Jodhpur Airport,Jodhpur,India,JDH,Asia
+3094,Gwalior Airport,Gwalior,India,GWL,Asia
+3093,Indira Gandhi International Airport,Delhi,India,DEL,Asia
+3092,Dehradun Airport,Dehra Dun,India,DED,Asia
+3089,Chandigarh Airport,Chandigarh,India,IXC,Asia
+3085,Kullu Manali Airport,Kulu,India,KUU,Asia
+3084,Lal Bahadur Shastri Airport,Varanasi,India,VNS,Asia
+3081,Sri Guru Ram Dass Jee International Airport,Amritsar,India,ATQ,Asia
+3080,Allahabad Airport,Allahabad,India,IXD,Asia
+3079,Agra Airport,Agra,India,AGR,Asia
+3076,Hazrat Shahjalal International Airport,Dhaka,Bangladesh,DAC,Asia
+3074,Osmany International Airport,Sylhet Osmani,Bangladesh,ZYL,Asia
+3073,Saidpur Airport,Saidpur,Bangladesh,SPD,Asia
+3072,Shah Mokhdum Airport,Rajshahi,Bangladesh,RJH,Asia
+3071,Jessore Airport,Jessore,Bangladesh,JSR,Asia
+3069,Shah Amanat International Airport,Chittagong,Bangladesh,CGP,Asia
+3068,Cox's Bazar Airport,Cox's Bazar,Bangladesh,CXB,Asia
+3066,Vishakhapatnam Airport,Vishakhapatnam,India,VTZ,Asia
+3063,Birsa Munda Airport,Ranchi,India,IXR,Asia
+3061,Lok Nayak Jayaprakash Airport,Patina,India,PAT,Asia
+3057,Dibrugarh Airport,Mohanbari,India,DIB,Asia
+3055,Silchar Airport,Silchar,India,IXS,Asia
+3050,Imphal Airport,Imphal,India,IMF,Asia
+3043,Netaji Subhash Chandra Bose International Airport,Kolkata,India,CCU,Asia
+3042,Biju Patnaik Airport,Bhubaneswar,India,BBI,Asia
+3040,Bagdogra Airport,Baghdogra,India,IXB,Asia
+3039,Lengpui Airport,Aizwal,India,AJL,Asia
+3038,Agartala Airport,Agartala,India,IXA,Asia
+3030,China Bay Airport,Trinciomalee,Sri Lanka,TRR,Asia
+3024,Bandaranaike International Colombo Airport,Colombo,Sri Lanka,CMB,Asia
+3023,Maharana Pratap Airport,Udaipur,India,UDR,Asia
+3022,Surat Airport,Surat,India,STV,Asia
+3020,Raipur Airport,Raipur,India,RPR,Asia
+3019,Rajkot Airport,Rajkot,India,RAJ,Asia
+3018,Porbandar Airport,Porbandar,India,PBD,Asia
+3017,Pune Airport,Pune,India,PNQ,Asia
+3015,Dr. Babasaheb Ambedkar International Airport,Nagpur,India,NAG,Asia
+3012,Khajuraho Airport,Khajuraho,India,HJR,Asia
+3010,Jamnagar Airport,Jamnagar,India,JGA,Asia
+3009,Jabalpur Airport,Jabalpur,India,JLR,Asia
+3008,Devi Ahilyabai Holkar Airport,Indore,India,IDR,Asia
+3007,Dabolim Airport,Goa,India,GOI,Asia
+3003,Bhavnagar Airport,Bhaunagar,India,BHU,Asia
+3002,Raja Bhoj International Airport,Bhopal,India,BHO,Asia
+3001,Vadodara Airport,Baroda,India,BDQ,Asia
+3000,Belgaum Airport,Belgaum,India,IXG,Asia
+2999,Bhuj Airport,Bhuj,India,BHJ,Asia
+2997,Chhatrapati Shivaji International Airport,Mumbai,India,BOM,Asia
+2996,Aurangabad Airport,Aurangabad,India,IXU,Asia
+2994,Sardar Vallabhbhai Patel International Airport,Ahmedabad,India,AMD,Asia
+2433,Puerto Princesa Airport,Puerto Princesa,Philippines,PPS,Asia
+2429,Iloilo International Airport,Iloilo,Philippines,ILO,Asia
+2426,Godofredo P. Ramos Airport,Caticlan,Philippines,MPH,Asia
+2425,Sibulan Airport,Dumaguete,Philippines,DGT,Asia
+2423,Bacolod-Silay Airport,Bacolod,Philippines,BCD,Asia
+2422,Daniel Z. Romualdez Airport,Tacloban,Philippines,TAC,Asia
+2409,San Jose Airport,San Jose,Philippines,SJI,Asia
+2404,Zamboanga International Airport,Zamboanga,Philippines,ZAM,Asia
+2402,General Santos International Airport,Romblon,Philippines,GES,Asia
+2401,Pagadian Airport,Pagadian,Philippines,PAG,Asia
+2400,Cagayan De Oro Airport,Ladag,Philippines,\N,Asia
+2399,Awang Airport,Cotabato,Philippines,CBO,Asia
+2397,Ninoy Aquino International Airport,Manila,Philippines,MNL,Asia
+2252,Cassidy International Airport,Kiritimati,Kiribati,CXI,Asia
+2234,Basrah International Airport,Basrah,Iraq,BSR,Asia
+2233,Zhob Airport,Zhob,Pakistan,PZH,Asia
+2227,Sukkur Airport,Sukkur,Pakistan,SKZ,Asia
+2223,Benazir Bhutto International Airport,Islamabad,Pakistan,\N,Asia
+2222,Shaikh Zaid Airport,Rahim Yar Khan,Pakistan,RYK,Asia
+2221,Quetta International Airport,Quetta,Pakistan,UET,Asia
+2219,Peshawar International Airport,Peshawar,Pakistan,PEW,Asia
+2217,Panjgur Airport,Panjgur,Pakistan,PJG,Asia
+2214,Multan International Airport,Multan,Pakistan,MUX,Asia
+2212,Moenjodaro Airport,Moenjodaro,Pakistan,MJD,Asia
+2207,Alama Iqbal International Airport,Lahore,Pakistan,LHE,Asia
+2206,Jinnah International Airport,Karachi,Pakistan,KHI,Asia
+2204,Gilgit Airport,Gilgit,Pakistan,GIL,Asia
+2203,Gwadar International Airport,Gwadar,Pakistan,GWD,Asia
+2202,Faisalabad International Airport,Faisalabad,Pakistan,LYP,Asia
+2195,Salalah Airport,Salalah,Oman,SLL,Asia
+2194,Muscat International Airport,Muscat,Oman,MCT,Asia
+2192,Khasab Air Base,Khasab,Oman,KHS,Asia
+2191,Sharjah International Airport,Sharjah,United Arab Emirates,SHJ,Asia
+2189,Fujairah International Airport,Fujeirah,United Arab Emirates,FJR,Asia
+2188,Dubai International Airport,Dubai,United Arab Emirates,DXB,Asia
+2180,Bateen Airport,Abu Dhabi,United Arab Emirates,AZI,Asia
+2179,Abu Dhabi International Airport,Abu Dhabi,United Arab Emirates,AUH,Asia
+2177,Beirut Rafic Hariri International Airport,Beirut,Lebanon,BEY,Asia
+2176,Kuwait International Airport,Kuwait,Kuwait,KWI,Asia
+2172,Aqaba King Hussein International Airport,Aqaba,Jordan,AQJ,Asia
+2170,Queen Alia International Airport,Amman,Jordan,AMM,Asia
+2167,Zahedan International Airport,Zahedan,Iran,ZAH,Asia
+2166,Konarak Airport,Chah Bahar,Iran,ZBR,Asia
+2165,Zabol Airport,Zabol,Iran,ACZ,Asia
+2164,Shahid Sadooghi Airport,Yazd,Iran,AZD,Asia
+2162,Tabriz International Airport,Tabriz,Iran,TBZ,Asia
+2157,Shiraz Shahid Dastghaib International Airport,Shiraz,Iran,SYZ,Asia
+2151,Ramsar Airport,Ramsar,Iran,RZR,Asia
+2142,Birjand Airport,Birjand,Iran,XBJ,Asia
+2136,Kerman Airport,Kerman,Iran,KER,Asia
+2134,Bandar Abbas International Airport,Bandar Abbas,Iran,BND,Asia
+2131,Mehrabad International Airport,Teheran,Iran,THR,Asia
+2123,Sardar-e-Jangal Airport,Rasht,Iran,RAS,Asia
+2121,Esfahan Shahid Beheshti International Airport,Esfahan,Iran,IFN,Asia
+2117,Sanandaj Airport,Sanandaj,Iran,SDG,Asia
+2114,Shahid Ashrafi Esfahani Airport,Bakhtaran,Iran,KSH,Asia
+2110,Bandar Lengeh Airport,Bandar Lengeh,Iran,BDH,Asia
+2109,Kish International Airport,Kish Island,Iran,KIH,Asia
+2106,Bushehr Airport,Bushehr,Iran,BUZ,Asia
+2104,Ahwaz Airport,Ahwaz,Iran,AWZ,Asia
+2103,Mahshahr Airport,Bandar Mahshahr,Iran,MRX,Asia
+2097,Abadan Airport,Abadan,Iran,ABD,Asia
+2096,Prince Abdulmohsin Bin Abdulaziz Airport,Yenbo,Saudi Arabia,YNB,Asia
+2095,Al Wajh Domestic Airport,Wejh,Saudi Arabia,EJH,Asia
+2093,Turaif Domestic Airport,Turaif,Saudi Arabia,TUI,Asia
+2090,Ta’if Regional Airport,Taif,Saudi Arabia,TIF,Asia
+2089,Tabuk Airport,Tabuk,Saudi Arabia,TUU,Asia
+2086,Sharurah Airport,Sharurah,Saudi Arabia,SHW,Asia
+2084,Arar Domestic Airport,Arar,Saudi Arabia,RAE,Asia
+2082,King Khaled International Airport,Riyadh,Saudi Arabia,RUH,Asia
+2081,Rafha Domestic Airport,Rafha,Saudi Arabia,RAH,Asia
+2076,Al Qaisumah/Hafr Al Batin Airport,Hafr Al-batin,Saudi Arabia,AQI,Asia
+2075,Nejran Airport,Nejran,Saudi Arabia,EAM,Asia
+2074,Prince Mohammad Bin Abdulaziz Airport,Madinah,Saudi Arabia,MED,Asia
+2072,King Abdulaziz International Airport,Jeddah,Saudi Arabia,JED,Asia
+2069,Ha'il Airport,Hail,Saudi Arabia,HAS,Asia
+2068,Gurayat Domestic Airport,Guriat,Saudi Arabia,URY,Asia
+2067,Gassim Airport,Gassim,Saudi Arabia,ELQ,Asia
+2066,Jizan Regional Airport,Gizan,Saudi Arabia,GIZ,Asia
+2064,King Fahd International Airport,Dammam,Saudi Arabia,DMM,Asia
+2062,Bisha Airport,Bisha,Saudi Arabia,BHH,Asia
+2061,Al Baha Airport,El-baha,Saudi Arabia,ABT,Asia
+2060,Al Ahsa Airport,Al-ahsa,Saudi Arabia,HOF,Asia
+2059,Abha Regional Airport,Abha,Saudi Arabia,AHB,Asia
+2057,Bahrain International Airport,Bahrain,Bahrain,BAH,Asia
+2053,Mazar I Sharif Airport,Mazar-i-sharif,Afghanistan,MZR,Asia
+2051,Kandahar Airport,Kandahar,Afghanistan,KDH,Asia
+2050,Hamid Karzai International Airport,Kabul,Afghanistan,KBL,Asia
+2048,Herat Airport,Herat,Afghanistan,HEA,Asia
+2047,Wanganui Airport,Wanganui,New Zealand,WAG,Oceania
+2046,Westport Airport,Westport,New Zealand,WSZ,Oceania
+2045,Whangarei Airport,Whangarei,New Zealand,WRE,Oceania
+2042,Wellington International Airport,Wellington,New Zealand,WLG,Oceania
+2041,Whakatane Airport,Whakatane,New Zealand,WHK,Oceania
+2037,Woodbourne Airport,Woodbourne,New Zealand,BHE,Oceania
+2035,Timaru Airport,Timaru,New Zealand,TIU,Oceania
+2034,Tauranga Airport,Tauranga,New Zealand,TRG,Oceania
+2031,Rotorua Regional Airport,Rotorua,New Zealand,ROT,Oceania
+2030,Queenstown International Airport,Queenstown International,New Zealand,ZQN,Oceania
+2029,Paraparaumu Airport,Paraparaumu,New Zealand,PPQ,Oceania
+2028,Palmerston North Airport,Palmerston North,New Zealand,PMR,Oceania
+2025,Invercargill Airport,Invercargill,New Zealand,IVC,Oceania
+2024,Nelson Airport,Nelson,New Zealand,NSN,Oceania
+2023,New Plymouth Airport,New Plymouth,New Zealand,NPL,Oceania
+2018,Kaitaia Airport,Kaitaia,New Zealand,KAT,Oceania
+2017,Kerikeri Airport,Kerikeri,New Zealand,KKE,Oceania
+2015,Hamilton International Airport,Hamilton,New Zealand,HLZ,Oceania
+2014,Hokitika Airfield,Hokitika,New Zealand,HKK,Oceania
+2012,Gisborne Airport,Gisborne,New Zealand,GIS,Oceania
+2011,Dunedin Airport,Dunedin,New Zealand,DUD,Oceania
+2009,Christchurch International Airport,Christchurch,New Zealand,CHC,Oceania
+2007,Taupo Airport,Taupo,New Zealand,TUO,Oceania
+2006,Auckland International Airport,Auckland,New Zealand,AKL,Oceania
+2005,La Tontouta International Airport,Noumea,New Caledonia,NOU,Oceania
+1969,Faleolo International Airport,Faleolo,Samoa,APW,Oceania
+1968,Hihifo Airport,Wallis,Wallis and Futuna,WLS,Oceania
+1963,Fua'amotu International Airport,Tongatapu,Tonga,TBU,Africa
+1961,Nausori International Airport,Nausori,Fiji,SUV,Oceania
+1960,Nadi International Airport,Nandi,Fiji,NAN,Oceania
+1175,Khartoum International Airport,Khartoum,Sudan,KRT,Africa
+1169,El Fasher Airport,El Fasher,Sudan,ELF,Africa
+1162,Ghadames East Airport,Ghadames,Libya,LTD,Africa
+1157,Tripoli International Airport,Tripoli,Libya,TIP,Africa
+1154,Benina International Airport,Benghazi,Libya,BEN,Africa
+1153,Kufra Airport,Kufra,Libya,AKF,Africa
+1152,Ghat Airport,Ghat,Libya,GHT,Africa
+1149,Wajir Airport,Wajir,Kenya,WJR,Africa
+1136,Aswan International Airport,Aswan,Egypt,ASW,Africa
+1132,Luxor International Airport,Luxor,Egypt,LXR,Africa
+1128,Cairo International Airport,Cairo,Egypt,CAI,Africa
+1127,Abu Simbel Airport,Abu Simbel,Egypt,ABS,Africa
+1122,Berbera Airport,Berbera,Somalia,BBO,Africa
+1121,Egal International Airport,Hargeisa,Somalia,HGA,Africa
+295,Sfax Thyna International Airport,Sfax,Tunisia,SFA,Africa
+270,Mallam Aminu International Airport,Kano,Nigeria,KAN,Africa

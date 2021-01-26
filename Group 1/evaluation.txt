@@ -1,0 +1,7 @@
+group2 - 8
+group3 - 9
+group4 - 7 
+group5 - 8
+group6 - 7
+group7 - 8 
+group8 - 9 
